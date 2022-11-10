@@ -1,0 +1,2692 @@
+iteration number  1  of  1000
+chi-square difference is  1.1694671617691834
+higher chi-square is not accepted
+iteration number  2  of  1000
+lower chi-square
+iteration number  3  of  1000
+chi-square difference is  0.06147724715647751
+higher chi-square is not accepted
+iteration number  4  of  1000
+lower chi-square
+iteration number  5  of  1000
+lower chi-square
+iteration number  6  of  1000
+chi-square difference is  0.4933396914772765
+higher chi-square is not accepted
+iteration number  7  of  1000
+chi-square difference is  0.49488783253528634
+higher chi-square is not accepted
+iteration number  8  of  1000
+chi-square difference is  0.18266346707128855
+higher chi-square is accepted
+iteration number  9  of  1000
+lower chi-square
+iteration number  10  of  1000
+chi-square difference is  0.5925433741883315
+higher chi-square is not accepted
+iteration number  11  of  1000
+chi-square difference is  0.170327942352146
+higher chi-square is not accepted
+iteration number  12  of  1000
+lower chi-square
+iteration number  13  of  1000
+chi-square difference is  1.0645301088926238
+higher chi-square is not accepted
+iteration number  14  of  1000
+chi-square difference is  0.05902399032299144
+higher chi-square is not accepted
+iteration number  15  of  1000
+chi-square difference is  0.32162413906066334
+higher chi-square is not accepted
+iteration number  16  of  1000
+chi-square difference is  0.1125407111800425
+higher chi-square is not accepted
+iteration number  17  of  1000
+chi-square difference is  0.17127725627826562
+higher chi-square is not accepted
+iteration number  18  of  1000
+chi-square difference is  0.006358131453070737
+higher chi-square is not accepted
+iteration number  19  of  1000
+chi-square difference is  0.03691539892120188
+higher chi-square is not accepted
+iteration number  20  of  1000
+chi-square difference is  0.04518556918319039
+higher chi-square is not accepted
+iteration number  21  of  1000
+chi-square difference is  0.12213833134749441
+higher chi-square is not accepted
+iteration number  22  of  1000
+chi-square difference is  0.3201619555770163
+higher chi-square is not accepted
+iteration number  23  of  1000
+chi-square difference is  0.22062334937933414
+higher chi-square is not accepted
+iteration number  24  of  1000
+chi-square difference is  0.572099014638991
+higher chi-square is not accepted
+iteration number  25  of  1000
+lower chi-square
+iteration number  26  of  1000
+chi-square difference is  0.06901215958325091
+higher chi-square is not accepted
+iteration number  27  of  1000
+chi-square difference is  0.3940858765980022
+higher chi-square is not accepted
+iteration number  28  of  1000
+chi-square difference is  0.11608319264420874
+higher chi-square is accepted
+iteration number  29  of  1000
+chi-square difference is  0.07700722434689444
+higher chi-square is not accepted
+iteration number  30  of  1000
+chi-square difference is  0.35522382672870245
+higher chi-square is accepted
+iteration number  31  of  1000
+lower chi-square
+iteration number  32  of  1000
+chi-square difference is  0.5024073015168713
+higher chi-square is not accepted
+iteration number  33  of  1000
+chi-square difference is  0.03719445393247778
+higher chi-square is not accepted
+iteration number  34  of  1000
+chi-square difference is  0.024451509239425295
+higher chi-square is not accepted
+iteration number  35  of  1000
+chi-square difference is  0.008591196004251067
+higher chi-square is not accepted
+iteration number  36  of  1000
+chi-square difference is  0.01789843290422599
+higher chi-square is not accepted
+iteration number  37  of  1000
+chi-square difference is  5.58793732798587
+higher chi-square is accepted
+iteration number  38  of  1000
+chi-square difference is  0.8261577631048684
+higher chi-square is not accepted
+iteration number  39  of  1000
+lower chi-square
+iteration number  40  of  1000
+chi-square difference is  3.3781140611649105
+higher chi-square is accepted
+iteration number  41  of  1000
+lower chi-square
+iteration number  42  of  1000
+chi-square difference is  1.8287912398349633
+higher chi-square is accepted
+iteration number  43  of  1000
+lower chi-square
+iteration number  44  of  1000
+chi-square difference is  0.683227106813284
+higher chi-square is not accepted
+iteration number  45  of  1000
+lower chi-square
+iteration number  46  of  1000
+lower chi-square
+iteration number  47  of  1000
+chi-square difference is  1.8860098060271913
+higher chi-square is not accepted
+iteration number  48  of  1000
+chi-square difference is  0.954143242293024
+higher chi-square is not accepted
+iteration number  49  of  1000
+chi-square difference is  0.3388047861808925
+higher chi-square is not accepted
+iteration number  50  of  1000
+lower chi-square
+iteration number  51  of  1000
+chi-square difference is  1.4804903371112332
+higher chi-square is accepted
+iteration number  52  of  1000
+lower chi-square
+iteration number  53  of  1000
+lower chi-square
+iteration number  54  of  1000
+lower chi-square
+iteration number  55  of  1000
+chi-square difference is  0.08578148238892513
+higher chi-square is not accepted
+iteration number  56  of  1000
+chi-square difference is  0.06770378621928108
+higher chi-square is accepted
+iteration number  57  of  1000
+chi-square difference is  0.07208568030905793
+higher chi-square is not accepted
+iteration number  58  of  1000
+chi-square difference is  1.0365402315881327
+higher chi-square is not accepted
+iteration number  59  of  1000
+chi-square difference is  0.9692870191216554
+higher chi-square is not accepted
+iteration number  60  of  1000
+chi-square difference is  0.8700921531767025
+higher chi-square is not accepted
+iteration number  61  of  1000
+lower chi-square
+iteration number  62  of  1000
+chi-square difference is  0.0764189583925492
+higher chi-square is not accepted
+iteration number  63  of  1000
+chi-square difference is  0.024466474610272293
+higher chi-square is not accepted
+iteration number  64  of  1000
+lower chi-square
+iteration number  65  of  1000
+chi-square difference is  0.18279497288942137
+higher chi-square is not accepted
+iteration number  66  of  1000
+chi-square difference is  0.07052241458795905
+higher chi-square is not accepted
+iteration number  67  of  1000
+chi-square difference is  0.41363143449275075
+higher chi-square is not accepted
+iteration number  68  of  1000
+chi-square difference is  0.051530386203627376
+higher chi-square is not accepted
+iteration number  69  of  1000
+chi-square difference is  0.030252456951151974
+higher chi-square is not accepted
+iteration number  70  of  1000
+chi-square difference is  0.02209868942238513
+higher chi-square is not accepted
+iteration number  71  of  1000
+chi-square difference is  0.05324320186883824
+higher chi-square is not accepted
+iteration number  72  of  1000
+chi-square difference is  0.1476824355905979
+higher chi-square is not accepted
+iteration number  73  of  1000
+chi-square difference is  0.23045076235891448
+higher chi-square is not accepted
+iteration number  74  of  1000
+chi-square difference is  0.059253138160099805
+higher chi-square is not accepted
+iteration number  75  of  1000
+chi-square difference is  0.17177715845771102
+higher chi-square is not accepted
+iteration number  76  of  1000
+chi-square difference is  0.8435053354538513
+higher chi-square is not accepted
+iteration number  77  of  1000
+chi-square difference is  0.12018243783725824
+higher chi-square is not accepted
+iteration number  78  of  1000
+chi-square difference is  0.0553798884242962
+higher chi-square is not accepted
+iteration number  79  of  1000
+chi-square difference is  0.004811547192725474
+higher chi-square is not accepted
+iteration number  80  of  1000
+chi-square difference is  0.07957005905002612
+higher chi-square is not accepted
+iteration number  81  of  1000
+chi-square difference is  0.11181850260381454
+higher chi-square is not accepted
+iteration number  82  of  1000
+chi-square difference is  0.0026776855803190003
+higher chi-square is not accepted
+iteration number  83  of  1000
+chi-square difference is  0.01454903817806752
+higher chi-square is not accepted
+iteration number  84  of  1000
+lower chi-square
+iteration number  85  of  1000
+chi-square difference is  1.9490544864181083
+higher chi-square is accepted
+iteration number  86  of  1000
+chi-square difference is  0.4640546922315192
+higher chi-square is not accepted
+iteration number  87  of  1000
+lower chi-square
+iteration number  88  of  1000
+lower chi-square
+iteration number  89  of  1000
+chi-square difference is  0.29386393632241825
+higher chi-square is accepted
+iteration number  90  of  1000
+chi-square difference is  1.0822699950530512
+higher chi-square is not accepted
+iteration number  91  of  1000
+chi-square difference is  0.5566762471283573
+higher chi-square is not accepted
+iteration number  92  of  1000
+lower chi-square
+iteration number  93  of  1000
+chi-square difference is  0.005446965297650319
+higher chi-square is not accepted
+iteration number  94  of  1000
+chi-square difference is  0.09282107307789911
+higher chi-square is not accepted
+iteration number  95  of  1000
+chi-square difference is  0.018937588366604974
+higher chi-square is not accepted
+iteration number  96  of  1000
+chi-square difference is  0.12388401243381875
+higher chi-square is not accepted
+iteration number  97  of  1000
+chi-square difference is  0.2232529862224828
+higher chi-square is not accepted
+iteration number  98  of  1000
+chi-square difference is  0.10240084340947053
+higher chi-square is not accepted
+iteration number  99  of  1000
+chi-square difference is  0.4962505348126838
+higher chi-square is not accepted
+iteration number  100  of  1000
+chi-square difference is  0.030549534299629144
+higher chi-square is not accepted
+iteration number  101  of  1000
+chi-square difference is  0.1573847009307312
+higher chi-square is not accepted
+iteration number  102  of  1000
+chi-square difference is  0.24627378897937646
+higher chi-square is not accepted
+iteration number  103  of  1000
+chi-square difference is  0.24428695690023838
+higher chi-square is not accepted
+iteration number  104  of  1000
+chi-square difference is  0.1422561460459293
+higher chi-square is not accepted
+iteration number  105  of  1000
+chi-square difference is  0.42403644246858674
+higher chi-square is accepted
+iteration number  106  of  1000
+lower chi-square
+iteration number  107  of  1000
+lower chi-square
+iteration number  108  of  1000
+chi-square difference is  0.18203627886902973
+higher chi-square is not accepted
+iteration number  109  of  1000
+chi-square difference is  0.23822824472375181
+higher chi-square is not accepted
+iteration number  110  of  1000
+lower chi-square
+iteration number  111  of  1000
+chi-square difference is  0.011639435863679992
+higher chi-square is not accepted
+iteration number  112  of  1000
+chi-square difference is  0.3625034573911905
+higher chi-square is not accepted
+iteration number  113  of  1000
+chi-square difference is  2.2435410936981284
+higher chi-square is accepted
+iteration number  114  of  1000
+chi-square difference is  1.1504468579191922
+higher chi-square is not accepted
+iteration number  115  of  1000
+lower chi-square
+iteration number  116  of  1000
+lower chi-square
+iteration number  117  of  1000
+lower chi-square
+iteration number  118  of  1000
+lower chi-square
+iteration number  119  of  1000
+chi-square difference is  1.9032512729033555
+higher chi-square is accepted
+iteration number  120  of  1000
+lower chi-square
+iteration number  121  of  1000
+lower chi-square
+iteration number  122  of  1000
+chi-square difference is  2.984584076268913
+higher chi-square is not accepted
+iteration number  123  of  1000
+chi-square difference is  1.0263374212391883
+higher chi-square is not accepted
+iteration number  124  of  1000
+lower chi-square
+iteration number  125  of  1000
+lower chi-square
+iteration number  126  of  1000
+chi-square difference is  0.025085572400340705
+higher chi-square is not accepted
+iteration number  127  of  1000
+chi-square difference is  0.05568472924293966
+higher chi-square is not accepted
+iteration number  128  of  1000
+chi-square difference is  0.05388535963141905
+higher chi-square is not accepted
+iteration number  129  of  1000
+chi-square difference is  0.5919780060695197
+higher chi-square is not accepted
+iteration number  130  of  1000
+chi-square difference is  0.3193935710037108
+higher chi-square is not accepted
+iteration number  131  of  1000
+chi-square difference is  0.5002027379064766
+higher chi-square is not accepted
+iteration number  132  of  1000
+chi-square difference is  0.08016987116720609
+higher chi-square is not accepted
+iteration number  133  of  1000
+lower chi-square
+iteration number  134  of  1000
+chi-square difference is  0.005363599252780293
+higher chi-square is not accepted
+iteration number  135  of  1000
+chi-square difference is  1.1859719630427143
+higher chi-square is accepted
+iteration number  136  of  1000
+chi-square difference is  0.4952749887644341
+higher chi-square is accepted
+iteration number  137  of  1000
+chi-square difference is  0.21277651285343158
+higher chi-square is not accepted
+iteration number  138  of  1000
+chi-square difference is  0.937905308060869
+higher chi-square is not accepted
+iteration number  139  of  1000
+chi-square difference is  0.5775900984915898
+higher chi-square is not accepted
+iteration number  140  of  1000
+lower chi-square
+iteration number  141  of  1000
+chi-square difference is  0.08900860718158032
+higher chi-square is not accepted
+iteration number  142  of  1000
+chi-square difference is  0.02388764185240788
+higher chi-square is not accepted
+iteration number  143  of  1000
+chi-square difference is  0.9250417671624271
+higher chi-square is not accepted
+iteration number  144  of  1000
+lower chi-square
+iteration number  145  of  1000
+lower chi-square
+iteration number  146  of  1000
+chi-square difference is  0.4370080322736607
+higher chi-square is not accepted
+iteration number  147  of  1000
+lower chi-square
+iteration number  148  of  1000
+chi-square difference is  0.4070273369719244
+higher chi-square is not accepted
+iteration number  149  of  1000
+lower chi-square
+iteration number  150  of  1000
+lower chi-square
+iteration number  151  of  1000
+chi-square difference is  0.594735774601963
+higher chi-square is not accepted
+iteration number  152  of  1000
+lower chi-square
+iteration number  153  of  1000
+chi-square difference is  0.25138153029698973
+higher chi-square is not accepted
+iteration number  154  of  1000
+chi-square difference is  0.3419867004558408
+higher chi-square is not accepted
+iteration number  155  of  1000
+lower chi-square
+iteration number  156  of  1000
+chi-square difference is  0.028467954253436734
+higher chi-square is not accepted
+iteration number  157  of  1000
+chi-square difference is  0.3277075071153379
+higher chi-square is not accepted
+iteration number  158  of  1000
+chi-square difference is  0.1186048082091764
+higher chi-square is not accepted
+iteration number  159  of  1000
+chi-square difference is  0.09827978078987742
+higher chi-square is not accepted
+iteration number  160  of  1000
+chi-square difference is  0.04502305026513076
+higher chi-square is not accepted
+iteration number  161  of  1000
+chi-square difference is  0.21400900334465067
+higher chi-square is not accepted
+iteration number  162  of  1000
+chi-square difference is  0.43230765103986446
+higher chi-square is not accepted
+iteration number  163  of  1000
+chi-square difference is  0.06863985269180217
+higher chi-square is not accepted
+iteration number  164  of  1000
+lower chi-square
+iteration number  165  of  1000
+chi-square difference is  0.04101353738204594
+higher chi-square is not accepted
+iteration number  166  of  1000
+chi-square difference is  0.04262398039515425
+higher chi-square is not accepted
+iteration number  167  of  1000
+lower chi-square
+iteration number  168  of  1000
+chi-square difference is  0.16232272418617377
+higher chi-square is not accepted
+iteration number  169  of  1000
+chi-square difference is  0.1231761349046887
+higher chi-square is not accepted
+iteration number  170  of  1000
+chi-square difference is  1.1073409368472436
+higher chi-square is not accepted
+iteration number  171  of  1000
+chi-square difference is  0.15918398064174788
+higher chi-square is not accepted
+iteration number  172  of  1000
+chi-square difference is  0.04290817542929393
+higher chi-square is not accepted
+iteration number  173  of  1000
+chi-square difference is  0.03135082434058312
+higher chi-square is not accepted
+iteration number  174  of  1000
+chi-square difference is  0.8536769948976484
+higher chi-square is accepted
+iteration number  175  of  1000
+chi-square difference is  0.43335276554930946
+higher chi-square is not accepted
+iteration number  176  of  1000
+chi-square difference is  2.8950781078801224
+higher chi-square is not accepted
+iteration number  177  of  1000
+lower chi-square
+iteration number  178  of  1000
+chi-square difference is  0.33019181810790776
+higher chi-square is accepted
+iteration number  179  of  1000
+chi-square difference is  2.662357027962576
+higher chi-square is not accepted
+iteration number  180  of  1000
+lower chi-square
+iteration number  181  of  1000
+chi-square difference is  0.23955028519538413
+higher chi-square is not accepted
+iteration number  182  of  1000
+chi-square difference is  0.17666078204970503
+higher chi-square is not accepted
+iteration number  183  of  1000
+chi-square difference is  0.021366029735702785
+higher chi-square is not accepted
+iteration number  184  of  1000
+chi-square difference is  0.43486218982779423
+higher chi-square is not accepted
+iteration number  185  of  1000
+lower chi-square
+iteration number  186  of  1000
+chi-square difference is  0.27818545216423374
+higher chi-square is not accepted
+iteration number  187  of  1000
+lower chi-square
+iteration number  188  of  1000
+chi-square difference is  0.7631520542774992
+higher chi-square is not accepted
+iteration number  189  of  1000
+chi-square difference is  1.0035776539906602
+higher chi-square is accepted
+iteration number  190  of  1000
+chi-square difference is  0.19897780426865497
+higher chi-square is not accepted
+iteration number  191  of  1000
+chi-square difference is  1.2641352676521822
+higher chi-square is not accepted
+iteration number  192  of  1000
+chi-square difference is  3.134320711228788
+higher chi-square is accepted
+iteration number  193  of  1000
+lower chi-square
+iteration number  194  of  1000
+lower chi-square
+iteration number  195  of  1000
+lower chi-square
+iteration number  196  of  1000
+chi-square difference is  0.2621754957815168
+higher chi-square is not accepted
+iteration number  197  of  1000
+chi-square difference is  1.3044888859445969
+higher chi-square is not accepted
+iteration number  198  of  1000
+chi-square difference is  0.11301899867484488
+higher chi-square is not accepted
+iteration number  199  of  1000
+lower chi-square
+iteration number  200  of  1000
+chi-square difference is  1.0629678449624507
+higher chi-square is accepted
+iteration number  201  of  1000
+chi-square difference is  0.6206487215957224
+higher chi-square is not accepted
+iteration number  202  of  1000
+lower chi-square
+iteration number  203  of  1000
+lower chi-square
+iteration number  204  of  1000
+chi-square difference is  0.019265662196365163
+higher chi-square is not accepted
+iteration number  205  of  1000
+chi-square difference is  0.4391667161131214
+higher chi-square is accepted
+iteration number  206  of  1000
+lower chi-square
+iteration number  207  of  1000
+lower chi-square
+iteration number  208  of  1000
+lower chi-square
+iteration number  209  of  1000
+chi-square difference is  0.017266703590879562
+higher chi-square is not accepted
+iteration number  210  of  1000
+chi-square difference is  0.12604228012206287
+higher chi-square is not accepted
+iteration number  211  of  1000
+chi-square difference is  0.17990208671798502
+higher chi-square is not accepted
+iteration number  212  of  1000
+chi-square difference is  0.00916223155632645
+higher chi-square is not accepted
+iteration number  213  of  1000
+lower chi-square
+iteration number  214  of  1000
+chi-square difference is  0.12654478068263142
+higher chi-square is not accepted
+iteration number  215  of  1000
+chi-square difference is  0.8793197814129643
+higher chi-square is accepted
+iteration number  216  of  1000
+lower chi-square
+iteration number  217  of  1000
+lower chi-square
+iteration number  218  of  1000
+chi-square difference is  0.00036469283930884444
+higher chi-square is not accepted
+iteration number  219  of  1000
+lower chi-square
+iteration number  220  of  1000
+lower chi-square
+iteration number  221  of  1000
+chi-square difference is  2.5835125664137393
+higher chi-square is accepted
+iteration number  222  of  1000
+lower chi-square
+iteration number  223  of  1000
+lower chi-square
+iteration number  224  of  1000
+lower chi-square
+iteration number  225  of  1000
+chi-square difference is  0.014645384235193681
+higher chi-square is not accepted
+iteration number  226  of  1000
+chi-square difference is  1.0822909348990457
+higher chi-square is not accepted
+iteration number  227  of  1000
+lower chi-square
+iteration number  228  of  1000
+chi-square difference is  0.1989878109738763
+higher chi-square is not accepted
+iteration number  229  of  1000
+chi-square difference is  0.4624382200183179
+higher chi-square is accepted
+iteration number  230  of  1000
+lower chi-square
+iteration number  231  of  1000
+chi-square difference is  0.0006720357042024894
+higher chi-square is not accepted
+iteration number  232  of  1000
+chi-square difference is  0.40918407875680796
+higher chi-square is not accepted
+iteration number  233  of  1000
+lower chi-square
+iteration number  234  of  1000
+chi-square difference is  0.6738732968575096
+higher chi-square is not accepted
+iteration number  235  of  1000
+chi-square difference is  0.3492079701988513
+higher chi-square is not accepted
+iteration number  236  of  1000
+chi-square difference is  0.3778890579816854
+higher chi-square is accepted
+iteration number  237  of  1000
+chi-square difference is  2.3309314968152184
+higher chi-square is accepted
+iteration number  238  of  1000
+lower chi-square
+iteration number  239  of  1000
+chi-square difference is  1.670835790035282
+higher chi-square is not accepted
+iteration number  240  of  1000
+lower chi-square
+iteration number  241  of  1000
+lower chi-square
+iteration number  242  of  1000
+chi-square difference is  3.0502762745305874
+higher chi-square is accepted
+iteration number  243  of  1000
+chi-square difference is  0.9852298107615667
+higher chi-square is accepted
+iteration number  244  of  1000
+lower chi-square
+iteration number  245  of  1000
+lower chi-square
+iteration number  246  of  1000
+lower chi-square
+iteration number  247  of  1000
+chi-square difference is  0.45221667748458794
+higher chi-square is accepted
+iteration number  248  of  1000
+lower chi-square
+iteration number  249  of  1000
+chi-square difference is  0.0923920884730749
+higher chi-square is not accepted
+iteration number  250  of  1000
+chi-square difference is  0.4144229497179728
+higher chi-square is not accepted
+iteration number  251  of  1000
+chi-square difference is  0.0884128868185945
+higher chi-square is not accepted
+iteration number  252  of  1000
+lower chi-square
+iteration number  253  of  1000
+chi-square difference is  0.26657135065065196
+higher chi-square is not accepted
+iteration number  254  of  1000
+chi-square difference is  0.788462532797988
+higher chi-square is accepted
+iteration number  255  of  1000
+lower chi-square
+iteration number  256  of  1000
+lower chi-square
+iteration number  257  of  1000
+chi-square difference is  0.5648302799735596
+higher chi-square is not accepted
+iteration number  258  of  1000
+chi-square difference is  0.038005499743495985
+higher chi-square is not accepted
+iteration number  259  of  1000
+chi-square difference is  0.08174117837222727
+higher chi-square is not accepted
+iteration number  260  of  1000
+chi-square difference is  0.5929584211399077
+higher chi-square is accepted
+iteration number  261  of  1000
+lower chi-square
+iteration number  262  of  1000
+chi-square difference is  1.0589459187979515
+higher chi-square is not accepted
+iteration number  263  of  1000
+chi-square difference is  1.5851050255937427
+higher chi-square is accepted
+iteration number  264  of  1000
+lower chi-square
+iteration number  265  of  1000
+lower chi-square
+iteration number  266  of  1000
+chi-square difference is  0.4079014603239157
+higher chi-square is not accepted
+iteration number  267  of  1000
+chi-square difference is  0.18558458512286657
+higher chi-square is not accepted
+iteration number  268  of  1000
+lower chi-square
+iteration number  269  of  1000
+chi-square difference is  0.06561087596665516
+higher chi-square is not accepted
+iteration number  270  of  1000
+chi-square difference is  0.03935749945818001
+higher chi-square is not accepted
+iteration number  271  of  1000
+chi-square difference is  0.11578282432657128
+higher chi-square is not accepted
+iteration number  272  of  1000
+chi-square difference is  0.23791569889176012
+higher chi-square is not accepted
+iteration number  273  of  1000
+lower chi-square
+iteration number  274  of  1000
+chi-square difference is  0.023393776547455225
+higher chi-square is not accepted
+iteration number  275  of  1000
+chi-square difference is  0.37052011274465935
+higher chi-square is not accepted
+iteration number  276  of  1000
+chi-square difference is  0.23001902781770944
+higher chi-square is not accepted
+iteration number  277  of  1000
+chi-square difference is  0.13848374517898465
+higher chi-square is not accepted
+iteration number  278  of  1000
+chi-square difference is  0.027802217097759208
+higher chi-square is not accepted
+iteration number  279  of  1000
+chi-square difference is  0.20089969466366098
+higher chi-square is not accepted
+iteration number  280  of  1000
+chi-square difference is  0.49026881869312655
+higher chi-square is not accepted
+iteration number  281  of  1000
+chi-square difference is  0.23414857488062912
+higher chi-square is not accepted
+iteration number  282  of  1000
+chi-square difference is  0.007655606654099145
+higher chi-square is not accepted
+iteration number  283  of  1000
+chi-square difference is  0.4418332648141421
+higher chi-square is not accepted
+iteration number  284  of  1000
+chi-square difference is  0.1935826841457562
+higher chi-square is not accepted
+iteration number  285  of  1000
+chi-square difference is  0.08594942479784651
+higher chi-square is not accepted
+iteration number  286  of  1000
+chi-square difference is  0.025651669803760324
+higher chi-square is not accepted
+iteration number  287  of  1000
+chi-square difference is  0.03426007365743189
+higher chi-square is not accepted
+iteration number  288  of  1000
+chi-square difference is  0.8954279788706629
+higher chi-square is not accepted
+iteration number  289  of  1000
+lower chi-square
+iteration number  290  of  1000
+chi-square difference is  0.014347043795849057
+higher chi-square is not accepted
+iteration number  291  of  1000
+chi-square difference is  0.8221277820893862
+higher chi-square is not accepted
+iteration number  292  of  1000
+chi-square difference is  0.1496336047170348
+higher chi-square is not accepted
+iteration number  293  of  1000
+chi-square difference is  0.061033724277449686
+higher chi-square is not accepted
+iteration number  294  of  1000
+chi-square difference is  0.09524372684146387
+higher chi-square is not accepted
+iteration number  295  of  1000
+chi-square difference is  0.030412768512994237
+higher chi-square is not accepted
+iteration number  296  of  1000
+chi-square difference is  0.020286034678163922
+higher chi-square is not accepted
+iteration number  297  of  1000
+chi-square difference is  0.08599726605406133
+higher chi-square is not accepted
+iteration number  298  of  1000
+lower chi-square
+iteration number  299  of  1000
+chi-square difference is  0.5800366909986723
+higher chi-square is not accepted
+iteration number  300  of  1000
+chi-square difference is  0.08774312520815819
+higher chi-square is not accepted
+iteration number  301  of  1000
+chi-square difference is  0.006910804158772876
+higher chi-square is not accepted
+iteration number  302  of  1000
+chi-square difference is  0.15320869424983252
+higher chi-square is not accepted
+iteration number  303  of  1000
+chi-square difference is  0.0920583009739322
+higher chi-square is not accepted
+iteration number  304  of  1000
+chi-square difference is  0.13622325784983724
+higher chi-square is accepted
+iteration number  305  of  1000
+chi-square difference is  0.6497379280506479
+higher chi-square is not accepted
+iteration number  306  of  1000
+chi-square difference is  1.2042237616033091
+higher chi-square is not accepted
+iteration number  307  of  1000
+lower chi-square
+iteration number  308  of  1000
+chi-square difference is  0.032150843446949295
+higher chi-square is not accepted
+iteration number  309  of  1000
+chi-square difference is  0.05646994890572321
+higher chi-square is not accepted
+iteration number  310  of  1000
+lower chi-square
+iteration number  311  of  1000
+chi-square difference is  0.3678606765275907
+higher chi-square is not accepted
+iteration number  312  of  1000
+chi-square difference is  0.9255980049181156
+higher chi-square is not accepted
+iteration number  313  of  1000
+chi-square difference is  0.15358000873654065
+higher chi-square is not accepted
+iteration number  314  of  1000
+chi-square difference is  0.011352826241943337
+higher chi-square is accepted
+iteration number  315  of  1000
+lower chi-square
+iteration number  316  of  1000
+chi-square difference is  0.3055821578576787
+higher chi-square is not accepted
+iteration number  317  of  1000
+chi-square difference is  0.8004847091730749
+higher chi-square is accepted
+iteration number  318  of  1000
+chi-square difference is  5.572102826791493
+higher chi-square is accepted
+iteration number  319  of  1000
+lower chi-square
+iteration number  320  of  1000
+lower chi-square
+iteration number  321  of  1000
+lower chi-square
+iteration number  322  of  1000
+lower chi-square
+iteration number  323  of  1000
+chi-square difference is  0.4964872568531775
+higher chi-square is not accepted
+iteration number  324  of  1000
+chi-square difference is  1.8233569480898226
+higher chi-square is not accepted
+iteration number  325  of  1000
+lower chi-square
+iteration number  326  of  1000
+lower chi-square
+iteration number  327  of  1000
+chi-square difference is  0.8945911889542599
+higher chi-square is accepted
+iteration number  328  of  1000
+lower chi-square
+iteration number  329  of  1000
+chi-square difference is  3.9569981215517
+higher chi-square is accepted
+iteration number  330  of  1000
+chi-square difference is  3.268727611950938
+higher chi-square is accepted
+iteration number  331  of  1000
+lower chi-square
+iteration number  332  of  1000
+lower chi-square
+iteration number  333  of  1000
+lower chi-square
+iteration number  334  of  1000
+lower chi-square
+iteration number  335  of  1000
+lower chi-square
+iteration number  336  of  1000
+chi-square difference is  0.13795659006768757
+higher chi-square is not accepted
+iteration number  337  of  1000
+chi-square difference is  0.04716582247189516
+higher chi-square is not accepted
+iteration number  338  of  1000
+lower chi-square
+iteration number  339  of  1000
+chi-square difference is  0.13422435862626436
+higher chi-square is not accepted
+iteration number  340  of  1000
+chi-square difference is  0.8527575118851178
+higher chi-square is not accepted
+iteration number  341  of  1000
+chi-square difference is  0.1534214059218737
+higher chi-square is not accepted
+iteration number  342  of  1000
+lower chi-square
+iteration number  343  of  1000
+chi-square difference is  0.043011282005092966
+higher chi-square is not accepted
+iteration number  344  of  1000
+chi-square difference is  0.4203805866417176
+higher chi-square is accepted
+iteration number  345  of  1000
+lower chi-square
+iteration number  346  of  1000
+lower chi-square
+iteration number  347  of  1000
+chi-square difference is  0.01964331755020865
+higher chi-square is not accepted
+iteration number  348  of  1000
+lower chi-square
+iteration number  349  of  1000
+lower chi-square
+iteration number  350  of  1000
+chi-square difference is  0.02961238110108022
+higher chi-square is not accepted
+iteration number  351  of  1000
+chi-square difference is  0.04253811845471178
+higher chi-square is not accepted
+iteration number  352  of  1000
+chi-square difference is  0.9531360128653525
+higher chi-square is not accepted
+iteration number  353  of  1000
+chi-square difference is  0.09654737136667713
+higher chi-square is not accepted
+iteration number  354  of  1000
+chi-square difference is  0.01433472185437168
+higher chi-square is not accepted
+iteration number  355  of  1000
+chi-square difference is  0.09390462670860211
+higher chi-square is not accepted
+iteration number  356  of  1000
+lower chi-square
+iteration number  357  of  1000
+chi-square difference is  0.26666126483711317
+higher chi-square is not accepted
+iteration number  358  of  1000
+chi-square difference is  0.012268199408524971
+higher chi-square is not accepted
+iteration number  359  of  1000
+lower chi-square
+iteration number  360  of  1000
+chi-square difference is  0.33833997087020284
+higher chi-square is accepted
+iteration number  361  of  1000
+lower chi-square
+iteration number  362  of  1000
+lower chi-square
+iteration number  363  of  1000
+chi-square difference is  0.30408631455237156
+higher chi-square is not accepted
+iteration number  364  of  1000
+chi-square difference is  0.2519523351783519
+higher chi-square is not accepted
+iteration number  365  of  1000
+chi-square difference is  0.16199233192489615
+higher chi-square is not accepted
+iteration number  366  of  1000
+chi-square difference is  0.25956429996344443
+higher chi-square is not accepted
+iteration number  367  of  1000
+chi-square difference is  0.19925883371141007
+higher chi-square is not accepted
+iteration number  368  of  1000
+lower chi-square
+iteration number  369  of  1000
+chi-square difference is  0.29338369337480863
+higher chi-square is not accepted
+iteration number  370  of  1000
+chi-square difference is  0.5730175811806926
+higher chi-square is not accepted
+iteration number  371  of  1000
+chi-square difference is  0.017202132327462483
+higher chi-square is not accepted
+iteration number  372  of  1000
+chi-square difference is  0.08599468249029085
+higher chi-square is not accepted
+iteration number  373  of  1000
+chi-square difference is  0.02401655014811155
+higher chi-square is not accepted
+iteration number  374  of  1000
+chi-square difference is  0.05742876141104425
+higher chi-square is not accepted
+iteration number  375  of  1000
+chi-square difference is  0.14905384703704172
+higher chi-square is not accepted
+iteration number  376  of  1000
+chi-square difference is  0.14176940189158538
+higher chi-square is not accepted
+iteration number  377  of  1000
+chi-square difference is  0.030881206220148005
+higher chi-square is not accepted
+iteration number  378  of  1000
+chi-square difference is  0.18194387247849653
+higher chi-square is not accepted
+iteration number  379  of  1000
+chi-square difference is  0.6060973422530469
+higher chi-square is accepted
+iteration number  380  of  1000
+chi-square difference is  0.6467166270138236
+higher chi-square is not accepted
+iteration number  381  of  1000
+lower chi-square
+iteration number  382  of  1000
+chi-square difference is  0.10249803090600196
+higher chi-square is not accepted
+iteration number  383  of  1000
+lower chi-square
+iteration number  384  of  1000
+chi-square difference is  0.2878438307684559
+higher chi-square is not accepted
+iteration number  385  of  1000
+chi-square difference is  0.03809562988801751
+higher chi-square is not accepted
+iteration number  386  of  1000
+chi-square difference is  0.06763029637200146
+higher chi-square is not accepted
+iteration number  387  of  1000
+chi-square difference is  0.2586610807342198
+higher chi-square is not accepted
+iteration number  388  of  1000
+chi-square difference is  0.06525579925437075
+higher chi-square is not accepted
+iteration number  389  of  1000
+chi-square difference is  0.06877634268736665
+higher chi-square is not accepted
+iteration number  390  of  1000
+chi-square difference is  0.09335562917193752
+higher chi-square is accepted
+iteration number  391  of  1000
+chi-square difference is  1.5305666072980353
+higher chi-square is accepted
+iteration number  392  of  1000
+chi-square difference is  4.080938489658202
+higher chi-square is not accepted
+iteration number  393  of  1000
+chi-square difference is  1.0180674581385611
+higher chi-square is not accepted
+iteration number  394  of  1000
+chi-square difference is  2.756656877156792
+higher chi-square is accepted
+iteration number  395  of  1000
+chi-square difference is  1.0541815104106496
+higher chi-square is not accepted
+iteration number  396  of  1000
+chi-square difference is  0.14317407954594596
+higher chi-square is not accepted
+iteration number  397  of  1000
+lower chi-square
+iteration number  398  of  1000
+chi-square difference is  2.688144907418228
+higher chi-square is accepted
+iteration number  399  of  1000
+lower chi-square
+iteration number  400  of  1000
+chi-square difference is  1.1656081125151951
+higher chi-square is not accepted
+iteration number  401  of  1000
+lower chi-square
+iteration number  402  of  1000
+chi-square difference is  6.653110397442742
+higher chi-square is accepted
+iteration number  403  of  1000
+lower chi-square
+iteration number  404  of  1000
+lower chi-square
+iteration number  405  of  1000
+lower chi-square
+iteration number  406  of  1000
+chi-square difference is  0.7267838768431218
+higher chi-square is not accepted
+iteration number  407  of  1000
+chi-square difference is  0.21396292023211583
+higher chi-square is not accepted
+iteration number  408  of  1000
+chi-square difference is  0.9487640321351174
+higher chi-square is not accepted
+iteration number  409  of  1000
+chi-square difference is  0.2869470905840772
+higher chi-square is accepted
+iteration number  410  of  1000
+chi-square difference is  1.8888061817605317
+higher chi-square is accepted
+iteration number  411  of  1000
+lower chi-square
+iteration number  412  of  1000
+chi-square difference is  2.323910239191142
+higher chi-square is accepted
+iteration number  413  of  1000
+lower chi-square
+iteration number  414  of  1000
+lower chi-square
+iteration number  415  of  1000
+chi-square difference is  2.180883227769094
+higher chi-square is accepted
+iteration number  416  of  1000
+lower chi-square
+iteration number  417  of  1000
+lower chi-square
+iteration number  418  of  1000
+lower chi-square
+iteration number  419  of  1000
+lower chi-square
+iteration number  420  of  1000
+lower chi-square
+iteration number  421  of  1000
+lower chi-square
+iteration number  422  of  1000
+chi-square difference is  0.010818270884727976
+higher chi-square is not accepted
+iteration number  423  of  1000
+chi-square difference is  0.0011115118539071212
+higher chi-square is not accepted
+iteration number  424  of  1000
+chi-square difference is  0.4594009171658615
+higher chi-square is not accepted
+iteration number  425  of  1000
+chi-square difference is  0.02295532664862998
+higher chi-square is not accepted
+iteration number  426  of  1000
+chi-square difference is  0.01633505166744076
+higher chi-square is not accepted
+iteration number  427  of  1000
+chi-square difference is  0.11827520065273855
+higher chi-square is not accepted
+iteration number  428  of  1000
+chi-square difference is  0.006540525871637115
+higher chi-square is not accepted
+iteration number  429  of  1000
+chi-square difference is  0.23515931514770827
+higher chi-square is not accepted
+iteration number  430  of  1000
+chi-square difference is  0.8501461280388143
+higher chi-square is accepted
+iteration number  431  of  1000
+chi-square difference is  0.13344978180486455
+higher chi-square is not accepted
+iteration number  432  of  1000
+lower chi-square
+iteration number  433  of  1000
+lower chi-square
+iteration number  434  of  1000
+chi-square difference is  0.34638452183072443
+higher chi-square is not accepted
+iteration number  435  of  1000
+lower chi-square
+iteration number  436  of  1000
+lower chi-square
+iteration number  437  of  1000
+chi-square difference is  1.8022933929805598
+higher chi-square is not accepted
+iteration number  438  of  1000
+lower chi-square
+iteration number  439  of  1000
+chi-square difference is  0.006100954825751792
+higher chi-square is not accepted
+iteration number  440  of  1000
+chi-square difference is  0.3343961401135216
+higher chi-square is not accepted
+iteration number  441  of  1000
+chi-square difference is  0.009484236633588772
+higher chi-square is not accepted
+iteration number  442  of  1000
+lower chi-square
+iteration number  443  of  1000
+chi-square difference is  0.012034703844044259
+higher chi-square is not accepted
+iteration number  444  of  1000
+chi-square difference is  0.027123507555332882
+higher chi-square is not accepted
+iteration number  445  of  1000
+lower chi-square
+iteration number  446  of  1000
+chi-square difference is  0.03665756180266033
+higher chi-square is not accepted
+iteration number  447  of  1000
+chi-square difference is  0.19715089364756633
+higher chi-square is not accepted
+iteration number  448  of  1000
+chi-square difference is  0.5870938779246448
+higher chi-square is not accepted
+iteration number  449  of  1000
+chi-square difference is  0.053160967334793696
+higher chi-square is not accepted
+iteration number  450  of  1000
+chi-square difference is  0.25127823155198037
+higher chi-square is not accepted
+iteration number  451  of  1000
+chi-square difference is  0.2672899458786264
+higher chi-square is not accepted
+iteration number  452  of  1000
+lower chi-square
+iteration number  453  of  1000
+lower chi-square
+iteration number  454  of  1000
+chi-square difference is  0.1699940991240383
+higher chi-square is not accepted
+iteration number  455  of  1000
+chi-square difference is  0.18189187753149927
+higher chi-square is not accepted
+iteration number  456  of  1000
+chi-square difference is  0.7893955592357367
+higher chi-square is not accepted
+iteration number  457  of  1000
+chi-square difference is  0.07711508730300132
+higher chi-square is not accepted
+iteration number  458  of  1000
+chi-square difference is  0.717228378298592
+higher chi-square is accepted
+iteration number  459  of  1000
+lower chi-square
+iteration number  460  of  1000
+lower chi-square
+iteration number  461  of  1000
+chi-square difference is  0.9691878886815513
+higher chi-square is accepted
+iteration number  462  of  1000
+lower chi-square
+iteration number  463  of  1000
+lower chi-square
+iteration number  464  of  1000
+lower chi-square
+iteration number  465  of  1000
+chi-square difference is  0.5965035321446561
+higher chi-square is not accepted
+iteration number  466  of  1000
+chi-square difference is  0.2135914162300807
+higher chi-square is not accepted
+iteration number  467  of  1000
+lower chi-square
+iteration number  468  of  1000
+chi-square difference is  0.05725871333385957
+higher chi-square is not accepted
+iteration number  469  of  1000
+lower chi-square
+iteration number  470  of  1000
+chi-square difference is  0.03315722246306141
+higher chi-square is not accepted
+iteration number  471  of  1000
+chi-square difference is  0.2212539692059532
+higher chi-square is not accepted
+iteration number  472  of  1000
+chi-square difference is  0.03095914424333923
+higher chi-square is not accepted
+iteration number  473  of  1000
+chi-square difference is  0.40932722686454914
+higher chi-square is not accepted
+iteration number  474  of  1000
+chi-square difference is  0.3659122762460245
+higher chi-square is not accepted
+iteration number  475  of  1000
+chi-square difference is  0.4435990717348588
+higher chi-square is not accepted
+iteration number  476  of  1000
+chi-square difference is  0.0205702475048839
+higher chi-square is not accepted
+iteration number  477  of  1000
+chi-square difference is  0.029588106943966075
+higher chi-square is not accepted
+iteration number  478  of  1000
+chi-square difference is  0.0009780918922897008
+higher chi-square is not accepted
+iteration number  479  of  1000
+lower chi-square
+iteration number  480  of  1000
+chi-square difference is  0.01933840664833575
+higher chi-square is not accepted
+iteration number  481  of  1000
+chi-square difference is  0.05855022822886369
+higher chi-square is not accepted
+iteration number  482  of  1000
+chi-square difference is  0.02240884953384814
+higher chi-square is not accepted
+iteration number  483  of  1000
+chi-square difference is  0.2714770719659514
+higher chi-square is not accepted
+iteration number  484  of  1000
+chi-square difference is  0.4680068126719137
+higher chi-square is not accepted
+iteration number  485  of  1000
+chi-square difference is  0.14924302472907902
+higher chi-square is accepted
+iteration number  486  of  1000
+lower chi-square
+iteration number  487  of  1000
+lower chi-square
+iteration number  488  of  1000
+chi-square difference is  1.7107115840912068
+higher chi-square is not accepted
+iteration number  489  of  1000
+chi-square difference is  0.19455053335915462
+higher chi-square is not accepted
+iteration number  490  of  1000
+chi-square difference is  0.004965273002952575
+higher chi-square is not accepted
+iteration number  491  of  1000
+chi-square difference is  0.7856223781725711
+higher chi-square is accepted
+iteration number  492  of  1000
+lower chi-square
+iteration number  493  of  1000
+lower chi-square
+iteration number  494  of  1000
+lower chi-square
+iteration number  495  of  1000
+chi-square difference is  8.710418010850935
+higher chi-square is accepted
+iteration number  496  of  1000
+lower chi-square
+iteration number  497  of  1000
+lower chi-square
+iteration number  498  of  1000
+lower chi-square
+iteration number  499  of  1000
+chi-square difference is  4.105505086083654
+higher chi-square is accepted
+iteration number  500  of  1000
+lower chi-square
+iteration number  501  of  1000
+lower chi-square
+iteration number  502  of  1000
+lower chi-square
+iteration number  503  of  1000
+chi-square difference is  0.4076018642525079
+higher chi-square is accepted
+iteration number  504  of  1000
+lower chi-square
+iteration number  505  of  1000
+lower chi-square
+iteration number  506  of  1000
+lower chi-square
+iteration number  507  of  1000
+lower chi-square
+iteration number  508  of  1000
+chi-square difference is  0.15864923483232607
+higher chi-square is not accepted
+iteration number  509  of  1000
+lower chi-square
+iteration number  510  of  1000
+chi-square difference is  0.1291520806214952
+higher chi-square is not accepted
+iteration number  511  of  1000
+chi-square difference is  0.10079633765951668
+higher chi-square is not accepted
+iteration number  512  of  1000
+lower chi-square
+iteration number  513  of  1000
+chi-square difference is  0.23164770778139765
+higher chi-square is not accepted
+iteration number  514  of  1000
+lower chi-square
+iteration number  515  of  1000
+chi-square difference is  0.19005643408943396
+higher chi-square is not accepted
+iteration number  516  of  1000
+chi-square difference is  0.011193515164399148
+higher chi-square is not accepted
+iteration number  517  of  1000
+chi-square difference is  0.030418271007680797
+higher chi-square is not accepted
+iteration number  518  of  1000
+lower chi-square
+iteration number  519  of  1000
+chi-square difference is  0.2351265496658872
+higher chi-square is not accepted
+iteration number  520  of  1000
+lower chi-square
+iteration number  521  of  1000
+chi-square difference is  0.010844975087804354
+higher chi-square is not accepted
+iteration number  522  of  1000
+chi-square difference is  0.6559716218074927
+higher chi-square is not accepted
+iteration number  523  of  1000
+chi-square difference is  0.0235586801057881
+higher chi-square is not accepted
+iteration number  524  of  1000
+chi-square difference is  0.23094677217200354
+higher chi-square is not accepted
+iteration number  525  of  1000
+chi-square difference is  2.932871643482201
+higher chi-square is accepted
+iteration number  526  of  1000
+lower chi-square
+iteration number  527  of  1000
+lower chi-square
+iteration number  528  of  1000
+chi-square difference is  0.39536770894797746
+higher chi-square is not accepted
+iteration number  529  of  1000
+chi-square difference is  0.33142058965872145
+higher chi-square is not accepted
+iteration number  530  of  1000
+chi-square difference is  0.1467960079008983
+higher chi-square is not accepted
+iteration number  531  of  1000
+chi-square difference is  0.06827372779697916
+higher chi-square is not accepted
+iteration number  532  of  1000
+chi-square difference is  0.20852256646200118
+higher chi-square is not accepted
+iteration number  533  of  1000
+lower chi-square
+iteration number  534  of  1000
+chi-square difference is  0.043864363210726065
+higher chi-square is not accepted
+iteration number  535  of  1000
+chi-square difference is  0.013662411256067042
+higher chi-square is not accepted
+iteration number  536  of  1000
+chi-square difference is  0.12292301429970198
+higher chi-square is not accepted
+iteration number  537  of  1000
+chi-square difference is  0.16289173974729598
+higher chi-square is not accepted
+iteration number  538  of  1000
+chi-square difference is  0.033632681378412244
+higher chi-square is not accepted
+iteration number  539  of  1000
+chi-square difference is  0.3239965108745455
+higher chi-square is not accepted
+iteration number  540  of  1000
+chi-square difference is  0.11501709104366631
+higher chi-square is not accepted
+iteration number  541  of  1000
+chi-square difference is  0.025283106510356035
+higher chi-square is not accepted
+iteration number  542  of  1000
+chi-square difference is  0.023424475316874638
+higher chi-square is not accepted
+iteration number  543  of  1000
+chi-square difference is  0.030304451701005597
+higher chi-square is not accepted
+iteration number  544  of  1000
+chi-square difference is  0.12635100910706143
+higher chi-square is not accepted
+iteration number  545  of  1000
+lower chi-square
+iteration number  546  of  1000
+chi-square difference is  0.35716684640058727
+higher chi-square is not accepted
+iteration number  547  of  1000
+lower chi-square
+iteration number  548  of  1000
+chi-square difference is  0.026623585928521987
+higher chi-square is not accepted
+iteration number  549  of  1000
+chi-square difference is  0.2532383253381587
+higher chi-square is not accepted
+iteration number  550  of  1000
+chi-square difference is  0.43133988709686255
+higher chi-square is not accepted
+iteration number  551  of  1000
+chi-square difference is  0.4831377658092042
+higher chi-square is not accepted
+iteration number  552  of  1000
+lower chi-square
+iteration number  553  of  1000
+chi-square difference is  0.046571327336884405
+higher chi-square is not accepted
+iteration number  554  of  1000
+chi-square difference is  0.3164049574656249
+higher chi-square is not accepted
+iteration number  555  of  1000
+chi-square difference is  0.04084236356573934
+higher chi-square is not accepted
+iteration number  556  of  1000
+chi-square difference is  0.013111489530438725
+higher chi-square is not accepted
+iteration number  557  of  1000
+chi-square difference is  1.782851117323084
+higher chi-square is accepted
+iteration number  558  of  1000
+chi-square difference is  2.842334200231006
+higher chi-square is accepted
+iteration number  559  of  1000
+lower chi-square
+iteration number  560  of  1000
+chi-square difference is  5.1661224376406665
+higher chi-square is accepted
+iteration number  561  of  1000
+lower chi-square
+iteration number  562  of  1000
+lower chi-square
+iteration number  563  of  1000
+lower chi-square
+iteration number  564  of  1000
+lower chi-square
+iteration number  565  of  1000
+chi-square difference is  0.014687895123257189
+higher chi-square is not accepted
+iteration number  566  of  1000
+chi-square difference is  0.012514728518438378
+higher chi-square is not accepted
+iteration number  567  of  1000
+chi-square difference is  0.016701970950022904
+higher chi-square is not accepted
+iteration number  568  of  1000
+chi-square difference is  0.23917302540182117
+higher chi-square is not accepted
+iteration number  569  of  1000
+chi-square difference is  0.2132679025681643
+higher chi-square is not accepted
+iteration number  570  of  1000
+chi-square difference is  0.037518562835582525
+higher chi-square is not accepted
+iteration number  571  of  1000
+chi-square difference is  0.03494540078574726
+higher chi-square is not accepted
+iteration number  572  of  1000
+chi-square difference is  0.32086588433842334
+higher chi-square is not accepted
+iteration number  573  of  1000
+chi-square difference is  0.0035519540912369862
+higher chi-square is not accepted
+iteration number  574  of  1000
+chi-square difference is  0.006245336964910031
+higher chi-square is not accepted
+iteration number  575  of  1000
+chi-square difference is  0.8754267321593079
+higher chi-square is accepted
+iteration number  576  of  1000
+lower chi-square
+iteration number  577  of  1000
+lower chi-square
+iteration number  578  of  1000
+chi-square difference is  0.027156146499107692
+higher chi-square is not accepted
+iteration number  579  of  1000
+chi-square difference is  0.27669936219198954
+higher chi-square is not accepted
+iteration number  580  of  1000
+chi-square difference is  0.03306193542425495
+higher chi-square is not accepted
+iteration number  581  of  1000
+chi-square difference is  0.05145167738625478
+higher chi-square is not accepted
+iteration number  582  of  1000
+chi-square difference is  0.1747491109608701
+higher chi-square is not accepted
+iteration number  583  of  1000
+chi-square difference is  0.009117425859255679
+higher chi-square is not accepted
+iteration number  584  of  1000
+chi-square difference is  0.9435518806708458
+higher chi-square is not accepted
+iteration number  585  of  1000
+chi-square difference is  0.32193717535327293
+higher chi-square is accepted
+iteration number  586  of  1000
+chi-square difference is  4.365532418511644
+higher chi-square is not accepted
+iteration number  587  of  1000
+chi-square difference is  0.15375539952458528
+higher chi-square is not accepted
+iteration number  588  of  1000
+lower chi-square
+iteration number  589  of  1000
+chi-square difference is  0.40215515018983083
+higher chi-square is not accepted
+iteration number  590  of  1000
+chi-square difference is  0.8116397824469712
+higher chi-square is not accepted
+iteration number  591  of  1000
+chi-square difference is  0.7671401167592742
+higher chi-square is not accepted
+iteration number  592  of  1000
+chi-square difference is  0.09521139864320372
+higher chi-square is not accepted
+iteration number  593  of  1000
+lower chi-square
+iteration number  594  of  1000
+chi-square difference is  0.06478767486008064
+higher chi-square is accepted
+iteration number  595  of  1000
+lower chi-square
+iteration number  596  of  1000
+chi-square difference is  0.011212391895110141
+higher chi-square is not accepted
+iteration number  597  of  1000
+chi-square difference is  0.014657924046178383
+higher chi-square is not accepted
+iteration number  598  of  1000
+chi-square difference is  0.20878041143481996
+higher chi-square is not accepted
+iteration number  599  of  1000
+lower chi-square
+iteration number  600  of  1000
+chi-square difference is  0.8122908944214107
+higher chi-square is accepted
+iteration number  601  of  1000
+lower chi-square
+iteration number  602  of  1000
+chi-square difference is  0.8996539388420968
+higher chi-square is not accepted
+iteration number  603  of  1000
+chi-square difference is  5.203853591550287
+higher chi-square is accepted
+iteration number  604  of  1000
+lower chi-square
+iteration number  605  of  1000
+lower chi-square
+iteration number  606  of  1000
+lower chi-square
+iteration number  607  of  1000
+chi-square difference is  0.4080130411056655
+higher chi-square is not accepted
+iteration number  608  of  1000
+chi-square difference is  0.20720925865829232
+higher chi-square is not accepted
+iteration number  609  of  1000
+chi-square difference is  0.39844840084285504
+higher chi-square is not accepted
+iteration number  610  of  1000
+chi-square difference is  0.8338088936053962
+higher chi-square is not accepted
+iteration number  611  of  1000
+lower chi-square
+iteration number  612  of  1000
+chi-square difference is  0.24562509689998624
+higher chi-square is not accepted
+iteration number  613  of  1000
+chi-square difference is  0.008952346256957622
+higher chi-square is not accepted
+iteration number  614  of  1000
+chi-square difference is  0.18378452248091692
+higher chi-square is not accepted
+iteration number  615  of  1000
+chi-square difference is  0.02827858269745054
+higher chi-square is not accepted
+iteration number  616  of  1000
+chi-square difference is  0.6567800008427733
+higher chi-square is not accepted
+iteration number  617  of  1000
+chi-square difference is  0.025499353574439443
+higher chi-square is not accepted
+iteration number  618  of  1000
+chi-square difference is  0.10882725897699697
+higher chi-square is not accepted
+iteration number  619  of  1000
+chi-square difference is  0.019346072655622937
+higher chi-square is not accepted
+iteration number  620  of  1000
+chi-square difference is  0.07258019301925955
+higher chi-square is not accepted
+iteration number  621  of  1000
+chi-square difference is  0.42199839014730056
+higher chi-square is not accepted
+iteration number  622  of  1000
+chi-square difference is  0.643212598830706
+higher chi-square is accepted
+iteration number  623  of  1000
+lower chi-square
+iteration number  624  of  1000
+chi-square difference is  0.014292727079352474
+higher chi-square is not accepted
+iteration number  625  of  1000
+chi-square difference is  0.01023808995396136
+higher chi-square is not accepted
+iteration number  626  of  1000
+lower chi-square
+iteration number  627  of  1000
+lower chi-square
+iteration number  628  of  1000
+chi-square difference is  0.385078441172952
+higher chi-square is not accepted
+iteration number  629  of  1000
+chi-square difference is  0.08715300919906621
+higher chi-square is not accepted
+iteration number  630  of  1000
+chi-square difference is  0.0033102572115941697
+higher chi-square is not accepted
+iteration number  631  of  1000
+lower chi-square
+iteration number  632  of  1000
+chi-square difference is  0.024894745699333587
+higher chi-square is not accepted
+iteration number  633  of  1000
+chi-square difference is  0.43663169903502075
+higher chi-square is not accepted
+iteration number  634  of  1000
+chi-square difference is  0.06557606045660291
+higher chi-square is not accepted
+iteration number  635  of  1000
+chi-square difference is  0.17022169532244202
+higher chi-square is not accepted
+iteration number  636  of  1000
+chi-square difference is  0.36747194706375064
+higher chi-square is not accepted
+iteration number  637  of  1000
+chi-square difference is  0.4360451627087052
+higher chi-square is not accepted
+iteration number  638  of  1000
+chi-square difference is  0.046199651241800144
+higher chi-square is not accepted
+iteration number  639  of  1000
+chi-square difference is  0.13761535411203818
+higher chi-square is not accepted
+iteration number  640  of  1000
+chi-square difference is  0.21184594461771455
+higher chi-square is not accepted
+iteration number  641  of  1000
+chi-square difference is  1.1559152295415092
+higher chi-square is accepted
+iteration number  642  of  1000
+chi-square difference is  5.208637629590253
+higher chi-square is accepted
+iteration number  643  of  1000
+lower chi-square
+iteration number  644  of  1000
+chi-square difference is  4.1995023414468315
+higher chi-square is accepted
+iteration number  645  of  1000
+lower chi-square
+iteration number  646  of  1000
+lower chi-square
+iteration number  647  of  1000
+lower chi-square
+iteration number  648  of  1000
+lower chi-square
+iteration number  649  of  1000
+chi-square difference is  0.17638998068509082
+higher chi-square is not accepted
+iteration number  650  of  1000
+chi-square difference is  0.028155380767519222
+higher chi-square is not accepted
+iteration number  651  of  1000
+chi-square difference is  0.2325192843320596
+higher chi-square is not accepted
+iteration number  652  of  1000
+lower chi-square
+iteration number  653  of  1000
+chi-square difference is  0.07023092743064119
+higher chi-square is not accepted
+iteration number  654  of  1000
+chi-square difference is  0.01918086431688648
+higher chi-square is not accepted
+iteration number  655  of  1000
+chi-square difference is  0.37448940352000504
+higher chi-square is not accepted
+iteration number  656  of  1000
+chi-square difference is  0.05110967990958315
+higher chi-square is not accepted
+iteration number  657  of  1000
+lower chi-square
+iteration number  658  of  1000
+chi-square difference is  0.024934872329090307
+higher chi-square is not accepted
+iteration number  659  of  1000
+chi-square difference is  0.013389096356110741
+higher chi-square is not accepted
+iteration number  660  of  1000
+lower chi-square
+iteration number  661  of  1000
+chi-square difference is  0.11053565736182946
+higher chi-square is not accepted
+iteration number  662  of  1000
+chi-square difference is  0.10274858856712887
+higher chi-square is not accepted
+iteration number  663  of  1000
+chi-square difference is  0.0699705341237542
+higher chi-square is not accepted
+iteration number  664  of  1000
+chi-square difference is  0.029024384612335474
+higher chi-square is not accepted
+iteration number  665  of  1000
+chi-square difference is  0.18895892625602562
+higher chi-square is not accepted
+iteration number  666  of  1000
+chi-square difference is  0.25452835328307
+higher chi-square is not accepted
+iteration number  667  of  1000
+chi-square difference is  0.013466999111944933
+higher chi-square is not accepted
+iteration number  668  of  1000
+chi-square difference is  0.21024744544250185
+higher chi-square is not accepted
+iteration number  669  of  1000
+chi-square difference is  0.8485797665794532
+higher chi-square is accepted
+iteration number  670  of  1000
+chi-square difference is  0.39644027125096004
+higher chi-square is not accepted
+iteration number  671  of  1000
+lower chi-square
+iteration number  672  of  1000
+chi-square difference is  1.1511501972645712
+higher chi-square is accepted
+iteration number  673  of  1000
+lower chi-square
+iteration number  674  of  1000
+chi-square difference is  0.4887374840372778
+higher chi-square is not accepted
+iteration number  675  of  1000
+lower chi-square
+iteration number  676  of  1000
+lower chi-square
+iteration number  677  of  1000
+chi-square difference is  0.18826803195712927
+higher chi-square is accepted
+iteration number  678  of  1000
+chi-square difference is  0.48366810878749344
+higher chi-square is accepted
+iteration number  679  of  1000
+chi-square difference is  0.2988174622789863
+higher chi-square is not accepted
+iteration number  680  of  1000
+lower chi-square
+iteration number  681  of  1000
+chi-square difference is  1.3131605530108703
+higher chi-square is accepted
+iteration number  682  of  1000
+lower chi-square
+iteration number  683  of  1000
+lower chi-square
+iteration number  684  of  1000
+lower chi-square
+iteration number  685  of  1000
+chi-square difference is  0.3653619221357487
+higher chi-square is not accepted
+iteration number  686  of  1000
+chi-square difference is  0.05575788542872573
+higher chi-square is not accepted
+iteration number  687  of  1000
+lower chi-square
+iteration number  688  of  1000
+chi-square difference is  0.4994157686232459
+higher chi-square is accepted
+iteration number  689  of  1000
+lower chi-square
+iteration number  690  of  1000
+chi-square difference is  2.339387315722883
+higher chi-square is accepted
+iteration number  691  of  1000
+chi-square difference is  0.3312273016883154
+higher chi-square is not accepted
+iteration number  692  of  1000
+chi-square difference is  0.5171526578703016
+higher chi-square is not accepted
+iteration number  693  of  1000
+lower chi-square
+iteration number  694  of  1000
+chi-square difference is  4.793108000983831
+higher chi-square is accepted
+iteration number  695  of  1000
+lower chi-square
+iteration number  696  of  1000
+chi-square difference is  3.0738813443654163
+higher chi-square is accepted
+iteration number  697  of  1000
+lower chi-square
+iteration number  698  of  1000
+lower chi-square
+iteration number  699  of  1000
+lower chi-square
+iteration number  700  of  1000
+lower chi-square
+iteration number  701  of  1000
+lower chi-square
+iteration number  702  of  1000
+chi-square difference is  0.02198850661165741
+higher chi-square is not accepted
+iteration number  703  of  1000
+lower chi-square
+iteration number  704  of  1000
+chi-square difference is  0.013132654904743468
+higher chi-square is not accepted
+iteration number  705  of  1000
+chi-square difference is  0.07022684138501623
+higher chi-square is not accepted
+iteration number  706  of  1000
+chi-square difference is  0.15108540796103176
+higher chi-square is not accepted
+iteration number  707  of  1000
+chi-square difference is  1.5577784846363598
+higher chi-square is accepted
+iteration number  708  of  1000
+chi-square difference is  2.3082526895424698
+higher chi-square is accepted
+iteration number  709  of  1000
+lower chi-square
+iteration number  710  of  1000
+lower chi-square
+iteration number  711  of  1000
+chi-square difference is  1.6659063318928728
+higher chi-square is not accepted
+iteration number  712  of  1000
+lower chi-square
+iteration number  713  of  1000
+chi-square difference is  4.83940058773058e-05
+higher chi-square is not accepted
+iteration number  714  of  1000
+chi-square difference is  1.3767993801397687
+higher chi-square is not accepted
+iteration number  715  of  1000
+chi-square difference is  0.9599454942659338
+higher chi-square is not accepted
+iteration number  716  of  1000
+chi-square difference is  0.03304284385579592
+higher chi-square is not accepted
+iteration number  717  of  1000
+chi-square difference is  0.19704565802013407
+higher chi-square is not accepted
+iteration number  718  of  1000
+chi-square difference is  0.822312404911099
+higher chi-square is not accepted
+iteration number  719  of  1000
+chi-square difference is  0.006742141103286414
+higher chi-square is not accepted
+iteration number  720  of  1000
+chi-square difference is  0.52420866569115
+higher chi-square is not accepted
+iteration number  721  of  1000
+lower chi-square
+iteration number  722  of  1000
+chi-square difference is  0.4400141775612463
+higher chi-square is not accepted
+iteration number  723  of  1000
+chi-square difference is  0.18371773553265225
+higher chi-square is not accepted
+iteration number  724  of  1000
+chi-square difference is  0.034861754753870766
+higher chi-square is not accepted
+iteration number  725  of  1000
+lower chi-square
+iteration number  726  of  1000
+lower chi-square
+iteration number  727  of  1000
+chi-square difference is  0.15386936402797202
+higher chi-square is not accepted
+iteration number  728  of  1000
+chi-square difference is  0.05560523711645615
+higher chi-square is not accepted
+iteration number  729  of  1000
+chi-square difference is  1.2170755002377973
+higher chi-square is accepted
+iteration number  730  of  1000
+lower chi-square
+iteration number  731  of  1000
+chi-square difference is  1.4671400656981888
+higher chi-square is not accepted
+iteration number  732  of  1000
+chi-square difference is  0.3194699874322815
+higher chi-square is not accepted
+iteration number  733  of  1000
+chi-square difference is  0.5129784147874377
+higher chi-square is not accepted
+iteration number  734  of  1000
+lower chi-square
+iteration number  735  of  1000
+chi-square difference is  1.0467784783882785
+higher chi-square is not accepted
+iteration number  736  of  1000
+chi-square difference is  0.23222614809948317
+higher chi-square is not accepted
+iteration number  737  of  1000
+chi-square difference is  1.3342161077805823
+higher chi-square is accepted
+iteration number  738  of  1000
+chi-square difference is  1.066149349269259
+higher chi-square is not accepted
+iteration number  739  of  1000
+chi-square difference is  3.5732776309974783
+higher chi-square is accepted
+iteration number  740  of  1000
+lower chi-square
+iteration number  741  of  1000
+lower chi-square
+iteration number  742  of  1000
+lower chi-square
+iteration number  743  of  1000
+lower chi-square
+iteration number  744  of  1000
+lower chi-square
+iteration number  745  of  1000
+chi-square difference is  0.04419517451250998
+higher chi-square is not accepted
+iteration number  746  of  1000
+chi-square difference is  0.009025657578968005
+higher chi-square is not accepted
+iteration number  747  of  1000
+chi-square difference is  0.05087322330206234
+higher chi-square is not accepted
+iteration number  748  of  1000
+chi-square difference is  0.062433933403291064
+higher chi-square is not accepted
+iteration number  749  of  1000
+chi-square difference is  0.07407083180980756
+higher chi-square is not accepted
+iteration number  750  of  1000
+chi-square difference is  0.2205811114946532
+higher chi-square is not accepted
+iteration number  751  of  1000
+chi-square difference is  0.30163107869481287
+higher chi-square is not accepted
+iteration number  752  of  1000
+chi-square difference is  0.49392333073726613
+higher chi-square is not accepted
+iteration number  753  of  1000
+lower chi-square
+iteration number  754  of  1000
+chi-square difference is  0.7001044909129059
+higher chi-square is accepted
+iteration number  755  of  1000
+lower chi-square
+iteration number  756  of  1000
+lower chi-square
+iteration number  757  of  1000
+chi-square difference is  0.06763150958305841
+higher chi-square is not accepted
+iteration number  758  of  1000
+lower chi-square
+iteration number  759  of  1000
+chi-square difference is  0.018329240996336704
+higher chi-square is not accepted
+iteration number  760  of  1000
+chi-square difference is  0.2817030966369489
+higher chi-square is not accepted
+iteration number  761  of  1000
+chi-square difference is  0.1652190750332605
+higher chi-square is not accepted
+iteration number  762  of  1000
+chi-square difference is  0.011160403543955422
+higher chi-square is not accepted
+iteration number  763  of  1000
+chi-square difference is  0.0021534624830819027
+higher chi-square is not accepted
+iteration number  764  of  1000
+chi-square difference is  0.059275605815577226
+higher chi-square is not accepted
+iteration number  765  of  1000
+chi-square difference is  0.15448315730536732
+higher chi-square is not accepted
+iteration number  766  of  1000
+chi-square difference is  0.4799618482994408
+higher chi-square is not accepted
+iteration number  767  of  1000
+chi-square difference is  0.3063620496709425
+higher chi-square is not accepted
+iteration number  768  of  1000
+chi-square difference is  0.6853235902579784
+higher chi-square is accepted
+iteration number  769  of  1000
+lower chi-square
+iteration number  770  of  1000
+chi-square difference is  0.30539341014604515
+higher chi-square is not accepted
+iteration number  771  of  1000
+chi-square difference is  0.5032700777645553
+higher chi-square is not accepted
+iteration number  772  of  1000
+chi-square difference is  3.308321528863495
+higher chi-square is not accepted
+iteration number  773  of  1000
+lower chi-square
+iteration number  774  of  1000
+chi-square difference is  0.43297440455827285
+higher chi-square is accepted
+iteration number  775  of  1000
+chi-square difference is  0.06300997515768447
+higher chi-square is not accepted
+iteration number  776  of  1000
+lower chi-square
+iteration number  777  of  1000
+chi-square difference is  0.20764862397632733
+higher chi-square is not accepted
+iteration number  778  of  1000
+chi-square difference is  0.01242605988916079
+higher chi-square is not accepted
+iteration number  779  of  1000
+chi-square difference is  0.012579682157098926
+higher chi-square is not accepted
+iteration number  780  of  1000
+chi-square difference is  0.011601573554720357
+higher chi-square is not accepted
+iteration number  781  of  1000
+chi-square difference is  0.07900246432796276
+higher chi-square is not accepted
+iteration number  782  of  1000
+chi-square difference is  0.6991828682183163
+higher chi-square is not accepted
+iteration number  783  of  1000
+chi-square difference is  0.03570344181391283
+higher chi-square is not accepted
+iteration number  784  of  1000
+chi-square difference is  0.1523768302939943
+higher chi-square is not accepted
+iteration number  785  of  1000
+chi-square difference is  1.550935448096657
+higher chi-square is accepted
+iteration number  786  of  1000
+lower chi-square
+iteration number  787  of  1000
+chi-square difference is  0.32239614775889036
+higher chi-square is not accepted
+iteration number  788  of  1000
+lower chi-square
+iteration number  789  of  1000
+chi-square difference is  0.29858963032599917
+higher chi-square is not accepted
+iteration number  790  of  1000
+lower chi-square
+iteration number  791  of  1000
+chi-square difference is  0.17139686338420868
+higher chi-square is not accepted
+iteration number  792  of  1000
+lower chi-square
+iteration number  793  of  1000
+chi-square difference is  0.011832639859285177
+higher chi-square is not accepted
+iteration number  794  of  1000
+chi-square difference is  0.12321327017539607
+higher chi-square is not accepted
+iteration number  795  of  1000
+chi-square difference is  1.3202183331676216
+higher chi-square is not accepted
+iteration number  796  of  1000
+chi-square difference is  0.5691031337265362
+higher chi-square is not accepted
+iteration number  797  of  1000
+chi-square difference is  0.7034486318635231
+higher chi-square is not accepted
+iteration number  798  of  1000
+chi-square difference is  0.4976518237327707
+higher chi-square is not accepted
+iteration number  799  of  1000
+chi-square difference is  0.02174668220883902
+higher chi-square is not accepted
+iteration number  800  of  1000
+lower chi-square
+iteration number  801  of  1000
+chi-square difference is  0.33541831759368224
+higher chi-square is not accepted
+iteration number  802  of  1000
+chi-square difference is  1.128850648229494
+higher chi-square is not accepted
+iteration number  803  of  1000
+chi-square difference is  0.4020837436860978
+higher chi-square is not accepted
+iteration number  804  of  1000
+lower chi-square
+iteration number  805  of  1000
+chi-square difference is  0.0040869525106534965
+higher chi-square is not accepted
+iteration number  806  of  1000
+chi-square difference is  0.14371183413917032
+higher chi-square is not accepted
+iteration number  807  of  1000
+chi-square difference is  0.1213695674322044
+higher chi-square is not accepted
+iteration number  808  of  1000
+chi-square difference is  0.03196208143591095
+higher chi-square is not accepted
+iteration number  809  of  1000
+chi-square difference is  0.03622114418348321
+higher chi-square is not accepted
+iteration number  810  of  1000
+chi-square difference is  0.8313589295475232
+higher chi-square is accepted
+iteration number  811  of  1000
+chi-square difference is  0.320024838591459
+higher chi-square is not accepted
+iteration number  812  of  1000
+chi-square difference is  0.8924251384517263
+higher chi-square is not accepted
+iteration number  813  of  1000
+chi-square difference is  0.3332503846739763
+higher chi-square is not accepted
+iteration number  814  of  1000
+chi-square difference is  0.15269631789654037
+higher chi-square is not accepted
+iteration number  815  of  1000
+lower chi-square
+iteration number  816  of  1000
+lower chi-square
+iteration number  817  of  1000
+chi-square difference is  0.9708332961571311
+higher chi-square is not accepted
+iteration number  818  of  1000
+chi-square difference is  0.322777066103042
+higher chi-square is not accepted
+iteration number  819  of  1000
+chi-square difference is  0.8552959931992836
+higher chi-square is accepted
+iteration number  820  of  1000
+lower chi-square
+iteration number  821  of  1000
+lower chi-square
+iteration number  822  of  1000
+chi-square difference is  0.028469600812214946
+higher chi-square is not accepted
+iteration number  823  of  1000
+chi-square difference is  0.18430175097046675
+higher chi-square is not accepted
+iteration number  824  of  1000
+chi-square difference is  0.04369673585674416
+higher chi-square is not accepted
+iteration number  825  of  1000
+lower chi-square
+iteration number  826  of  1000
+chi-square difference is  0.589373835010397
+higher chi-square is accepted
+iteration number  827  of  1000
+chi-square difference is  0.03725246190079412
+higher chi-square is not accepted
+iteration number  828  of  1000
+lower chi-square
+iteration number  829  of  1000
+chi-square difference is  0.9052946944381466
+higher chi-square is accepted
+iteration number  830  of  1000
+chi-square difference is  1.027442613937056
+higher chi-square is accepted
+iteration number  831  of  1000
+chi-square difference is  0.44837180861505654
+higher chi-square is not accepted
+iteration number  832  of  1000
+chi-square difference is  0.5497262676790893
+higher chi-square is accepted
+iteration number  833  of  1000
+lower chi-square
+iteration number  834  of  1000
+chi-square difference is  0.1554969673840585
+higher chi-square is not accepted
+iteration number  835  of  1000
+chi-square difference is  0.2768993915482012
+higher chi-square is not accepted
+iteration number  836  of  1000
+chi-square difference is  0.4979436967271198
+higher chi-square is not accepted
+iteration number  837  of  1000
+lower chi-square
+iteration number  838  of  1000
+chi-square difference is  0.5466792959777944
+higher chi-square is accepted
+iteration number  839  of  1000
+lower chi-square
+iteration number  840  of  1000
+chi-square difference is  0.2233028524228171
+higher chi-square is not accepted
+iteration number  841  of  1000
+chi-square difference is  0.9282994839861205
+higher chi-square is not accepted
+iteration number  842  of  1000
+chi-square difference is  1.5251985832743404
+higher chi-square is accepted
+iteration number  843  of  1000
+lower chi-square
+iteration number  844  of  1000
+chi-square difference is  0.4389976260037054
+higher chi-square is not accepted
+iteration number  845  of  1000
+lower chi-square
+iteration number  846  of  1000
+lower chi-square
+iteration number  847  of  1000
+chi-square difference is  0.9273103880493148
+higher chi-square is not accepted
+iteration number  848  of  1000
+chi-square difference is  0.46908443108644526
+higher chi-square is accepted
+iteration number  849  of  1000
+lower chi-square
+iteration number  850  of  1000
+lower chi-square
+iteration number  851  of  1000
+chi-square difference is  0.4392982730980388
+higher chi-square is not accepted
+iteration number  852  of  1000
+chi-square difference is  0.219140002516367
+higher chi-square is not accepted
+iteration number  853  of  1000
+chi-square difference is  0.580212211435482
+higher chi-square is accepted
+iteration number  854  of  1000
+chi-square difference is  0.5287066236546569
+higher chi-square is not accepted
+iteration number  855  of  1000
+chi-square difference is  0.24896082603865377
+higher chi-square is not accepted
+iteration number  856  of  1000
+lower chi-square
+iteration number  857  of  1000
+chi-square difference is  0.4424220459988817
+higher chi-square is not accepted
+iteration number  858  of  1000
+chi-square difference is  0.05424874030501048
+higher chi-square is not accepted
+iteration number  859  of  1000
+lower chi-square
+iteration number  860  of  1000
+chi-square difference is  0.2090212257827906
+higher chi-square is not accepted
+iteration number  861  of  1000
+lower chi-square
+iteration number  862  of  1000
+chi-square difference is  0.3148885678386044
+higher chi-square is accepted
+iteration number  863  of  1000
+chi-square difference is  0.397606955717436
+higher chi-square is accepted
+iteration number  864  of  1000
+chi-square difference is  0.13591396943391487
+higher chi-square is not accepted
+iteration number  865  of  1000
+chi-square difference is  0.12468089178890196
+higher chi-square is not accepted
+iteration number  866  of  1000
+chi-square difference is  0.10053774401458604
+higher chi-square is not accepted
+iteration number  867  of  1000
+lower chi-square
+iteration number  868  of  1000
+lower chi-square
+iteration number  869  of  1000
+chi-square difference is  0.15204533962331368
+higher chi-square is not accepted
+iteration number  870  of  1000
+lower chi-square
+iteration number  871  of  1000
+lower chi-square
+iteration number  872  of  1000
+chi-square difference is  0.060423900887771165
+higher chi-square is not accepted
+iteration number  873  of  1000
+chi-square difference is  0.00035024325614152474
+higher chi-square is not accepted
+iteration number  874  of  1000
+chi-square difference is  0.4928583959662669
+higher chi-square is not accepted
+iteration number  875  of  1000
+chi-square difference is  0.24477497989948205
+higher chi-square is not accepted
+iteration number  876  of  1000
+chi-square difference is  0.07460416523801472
+higher chi-square is not accepted
+iteration number  877  of  1000
+chi-square difference is  0.04904860046541115
+higher chi-square is not accepted
+iteration number  878  of  1000
+chi-square difference is  0.1431158608685772
+higher chi-square is accepted
+iteration number  879  of  1000
+lower chi-square
+iteration number  880  of  1000
+chi-square difference is  0.5841421762259369
+higher chi-square is not accepted
+iteration number  881  of  1000
+chi-square difference is  0.20123886177608385
+higher chi-square is not accepted
+iteration number  882  of  1000
+chi-square difference is  0.7546716503393656
+higher chi-square is accepted
+iteration number  883  of  1000
+lower chi-square
+iteration number  884  of  1000
+chi-square difference is  0.31390932326079923
+higher chi-square is not accepted
+iteration number  885  of  1000
+chi-square difference is  2.9919840887082945
+higher chi-square is accepted
+iteration number  886  of  1000
+lower chi-square
+iteration number  887  of  1000
+chi-square difference is  2.703964790664748
+higher chi-square is accepted
+iteration number  888  of  1000
+chi-square difference is  0.41618777017448405
+higher chi-square is not accepted
+iteration number  889  of  1000
+lower chi-square
+iteration number  890  of  1000
+chi-square difference is  1.0535207824819626
+higher chi-square is not accepted
+iteration number  891  of  1000
+lower chi-square
+iteration number  892  of  1000
+chi-square difference is  4.065401627780628
+higher chi-square is accepted
+iteration number  893  of  1000
+lower chi-square
+iteration number  894  of  1000
+lower chi-square
+iteration number  895  of  1000
+lower chi-square
+iteration number  896  of  1000
+lower chi-square
+iteration number  897  of  1000
+chi-square difference is  4.549082137596113
+higher chi-square is accepted
+iteration number  898  of  1000
+lower chi-square
+iteration number  899  of  1000
+lower chi-square
+iteration number  900  of  1000
+lower chi-square
+iteration number  901  of  1000
+lower chi-square
+iteration number  902  of  1000
+chi-square difference is  0.7769875082413824
+higher chi-square is not accepted
+iteration number  903  of  1000
+lower chi-square
+iteration number  904  of  1000
+chi-square difference is  2.2817138051382515
+higher chi-square is accepted
+iteration number  905  of  1000
+lower chi-square
+iteration number  906  of  1000
+chi-square difference is  0.5241118054831349
+higher chi-square is accepted
+iteration number  907  of  1000
+lower chi-square
+iteration number  908  of  1000
+chi-square difference is  0.09843222923029193
+higher chi-square is not accepted
+iteration number  909  of  1000
+chi-square difference is  0.16363961774580638
+higher chi-square is not accepted
+iteration number  910  of  1000
+chi-square difference is  0.48156464134987154
+higher chi-square is accepted
+iteration number  911  of  1000
+lower chi-square
+iteration number  912  of  1000
+lower chi-square
+iteration number  913  of  1000
+chi-square difference is  0.38030272853679614
+higher chi-square is accepted
+iteration number  914  of  1000
+chi-square difference is  0.6188761103075082
+higher chi-square is accepted
+iteration number  915  of  1000
+chi-square difference is  0.09877472394152775
+higher chi-square is not accepted
+iteration number  916  of  1000
+chi-square difference is  1.478268859676922
+higher chi-square is not accepted
+iteration number  917  of  1000
+lower chi-square
+iteration number  918  of  1000
+lower chi-square
+iteration number  919  of  1000
+chi-square difference is  2.096916229018558
+higher chi-square is not accepted
+iteration number  920  of  1000
+chi-square difference is  1.4939188543438586
+higher chi-square is not accepted
+iteration number  921  of  1000
+lower chi-square
+iteration number  922  of  1000
+chi-square difference is  0.15071160215822488
+higher chi-square is not accepted
+iteration number  923  of  1000
+chi-square difference is  3.453609991975187
+higher chi-square is not accepted
+iteration number  924  of  1000
+chi-square difference is  0.024630373545002637
+higher chi-square is not accepted
+iteration number  925  of  1000
+chi-square difference is  0.5151966960503556
+higher chi-square is not accepted
+iteration number  926  of  1000
+lower chi-square
+iteration number  927  of  1000
+lower chi-square
+iteration number  928  of  1000
+chi-square difference is  0.15010052025624487
+higher chi-square is not accepted
+iteration number  929  of  1000
+chi-square difference is  0.01777087798315735
+higher chi-square is not accepted
+iteration number  930  of  1000
+chi-square difference is  0.10172064085240162
+higher chi-square is not accepted
+iteration number  931  of  1000
+chi-square difference is  0.051771793668392796
+higher chi-square is not accepted
+iteration number  932  of  1000
+lower chi-square
+iteration number  933  of  1000
+chi-square difference is  0.3911278175940409
+higher chi-square is accepted
+iteration number  934  of  1000
+lower chi-square
+iteration number  935  of  1000
+chi-square difference is  0.7522829715037522
+higher chi-square is not accepted
+iteration number  936  of  1000
+chi-square difference is  0.1211156892388976
+higher chi-square is not accepted
+iteration number  937  of  1000
+chi-square difference is  0.20661025248571496
+higher chi-square is not accepted
+iteration number  938  of  1000
+chi-square difference is  1.3417339898706873
+higher chi-square is not accepted
+iteration number  939  of  1000
+chi-square difference is  0.05082126853628477
+higher chi-square is not accepted
+iteration number  940  of  1000
+chi-square difference is  0.12543421882244798
+higher chi-square is not accepted
+iteration number  941  of  1000
+chi-square difference is  0.012801639129056852
+higher chi-square is not accepted
+iteration number  942  of  1000
+chi-square difference is  0.01041408667110666
+higher chi-square is not accepted
+iteration number  943  of  1000
+chi-square difference is  0.2346441777746917
+higher chi-square is not accepted
+iteration number  944  of  1000
+chi-square difference is  0.08081636780432033
+higher chi-square is not accepted
+iteration number  945  of  1000
+chi-square difference is  0.002872293005382165
+higher chi-square is not accepted
+iteration number  946  of  1000
+chi-square difference is  0.0542572860892796
+higher chi-square is not accepted
+iteration number  947  of  1000
+chi-square difference is  0.5568715288332529
+higher chi-square is not accepted
+iteration number  948  of  1000
+chi-square difference is  0.1713028306836195
+higher chi-square is not accepted
+iteration number  949  of  1000
+chi-square difference is  0.06308112026160062
+higher chi-square is not accepted
+iteration number  950  of  1000
+chi-square difference is  0.44229085599085227
+higher chi-square is not accepted
+iteration number  951  of  1000
+chi-square difference is  0.1405054288292935
+higher chi-square is not accepted
+iteration number  952  of  1000
+chi-square difference is  0.25749624943920013
+higher chi-square is not accepted
+iteration number  953  of  1000
+chi-square difference is  0.014858369581234765
+higher chi-square is not accepted
+iteration number  954  of  1000
+lower chi-square
+iteration number  955  of  1000
+chi-square difference is  0.15662982984534102
+higher chi-square is not accepted
+iteration number  956  of  1000
+chi-square difference is  0.3587856331395898
+higher chi-square is not accepted
+iteration number  957  of  1000
+chi-square difference is  0.23980274355421338
+higher chi-square is not accepted
+iteration number  958  of  1000
+chi-square difference is  0.04219946162758781
+higher chi-square is not accepted
+iteration number  959  of  1000
+chi-square difference is  2.3232192835321293
+higher chi-square is not accepted
+iteration number  960  of  1000
+chi-square difference is  0.503039391653155
+higher chi-square is accepted
+iteration number  961  of  1000
+lower chi-square
+iteration number  962  of  1000
+lower chi-square
+iteration number  963  of  1000
+chi-square difference is  0.034367662037309454
+higher chi-square is not accepted
+iteration number  964  of  1000
+chi-square difference is  0.23562559390340798
+higher chi-square is not accepted
+iteration number  965  of  1000
+lower chi-square
+iteration number  966  of  1000
+lower chi-square
+iteration number  967  of  1000
+chi-square difference is  0.7939893900183228
+higher chi-square is not accepted
+iteration number  968  of  1000
+chi-square difference is  0.014360392312096515
+higher chi-square is not accepted
+iteration number  969  of  1000
+chi-square difference is  0.08053769006861566
+higher chi-square is not accepted
+iteration number  970  of  1000
+chi-square difference is  0.16839545763593344
+higher chi-square is not accepted
+iteration number  971  of  1000
+chi-square difference is  0.4691333603225303
+higher chi-square is not accepted
+iteration number  972  of  1000
+chi-square difference is  0.214438082421057
+higher chi-square is not accepted
+iteration number  973  of  1000
+chi-square difference is  0.09928776598246492
+higher chi-square is not accepted
+iteration number  974  of  1000
+chi-square difference is  0.05967715256969486
+higher chi-square is not accepted
+iteration number  975  of  1000
+chi-square difference is  1.011817819733599
+higher chi-square is not accepted
+iteration number  976  of  1000
+chi-square difference is  0.23596706998168848
+higher chi-square is not accepted
+iteration number  977  of  1000
+chi-square difference is  0.3972453533815967
+higher chi-square is accepted
+iteration number  978  of  1000
+lower chi-square
+iteration number  979  of  1000
+lower chi-square
+iteration number  980  of  1000
+chi-square difference is  0.8126763645738841
+higher chi-square is accepted
+iteration number  981  of  1000
+chi-square difference is  0.6473527384851563
+higher chi-square is accepted
+iteration number  982  of  1000
+lower chi-square
+iteration number  983  of  1000
+chi-square difference is  0.11011105862284376
+higher chi-square is not accepted
+iteration number  984  of  1000
+lower chi-square
+iteration number  985  of  1000
+chi-square difference is  0.4150777362954763
+higher chi-square is not accepted
+iteration number  986  of  1000
+lower chi-square
+iteration number  987  of  1000
+lower chi-square
+iteration number  988  of  1000
+chi-square difference is  0.2922192845801348
+higher chi-square is not accepted
+iteration number  989  of  1000
+lower chi-square
+iteration number  990  of  1000
+chi-square difference is  1.1860162566401438
+higher chi-square is accepted
+iteration number  991  of  1000
+chi-square difference is  2.024982650448216
+higher chi-square is accepted
+iteration number  992  of  1000
+lower chi-square
+iteration number  993  of  1000
+chi-square difference is  1.1061026529044362
+higher chi-square is accepted
+iteration number  994  of  1000
+chi-square difference is  3.753757733801563
+higher chi-square is accepted
+iteration number  995  of  1000
+lower chi-square
+iteration number  996  of  1000
+lower chi-square
+iteration number  997  of  1000
+chi-square difference is  1.0359323546475112
+higher chi-square is not accepted
+iteration number  998  of  1000
+chi-square difference is  0.07648167340966783
+higher chi-square is not accepted
+iteration number  999  of  1000
+lower chi-square

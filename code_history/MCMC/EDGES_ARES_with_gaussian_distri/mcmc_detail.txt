@@ -1,0 +1,8 @@
+iteration number  1  of  5
+higher chi-square is not accepted
+iteration number  2  of  5
+higher chi-square is not accepted
+iteration number  3  of  5
+higher chi-square is not accepted
+iteration number  4  of  5
+higher chi-square is not accepted

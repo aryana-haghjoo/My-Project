@@ -1,0 +1,3998 @@
+iteration number  1  of  2000
+lower chi-square
+iteration number  2  of  2000
+lower chi-square
+iteration number  3  of  2000
+higher chi-square is not accepted
+iteration number  4  of  2000
+lower chi-square
+iteration number  5  of  2000
+higher chi-square is not accepted
+iteration number  6  of  2000
+higher chi-square is not accepted
+iteration number  7  of  2000
+higher chi-square is not accepted
+iteration number  8  of  2000
+higher chi-square is not accepted
+iteration number  9  of  2000
+higher chi-square is not accepted
+iteration number  10  of  2000
+higher chi-square is not accepted
+iteration number  11  of  2000
+higher chi-square is not accepted
+iteration number  12  of  2000
+higher chi-square is accepted
+iteration number  13  of  2000
+higher chi-square is not accepted
+iteration number  14  of  2000
+lower chi-square
+iteration number  15  of  2000
+higher chi-square is not accepted
+iteration number  16  of  2000
+lower chi-square
+iteration number  17  of  2000
+lower chi-square
+iteration number  18  of  2000
+higher chi-square is not accepted
+iteration number  19  of  2000
+higher chi-square is not accepted
+iteration number  20  of  2000
+higher chi-square is not accepted
+iteration number  21  of  2000
+higher chi-square is not accepted
+iteration number  22  of  2000
+higher chi-square is not accepted
+iteration number  23  of  2000
+higher chi-square is not accepted
+iteration number  24  of  2000
+higher chi-square is not accepted
+iteration number  25  of  2000
+higher chi-square is not accepted
+iteration number  26  of  2000
+higher chi-square is not accepted
+iteration number  27  of  2000
+higher chi-square is not accepted
+iteration number  28  of  2000
+higher chi-square is not accepted
+iteration number  29  of  2000
+higher chi-square is not accepted
+iteration number  30  of  2000
+higher chi-square is accepted
+iteration number  31  of  2000
+lower chi-square
+iteration number  32  of  2000
+lower chi-square
+iteration number  33  of  2000
+higher chi-square is not accepted
+iteration number  34  of  2000
+lower chi-square
+iteration number  35  of  2000
+higher chi-square is not accepted
+iteration number  36  of  2000
+higher chi-square is not accepted
+iteration number  37  of  2000
+higher chi-square is not accepted
+iteration number  38  of  2000
+higher chi-square is not accepted
+iteration number  39  of  2000
+higher chi-square is accepted
+iteration number  40  of  2000
+higher chi-square is accepted
+iteration number  41  of  2000
+lower chi-square
+iteration number  42  of  2000
+higher chi-square is not accepted
+iteration number  43  of  2000
+lower chi-square
+iteration number  44  of  2000
+lower chi-square
+iteration number  45  of  2000
+higher chi-square is not accepted
+iteration number  46  of  2000
+higher chi-square is not accepted
+iteration number  47  of  2000
+higher chi-square is not accepted
+iteration number  48  of  2000
+higher chi-square is not accepted
+iteration number  49  of  2000
+higher chi-square is accepted
+iteration number  50  of  2000
+lower chi-square
+iteration number  51  of  2000
+lower chi-square
+iteration number  52  of  2000
+lower chi-square
+iteration number  53  of  2000
+higher chi-square is not accepted
+iteration number  54  of  2000
+lower chi-square
+iteration number  55  of  2000
+higher chi-square is not accepted
+iteration number  56  of  2000
+higher chi-square is not accepted
+iteration number  57  of  2000
+higher chi-square is not accepted
+iteration number  58  of  2000
+higher chi-square is not accepted
+iteration number  59  of  2000
+higher chi-square is not accepted
+iteration number  60  of  2000
+higher chi-square is not accepted
+iteration number  61  of  2000
+higher chi-square is not accepted
+iteration number  62  of  2000
+higher chi-square is not accepted
+iteration number  63  of  2000
+higher chi-square is not accepted
+iteration number  64  of  2000
+higher chi-square is not accepted
+iteration number  65  of  2000
+higher chi-square is not accepted
+iteration number  66  of  2000
+higher chi-square is not accepted
+iteration number  67  of  2000
+higher chi-square is not accepted
+iteration number  68  of  2000
+higher chi-square is not accepted
+iteration number  69  of  2000
+higher chi-square is not accepted
+iteration number  70  of  2000
+higher chi-square is not accepted
+iteration number  71  of  2000
+higher chi-square is not accepted
+iteration number  72  of  2000
+higher chi-square is not accepted
+iteration number  73  of  2000
+higher chi-square is not accepted
+iteration number  74  of  2000
+higher chi-square is not accepted
+iteration number  75  of  2000
+higher chi-square is not accepted
+iteration number  76  of  2000
+lower chi-square
+iteration number  77  of  2000
+higher chi-square is accepted
+iteration number  78  of  2000
+lower chi-square
+iteration number  79  of  2000
+lower chi-square
+iteration number  80  of  2000
+higher chi-square is not accepted
+iteration number  81  of  2000
+higher chi-square is not accepted
+iteration number  82  of  2000
+lower chi-square
+iteration number  83  of  2000
+lower chi-square
+iteration number  84  of  2000
+higher chi-square is accepted
+iteration number  85  of  2000
+lower chi-square
+iteration number  86  of  2000
+lower chi-square
+iteration number  87  of  2000
+higher chi-square is not accepted
+iteration number  88  of  2000
+higher chi-square is not accepted
+iteration number  89  of  2000
+lower chi-square
+iteration number  90  of  2000
+higher chi-square is not accepted
+iteration number  91  of  2000
+higher chi-square is not accepted
+iteration number  92  of  2000
+higher chi-square is not accepted
+iteration number  93  of  2000
+higher chi-square is not accepted
+iteration number  94  of  2000
+higher chi-square is not accepted
+iteration number  95  of  2000
+lower chi-square
+iteration number  96  of  2000
+higher chi-square is not accepted
+iteration number  97  of  2000
+higher chi-square is not accepted
+iteration number  98  of  2000
+higher chi-square is not accepted
+iteration number  99  of  2000
+higher chi-square is not accepted
+iteration number  100  of  2000
+higher chi-square is not accepted
+iteration number  101  of  2000
+higher chi-square is not accepted
+iteration number  102  of  2000
+higher chi-square is not accepted
+iteration number  103  of  2000
+lower chi-square
+iteration number  104  of  2000
+higher chi-square is not accepted
+iteration number  105  of  2000
+higher chi-square is not accepted
+iteration number  106  of  2000
+higher chi-square is not accepted
+iteration number  107  of  2000
+lower chi-square
+iteration number  108  of  2000
+higher chi-square is not accepted
+iteration number  109  of  2000
+higher chi-square is not accepted
+iteration number  110  of  2000
+higher chi-square is not accepted
+iteration number  111  of  2000
+higher chi-square is not accepted
+iteration number  112  of  2000
+higher chi-square is accepted
+iteration number  113  of  2000
+higher chi-square is accepted
+iteration number  114  of  2000
+lower chi-square
+iteration number  115  of  2000
+higher chi-square is not accepted
+iteration number  116  of  2000
+lower chi-square
+iteration number  117  of  2000
+lower chi-square
+iteration number  118  of  2000
+higher chi-square is not accepted
+iteration number  119  of  2000
+higher chi-square is not accepted
+iteration number  120  of  2000
+higher chi-square is not accepted
+iteration number  121  of  2000
+lower chi-square
+iteration number  122  of  2000
+higher chi-square is not accepted
+iteration number  123  of  2000
+higher chi-square is accepted
+iteration number  124  of  2000
+higher chi-square is not accepted
+iteration number  125  of  2000
+lower chi-square
+iteration number  126  of  2000
+lower chi-square
+iteration number  127  of  2000
+lower chi-square
+iteration number  128  of  2000
+higher chi-square is not accepted
+iteration number  129  of  2000
+higher chi-square is not accepted
+iteration number  130  of  2000
+higher chi-square is not accepted
+iteration number  131  of  2000
+higher chi-square is not accepted
+iteration number  132  of  2000
+higher chi-square is not accepted
+iteration number  133  of  2000
+lower chi-square
+iteration number  134  of  2000
+higher chi-square is not accepted
+iteration number  135  of  2000
+higher chi-square is accepted
+iteration number  136  of  2000
+higher chi-square is not accepted
+iteration number  137  of  2000
+higher chi-square is not accepted
+iteration number  138  of  2000
+lower chi-square
+iteration number  139  of  2000
+lower chi-square
+iteration number  140  of  2000
+higher chi-square is not accepted
+iteration number  141  of  2000
+higher chi-square is not accepted
+iteration number  142  of  2000
+higher chi-square is not accepted
+iteration number  143  of  2000
+higher chi-square is not accepted
+iteration number  144  of  2000
+higher chi-square is not accepted
+iteration number  145  of  2000
+higher chi-square is not accepted
+iteration number  146  of  2000
+higher chi-square is accepted
+iteration number  147  of  2000
+higher chi-square is not accepted
+iteration number  148  of  2000
+lower chi-square
+iteration number  149  of  2000
+lower chi-square
+iteration number  150  of  2000
+higher chi-square is not accepted
+iteration number  151  of  2000
+higher chi-square is not accepted
+iteration number  152  of  2000
+higher chi-square is not accepted
+iteration number  153  of  2000
+higher chi-square is not accepted
+iteration number  154  of  2000
+higher chi-square is not accepted
+iteration number  155  of  2000
+lower chi-square
+iteration number  156  of  2000
+higher chi-square is not accepted
+iteration number  157  of  2000
+higher chi-square is not accepted
+iteration number  158  of  2000
+lower chi-square
+iteration number  159  of  2000
+higher chi-square is not accepted
+iteration number  160  of  2000
+higher chi-square is accepted
+iteration number  161  of  2000
+higher chi-square is not accepted
+iteration number  162  of  2000
+higher chi-square is accepted
+iteration number  163  of  2000
+higher chi-square is not accepted
+iteration number  164  of  2000
+lower chi-square
+iteration number  165  of  2000
+higher chi-square is not accepted
+iteration number  166  of  2000
+lower chi-square
+iteration number  167  of  2000
+higher chi-square is not accepted
+iteration number  168  of  2000
+higher chi-square is accepted
+iteration number  169  of  2000
+lower chi-square
+iteration number  170  of  2000
+lower chi-square
+iteration number  171  of  2000
+lower chi-square
+iteration number  172  of  2000
+higher chi-square is not accepted
+iteration number  173  of  2000
+lower chi-square
+iteration number  174  of  2000
+higher chi-square is not accepted
+iteration number  175  of  2000
+higher chi-square is not accepted
+iteration number  176  of  2000
+higher chi-square is not accepted
+iteration number  177  of  2000
+higher chi-square is not accepted
+iteration number  178  of  2000
+higher chi-square is not accepted
+iteration number  179  of  2000
+higher chi-square is not accepted
+iteration number  180  of  2000
+higher chi-square is not accepted
+iteration number  181  of  2000
+higher chi-square is not accepted
+iteration number  182  of  2000
+higher chi-square is not accepted
+iteration number  183  of  2000
+higher chi-square is not accepted
+iteration number  184  of  2000
+higher chi-square is not accepted
+iteration number  185  of  2000
+higher chi-square is not accepted
+iteration number  186  of  2000
+higher chi-square is not accepted
+iteration number  187  of  2000
+higher chi-square is not accepted
+iteration number  188  of  2000
+higher chi-square is not accepted
+iteration number  189  of  2000
+higher chi-square is not accepted
+iteration number  190  of  2000
+higher chi-square is accepted
+iteration number  191  of  2000
+higher chi-square is not accepted
+iteration number  192  of  2000
+higher chi-square is not accepted
+iteration number  193  of  2000
+lower chi-square
+iteration number  194  of  2000
+lower chi-square
+iteration number  195  of  2000
+higher chi-square is not accepted
+iteration number  196  of  2000
+lower chi-square
+iteration number  197  of  2000
+higher chi-square is not accepted
+iteration number  198  of  2000
+higher chi-square is not accepted
+iteration number  199  of  2000
+higher chi-square is not accepted
+iteration number  200  of  2000
+higher chi-square is not accepted
+iteration number  201  of  2000
+higher chi-square is not accepted
+iteration number  202  of  2000
+higher chi-square is not accepted
+iteration number  203  of  2000
+higher chi-square is not accepted
+iteration number  204  of  2000
+higher chi-square is not accepted
+iteration number  205  of  2000
+higher chi-square is not accepted
+iteration number  206  of  2000
+higher chi-square is not accepted
+iteration number  207  of  2000
+higher chi-square is not accepted
+iteration number  208  of  2000
+higher chi-square is not accepted
+iteration number  209  of  2000
+lower chi-square
+iteration number  210  of  2000
+higher chi-square is not accepted
+iteration number  211  of  2000
+higher chi-square is not accepted
+iteration number  212  of  2000
+higher chi-square is accepted
+iteration number  213  of  2000
+lower chi-square
+iteration number  214  of  2000
+lower chi-square
+iteration number  215  of  2000
+higher chi-square is not accepted
+iteration number  216  of  2000
+lower chi-square
+iteration number  217  of  2000
+higher chi-square is not accepted
+iteration number  218  of  2000
+higher chi-square is not accepted
+iteration number  219  of  2000
+higher chi-square is not accepted
+iteration number  220  of  2000
+higher chi-square is not accepted
+iteration number  221  of  2000
+higher chi-square is not accepted
+iteration number  222  of  2000
+lower chi-square
+iteration number  223  of  2000
+lower chi-square
+iteration number  224  of  2000
+higher chi-square is not accepted
+iteration number  225  of  2000
+higher chi-square is not accepted
+iteration number  226  of  2000
+higher chi-square is not accepted
+iteration number  227  of  2000
+higher chi-square is not accepted
+iteration number  228  of  2000
+higher chi-square is accepted
+iteration number  229  of  2000
+higher chi-square is accepted
+iteration number  230  of  2000
+lower chi-square
+iteration number  231  of  2000
+higher chi-square is not accepted
+iteration number  232  of  2000
+higher chi-square is not accepted
+iteration number  233  of  2000
+lower chi-square
+iteration number  234  of  2000
+higher chi-square is accepted
+iteration number  235  of  2000
+lower chi-square
+iteration number  236  of  2000
+lower chi-square
+iteration number  237  of  2000
+higher chi-square is not accepted
+iteration number  238  of  2000
+higher chi-square is not accepted
+iteration number  239  of  2000
+lower chi-square
+iteration number  240  of  2000
+lower chi-square
+iteration number  241  of  2000
+higher chi-square is not accepted
+iteration number  242  of  2000
+higher chi-square is not accepted
+iteration number  243  of  2000
+lower chi-square
+iteration number  244  of  2000
+higher chi-square is not accepted
+iteration number  245  of  2000
+lower chi-square
+iteration number  246  of  2000
+higher chi-square is not accepted
+iteration number  247  of  2000
+lower chi-square
+iteration number  248  of  2000
+higher chi-square is not accepted
+iteration number  249  of  2000
+higher chi-square is not accepted
+iteration number  250  of  2000
+higher chi-square is not accepted
+iteration number  251  of  2000
+higher chi-square is not accepted
+iteration number  252  of  2000
+higher chi-square is accepted
+iteration number  253  of  2000
+lower chi-square
+iteration number  254  of  2000
+higher chi-square is not accepted
+iteration number  255  of  2000
+lower chi-square
+iteration number  256  of  2000
+higher chi-square is accepted
+iteration number  257  of  2000
+higher chi-square is not accepted
+iteration number  258  of  2000
+lower chi-square
+iteration number  259  of  2000
+lower chi-square
+iteration number  260  of  2000
+higher chi-square is accepted
+iteration number  261  of  2000
+lower chi-square
+iteration number  262  of  2000
+lower chi-square
+iteration number  263  of  2000
+lower chi-square
+iteration number  264  of  2000
+higher chi-square is not accepted
+iteration number  265  of  2000
+higher chi-square is not accepted
+iteration number  266  of  2000
+higher chi-square is not accepted
+iteration number  267  of  2000
+higher chi-square is not accepted
+iteration number  268  of  2000
+higher chi-square is not accepted
+iteration number  269  of  2000
+higher chi-square is not accepted
+iteration number  270  of  2000
+higher chi-square is not accepted
+iteration number  271  of  2000
+higher chi-square is not accepted
+iteration number  272  of  2000
+higher chi-square is not accepted
+iteration number  273  of  2000
+higher chi-square is not accepted
+iteration number  274  of  2000
+higher chi-square is accepted
+iteration number  275  of  2000
+higher chi-square is not accepted
+iteration number  276  of  2000
+higher chi-square is not accepted
+iteration number  277  of  2000
+higher chi-square is not accepted
+iteration number  278  of  2000
+higher chi-square is not accepted
+iteration number  279  of  2000
+lower chi-square
+iteration number  280  of  2000
+higher chi-square is accepted
+iteration number  281  of  2000
+lower chi-square
+iteration number  282  of  2000
+lower chi-square
+iteration number  283  of  2000
+higher chi-square is not accepted
+iteration number  284  of  2000
+lower chi-square
+iteration number  285  of  2000
+higher chi-square is not accepted
+iteration number  286  of  2000
+higher chi-square is not accepted
+iteration number  287  of  2000
+higher chi-square is not accepted
+iteration number  288  of  2000
+higher chi-square is not accepted
+iteration number  289  of  2000
+lower chi-square
+iteration number  290  of  2000
+higher chi-square is not accepted
+iteration number  291  of  2000
+higher chi-square is not accepted
+iteration number  292  of  2000
+lower chi-square
+iteration number  293  of  2000
+higher chi-square is not accepted
+iteration number  294  of  2000
+lower chi-square
+iteration number  295  of  2000
+lower chi-square
+iteration number  296  of  2000
+higher chi-square is not accepted
+iteration number  297  of  2000
+higher chi-square is not accepted
+iteration number  298  of  2000
+lower chi-square
+iteration number  299  of  2000
+higher chi-square is not accepted
+iteration number  300  of  2000
+higher chi-square is not accepted
+iteration number  301  of  2000
+higher chi-square is not accepted
+iteration number  302  of  2000
+higher chi-square is not accepted
+iteration number  303  of  2000
+higher chi-square is accepted
+iteration number  304  of  2000
+lower chi-square
+iteration number  305  of  2000
+higher chi-square is accepted
+iteration number  306  of  2000
+lower chi-square
+iteration number  307  of  2000
+lower chi-square
+iteration number  308  of  2000
+lower chi-square
+iteration number  309  of  2000
+higher chi-square is not accepted
+iteration number  310  of  2000
+lower chi-square
+iteration number  311  of  2000
+higher chi-square is not accepted
+iteration number  312  of  2000
+lower chi-square
+iteration number  313  of  2000
+higher chi-square is not accepted
+iteration number  314  of  2000
+higher chi-square is not accepted
+iteration number  315  of  2000
+higher chi-square is not accepted
+iteration number  316  of  2000
+higher chi-square is not accepted
+iteration number  317  of  2000
+higher chi-square is not accepted
+iteration number  318  of  2000
+higher chi-square is not accepted
+iteration number  319  of  2000
+higher chi-square is not accepted
+iteration number  320  of  2000
+higher chi-square is not accepted
+iteration number  321  of  2000
+higher chi-square is not accepted
+iteration number  322  of  2000
+higher chi-square is not accepted
+iteration number  323  of  2000
+higher chi-square is accepted
+iteration number  324  of  2000
+higher chi-square is not accepted
+iteration number  325  of  2000
+higher chi-square is not accepted
+iteration number  326  of  2000
+lower chi-square
+iteration number  327  of  2000
+higher chi-square is not accepted
+iteration number  328  of  2000
+lower chi-square
+iteration number  329  of  2000
+lower chi-square
+iteration number  330  of  2000
+lower chi-square
+iteration number  331  of  2000
+higher chi-square is not accepted
+iteration number  332  of  2000
+higher chi-square is not accepted
+iteration number  333  of  2000
+lower chi-square
+iteration number  334  of  2000
+higher chi-square is not accepted
+iteration number  335  of  2000
+higher chi-square is not accepted
+iteration number  336  of  2000
+higher chi-square is not accepted
+iteration number  337  of  2000
+higher chi-square is not accepted
+iteration number  338  of  2000
+higher chi-square is not accepted
+iteration number  339  of  2000
+higher chi-square is not accepted
+iteration number  340  of  2000
+higher chi-square is not accepted
+iteration number  341  of  2000
+higher chi-square is not accepted
+iteration number  342  of  2000
+higher chi-square is not accepted
+iteration number  343  of  2000
+higher chi-square is not accepted
+iteration number  344  of  2000
+higher chi-square is not accepted
+iteration number  345  of  2000
+higher chi-square is not accepted
+iteration number  346  of  2000
+higher chi-square is not accepted
+iteration number  347  of  2000
+higher chi-square is not accepted
+iteration number  348  of  2000
+higher chi-square is not accepted
+iteration number  349  of  2000
+lower chi-square
+iteration number  350  of  2000
+higher chi-square is not accepted
+iteration number  351  of  2000
+higher chi-square is accepted
+iteration number  352  of  2000
+higher chi-square is not accepted
+iteration number  353  of  2000
+lower chi-square
+iteration number  354  of  2000
+lower chi-square
+iteration number  355  of  2000
+higher chi-square is not accepted
+iteration number  356  of  2000
+higher chi-square is not accepted
+iteration number  357  of  2000
+lower chi-square
+iteration number  358  of  2000
+higher chi-square is not accepted
+iteration number  359  of  2000
+lower chi-square
+iteration number  360  of  2000
+higher chi-square is not accepted
+iteration number  361  of  2000
+higher chi-square is not accepted
+iteration number  362  of  2000
+higher chi-square is not accepted
+iteration number  363  of  2000
+higher chi-square is not accepted
+iteration number  364  of  2000
+higher chi-square is not accepted
+iteration number  365  of  2000
+higher chi-square is not accepted
+iteration number  366  of  2000
+higher chi-square is not accepted
+iteration number  367  of  2000
+higher chi-square is not accepted
+iteration number  368  of  2000
+lower chi-square
+iteration number  369  of  2000
+higher chi-square is not accepted
+iteration number  370  of  2000
+higher chi-square is not accepted
+iteration number  371  of  2000
+higher chi-square is not accepted
+iteration number  372  of  2000
+higher chi-square is not accepted
+iteration number  373  of  2000
+higher chi-square is accepted
+iteration number  374  of  2000
+higher chi-square is not accepted
+iteration number  375  of  2000
+higher chi-square is not accepted
+iteration number  376  of  2000
+lower chi-square
+iteration number  377  of  2000
+higher chi-square is not accepted
+iteration number  378  of  2000
+lower chi-square
+iteration number  379  of  2000
+higher chi-square is not accepted
+iteration number  380  of  2000
+higher chi-square is not accepted
+iteration number  381  of  2000
+higher chi-square is not accepted
+iteration number  382  of  2000
+higher chi-square is not accepted
+iteration number  383  of  2000
+higher chi-square is not accepted
+iteration number  384  of  2000
+higher chi-square is not accepted
+iteration number  385  of  2000
+lower chi-square
+iteration number  386  of  2000
+higher chi-square is not accepted
+iteration number  387  of  2000
+higher chi-square is not accepted
+iteration number  388  of  2000
+higher chi-square is not accepted
+iteration number  389  of  2000
+higher chi-square is not accepted
+iteration number  390  of  2000
+higher chi-square is not accepted
+iteration number  391  of  2000
+higher chi-square is not accepted
+iteration number  392  of  2000
+higher chi-square is not accepted
+iteration number  393  of  2000
+lower chi-square
+iteration number  394  of  2000
+higher chi-square is not accepted
+iteration number  395  of  2000
+higher chi-square is accepted
+iteration number  396  of  2000
+lower chi-square
+iteration number  397  of  2000
+higher chi-square is accepted
+iteration number  398  of  2000
+lower chi-square
+iteration number  399  of  2000
+higher chi-square is accepted
+iteration number  400  of  2000
+higher chi-square is not accepted
+iteration number  401  of  2000
+higher chi-square is not accepted
+iteration number  402  of  2000
+higher chi-square is not accepted
+iteration number  403  of  2000
+lower chi-square
+iteration number  404  of  2000
+higher chi-square is not accepted
+iteration number  405  of  2000
+lower chi-square
+iteration number  406  of  2000
+higher chi-square is not accepted
+iteration number  407  of  2000
+lower chi-square
+iteration number  408  of  2000
+higher chi-square is not accepted
+iteration number  409  of  2000
+higher chi-square is not accepted
+iteration number  410  of  2000
+lower chi-square
+iteration number  411  of  2000
+higher chi-square is not accepted
+iteration number  412  of  2000
+higher chi-square is not accepted
+iteration number  413  of  2000
+higher chi-square is not accepted
+iteration number  414  of  2000
+higher chi-square is not accepted
+iteration number  415  of  2000
+higher chi-square is not accepted
+iteration number  416  of  2000
+higher chi-square is not accepted
+iteration number  417  of  2000
+lower chi-square
+iteration number  418  of  2000
+higher chi-square is not accepted
+iteration number  419  of  2000
+higher chi-square is accepted
+iteration number  420  of  2000
+lower chi-square
+iteration number  421  of  2000
+higher chi-square is not accepted
+iteration number  422  of  2000
+lower chi-square
+iteration number  423  of  2000
+lower chi-square
+iteration number  424  of  2000
+higher chi-square is accepted
+iteration number  425  of  2000
+lower chi-square
+iteration number  426  of  2000
+lower chi-square
+iteration number  427  of  2000
+higher chi-square is not accepted
+iteration number  428  of  2000
+higher chi-square is not accepted
+iteration number  429  of  2000
+higher chi-square is accepted
+iteration number  430  of  2000
+higher chi-square is accepted
+iteration number  431  of  2000
+lower chi-square
+iteration number  432  of  2000
+lower chi-square
+iteration number  433  of  2000
+lower chi-square
+iteration number  434  of  2000
+lower chi-square
+iteration number  435  of  2000
+higher chi-square is accepted
+iteration number  436  of  2000
+higher chi-square is not accepted
+iteration number  437  of  2000
+lower chi-square
+iteration number  438  of  2000
+lower chi-square
+iteration number  439  of  2000
+lower chi-square
+iteration number  440  of  2000
+higher chi-square is not accepted
+iteration number  441  of  2000
+lower chi-square
+iteration number  442  of  2000
+lower chi-square
+iteration number  443  of  2000
+higher chi-square is not accepted
+iteration number  444  of  2000
+higher chi-square is not accepted
+iteration number  445  of  2000
+higher chi-square is not accepted
+iteration number  446  of  2000
+higher chi-square is not accepted
+iteration number  447  of  2000
+higher chi-square is not accepted
+iteration number  448  of  2000
+lower chi-square
+iteration number  449  of  2000
+higher chi-square is not accepted
+iteration number  450  of  2000
+higher chi-square is not accepted
+iteration number  451  of  2000
+higher chi-square is not accepted
+iteration number  452  of  2000
+higher chi-square is not accepted
+iteration number  453  of  2000
+higher chi-square is not accepted
+iteration number  454  of  2000
+higher chi-square is not accepted
+iteration number  455  of  2000
+lower chi-square
+iteration number  456  of  2000
+higher chi-square is not accepted
+iteration number  457  of  2000
+higher chi-square is not accepted
+iteration number  458  of  2000
+higher chi-square is not accepted
+iteration number  459  of  2000
+higher chi-square is not accepted
+iteration number  460  of  2000
+higher chi-square is not accepted
+iteration number  461  of  2000
+higher chi-square is not accepted
+iteration number  462  of  2000
+higher chi-square is not accepted
+iteration number  463  of  2000
+higher chi-square is not accepted
+iteration number  464  of  2000
+higher chi-square is accepted
+iteration number  465  of  2000
+lower chi-square
+iteration number  466  of  2000
+lower chi-square
+iteration number  467  of  2000
+higher chi-square is not accepted
+iteration number  468  of  2000
+lower chi-square
+iteration number  469  of  2000
+higher chi-square is not accepted
+iteration number  470  of  2000
+higher chi-square is not accepted
+iteration number  471  of  2000
+higher chi-square is not accepted
+iteration number  472  of  2000
+lower chi-square
+iteration number  473  of  2000
+higher chi-square is not accepted
+iteration number  474  of  2000
+higher chi-square is not accepted
+iteration number  475  of  2000
+lower chi-square
+iteration number  476  of  2000
+higher chi-square is not accepted
+iteration number  477  of  2000
+lower chi-square
+iteration number  478  of  2000
+lower chi-square
+iteration number  479  of  2000
+higher chi-square is not accepted
+iteration number  480  of  2000
+higher chi-square is not accepted
+iteration number  481  of  2000
+higher chi-square is not accepted
+iteration number  482  of  2000
+higher chi-square is not accepted
+iteration number  483  of  2000
+higher chi-square is not accepted
+iteration number  484  of  2000
+higher chi-square is accepted
+iteration number  485  of  2000
+higher chi-square is not accepted
+iteration number  486  of  2000
+higher chi-square is not accepted
+iteration number  487  of  2000
+higher chi-square is not accepted
+iteration number  488  of  2000
+lower chi-square
+iteration number  489  of  2000
+lower chi-square
+iteration number  490  of  2000
+higher chi-square is accepted
+iteration number  491  of  2000
+lower chi-square
+iteration number  492  of  2000
+lower chi-square
+iteration number  493  of  2000
+higher chi-square is not accepted
+iteration number  494  of  2000
+higher chi-square is accepted
+iteration number  495  of  2000
+higher chi-square is not accepted
+iteration number  496  of  2000
+lower chi-square
+iteration number  497  of  2000
+higher chi-square is not accepted
+iteration number  498  of  2000
+higher chi-square is not accepted
+iteration number  499  of  2000
+higher chi-square is not accepted
+iteration number  500  of  2000
+higher chi-square is not accepted
+iteration number  501  of  2000
+lower chi-square
+iteration number  502  of  2000
+higher chi-square is accepted
+iteration number  503  of  2000
+lower chi-square
+iteration number  504  of  2000
+higher chi-square is not accepted
+iteration number  505  of  2000
+lower chi-square
+iteration number  506  of  2000
+lower chi-square
+iteration number  507  of  2000
+higher chi-square is accepted
+iteration number  508  of  2000
+lower chi-square
+iteration number  509  of  2000
+lower chi-square
+iteration number  510  of  2000
+higher chi-square is not accepted
+iteration number  511  of  2000
+higher chi-square is not accepted
+iteration number  512  of  2000
+higher chi-square is not accepted
+iteration number  513  of  2000
+higher chi-square is not accepted
+iteration number  514  of  2000
+higher chi-square is not accepted
+iteration number  515  of  2000
+higher chi-square is not accepted
+iteration number  516  of  2000
+higher chi-square is not accepted
+iteration number  517  of  2000
+lower chi-square
+iteration number  518  of  2000
+higher chi-square is not accepted
+iteration number  519  of  2000
+higher chi-square is not accepted
+iteration number  520  of  2000
+higher chi-square is accepted
+iteration number  521  of  2000
+lower chi-square
+iteration number  522  of  2000
+lower chi-square
+iteration number  523  of  2000
+higher chi-square is not accepted
+iteration number  524  of  2000
+lower chi-square
+iteration number  525  of  2000
+higher chi-square is not accepted
+iteration number  526  of  2000
+higher chi-square is not accepted
+iteration number  527  of  2000
+higher chi-square is not accepted
+iteration number  528  of  2000
+higher chi-square is not accepted
+iteration number  529  of  2000
+higher chi-square is not accepted
+iteration number  530  of  2000
+higher chi-square is accepted
+iteration number  531  of  2000
+lower chi-square
+iteration number  532  of  2000
+lower chi-square
+iteration number  533  of  2000
+lower chi-square
+iteration number  534  of  2000
+higher chi-square is not accepted
+iteration number  535  of  2000
+higher chi-square is not accepted
+iteration number  536  of  2000
+higher chi-square is not accepted
+iteration number  537  of  2000
+higher chi-square is not accepted
+iteration number  538  of  2000
+higher chi-square is not accepted
+iteration number  539  of  2000
+higher chi-square is not accepted
+iteration number  540  of  2000
+higher chi-square is not accepted
+iteration number  541  of  2000
+higher chi-square is not accepted
+iteration number  542  of  2000
+higher chi-square is not accepted
+iteration number  543  of  2000
+higher chi-square is not accepted
+iteration number  544  of  2000
+higher chi-square is accepted
+iteration number  545  of  2000
+higher chi-square is accepted
+iteration number  546  of  2000
+lower chi-square
+iteration number  547  of  2000
+higher chi-square is accepted
+iteration number  548  of  2000
+higher chi-square is not accepted
+iteration number  549  of  2000
+higher chi-square is not accepted
+iteration number  550  of  2000
+lower chi-square
+iteration number  551  of  2000
+higher chi-square is not accepted
+iteration number  552  of  2000
+higher chi-square is accepted
+iteration number  553  of  2000
+lower chi-square
+iteration number  554  of  2000
+higher chi-square is not accepted
+iteration number  555  of  2000
+lower chi-square
+iteration number  556  of  2000
+lower chi-square
+iteration number  557  of  2000
+higher chi-square is accepted
+iteration number  558  of  2000
+higher chi-square is not accepted
+iteration number  559  of  2000
+higher chi-square is not accepted
+iteration number  560  of  2000
+higher chi-square is accepted
+iteration number  561  of  2000
+higher chi-square is not accepted
+iteration number  562  of  2000
+higher chi-square is not accepted
+iteration number  563  of  2000
+lower chi-square
+iteration number  564  of  2000
+lower chi-square
+iteration number  565  of  2000
+lower chi-square
+iteration number  566  of  2000
+higher chi-square is not accepted
+iteration number  567  of  2000
+higher chi-square is accepted
+iteration number  568  of  2000
+higher chi-square is accepted
+iteration number  569  of  2000
+higher chi-square is not accepted
+iteration number  570  of  2000
+lower chi-square
+iteration number  571  of  2000
+lower chi-square
+iteration number  572  of  2000
+lower chi-square
+iteration number  573  of  2000
+higher chi-square is not accepted
+iteration number  574  of  2000
+higher chi-square is not accepted
+iteration number  575  of  2000
+higher chi-square is not accepted
+iteration number  576  of  2000
+higher chi-square is not accepted
+iteration number  577  of  2000
+higher chi-square is not accepted
+iteration number  578  of  2000
+higher chi-square is not accepted
+iteration number  579  of  2000
+lower chi-square
+iteration number  580  of  2000
+higher chi-square is accepted
+iteration number  581  of  2000
+higher chi-square is accepted
+iteration number  582  of  2000
+lower chi-square
+iteration number  583  of  2000
+higher chi-square is accepted
+iteration number  584  of  2000
+higher chi-square is not accepted
+iteration number  585  of  2000
+lower chi-square
+iteration number  586  of  2000
+lower chi-square
+iteration number  587  of  2000
+higher chi-square is not accepted
+iteration number  588  of  2000
+higher chi-square is not accepted
+iteration number  589  of  2000
+higher chi-square is not accepted
+iteration number  590  of  2000
+lower chi-square
+iteration number  591  of  2000
+higher chi-square is not accepted
+iteration number  592  of  2000
+lower chi-square
+iteration number  593  of  2000
+higher chi-square is accepted
+iteration number  594  of  2000
+lower chi-square
+iteration number  595  of  2000
+higher chi-square is not accepted
+iteration number  596  of  2000
+higher chi-square is not accepted
+iteration number  597  of  2000
+higher chi-square is not accepted
+iteration number  598  of  2000
+higher chi-square is not accepted
+iteration number  599  of  2000
+higher chi-square is not accepted
+iteration number  600  of  2000
+higher chi-square is not accepted
+iteration number  601  of  2000
+higher chi-square is not accepted
+iteration number  602  of  2000
+higher chi-square is not accepted
+iteration number  603  of  2000
+lower chi-square
+iteration number  604  of  2000
+higher chi-square is not accepted
+iteration number  605  of  2000
+higher chi-square is not accepted
+iteration number  606  of  2000
+higher chi-square is not accepted
+iteration number  607  of  2000
+higher chi-square is not accepted
+iteration number  608  of  2000
+higher chi-square is not accepted
+iteration number  609  of  2000
+higher chi-square is not accepted
+iteration number  610  of  2000
+higher chi-square is not accepted
+iteration number  611  of  2000
+higher chi-square is not accepted
+iteration number  612  of  2000
+lower chi-square
+iteration number  613  of  2000
+higher chi-square is not accepted
+iteration number  614  of  2000
+lower chi-square
+iteration number  615  of  2000
+higher chi-square is not accepted
+iteration number  616  of  2000
+higher chi-square is not accepted
+iteration number  617  of  2000
+higher chi-square is not accepted
+iteration number  618  of  2000
+higher chi-square is not accepted
+iteration number  619  of  2000
+higher chi-square is not accepted
+iteration number  620  of  2000
+higher chi-square is not accepted
+iteration number  621  of  2000
+lower chi-square
+iteration number  622  of  2000
+higher chi-square is not accepted
+iteration number  623  of  2000
+higher chi-square is not accepted
+iteration number  624  of  2000
+higher chi-square is not accepted
+iteration number  625  of  2000
+higher chi-square is not accepted
+iteration number  626  of  2000
+higher chi-square is not accepted
+iteration number  627  of  2000
+higher chi-square is not accepted
+iteration number  628  of  2000
+higher chi-square is not accepted
+iteration number  629  of  2000
+higher chi-square is not accepted
+iteration number  630  of  2000
+higher chi-square is not accepted
+iteration number  631  of  2000
+higher chi-square is not accepted
+iteration number  632  of  2000
+higher chi-square is not accepted
+iteration number  633  of  2000
+lower chi-square
+iteration number  634  of  2000
+higher chi-square is not accepted
+iteration number  635  of  2000
+higher chi-square is not accepted
+iteration number  636  of  2000
+higher chi-square is not accepted
+iteration number  637  of  2000
+higher chi-square is not accepted
+iteration number  638  of  2000
+higher chi-square is not accepted
+iteration number  639  of  2000
+higher chi-square is not accepted
+iteration number  640  of  2000
+higher chi-square is not accepted
+iteration number  641  of  2000
+higher chi-square is not accepted
+iteration number  642  of  2000
+higher chi-square is accepted
+iteration number  643  of  2000
+higher chi-square is not accepted
+iteration number  644  of  2000
+higher chi-square is not accepted
+iteration number  645  of  2000
+lower chi-square
+iteration number  646  of  2000
+higher chi-square is not accepted
+iteration number  647  of  2000
+higher chi-square is not accepted
+iteration number  648  of  2000
+lower chi-square
+iteration number  649  of  2000
+lower chi-square
+iteration number  650  of  2000
+higher chi-square is accepted
+iteration number  651  of  2000
+higher chi-square is not accepted
+iteration number  652  of  2000
+lower chi-square
+iteration number  653  of  2000
+higher chi-square is not accepted
+iteration number  654  of  2000
+lower chi-square
+iteration number  655  of  2000
+higher chi-square is not accepted
+iteration number  656  of  2000
+lower chi-square
+iteration number  657  of  2000
+higher chi-square is not accepted
+iteration number  658  of  2000
+higher chi-square is accepted
+iteration number  659  of  2000
+higher chi-square is not accepted
+iteration number  660  of  2000
+lower chi-square
+iteration number  661  of  2000
+lower chi-square
+iteration number  662  of  2000
+higher chi-square is not accepted
+iteration number  663  of  2000
+higher chi-square is not accepted
+iteration number  664  of  2000
+lower chi-square
+iteration number  665  of  2000
+higher chi-square is not accepted
+iteration number  666  of  2000
+higher chi-square is not accepted
+iteration number  667  of  2000
+higher chi-square is not accepted
+iteration number  668  of  2000
+lower chi-square
+iteration number  669  of  2000
+lower chi-square
+iteration number  670  of  2000
+higher chi-square is not accepted
+iteration number  671  of  2000
+higher chi-square is not accepted
+iteration number  672  of  2000
+higher chi-square is not accepted
+iteration number  673  of  2000
+higher chi-square is not accepted
+iteration number  674  of  2000
+higher chi-square is not accepted
+iteration number  675  of  2000
+lower chi-square
+iteration number  676  of  2000
+lower chi-square
+iteration number  677  of  2000
+higher chi-square is accepted
+iteration number  678  of  2000
+lower chi-square
+iteration number  679  of  2000
+higher chi-square is not accepted
+iteration number  680  of  2000
+higher chi-square is not accepted
+iteration number  681  of  2000
+higher chi-square is not accepted
+iteration number  682  of  2000
+higher chi-square is not accepted
+iteration number  683  of  2000
+higher chi-square is not accepted
+iteration number  684  of  2000
+higher chi-square is accepted
+iteration number  685  of  2000
+lower chi-square
+iteration number  686  of  2000
+higher chi-square is not accepted
+iteration number  687  of  2000
+higher chi-square is not accepted
+iteration number  688  of  2000
+higher chi-square is not accepted
+iteration number  689  of  2000
+higher chi-square is not accepted
+iteration number  690  of  2000
+higher chi-square is not accepted
+iteration number  691  of  2000
+lower chi-square
+iteration number  692  of  2000
+higher chi-square is accepted
+iteration number  693  of  2000
+higher chi-square is not accepted
+iteration number  694  of  2000
+higher chi-square is not accepted
+iteration number  695  of  2000
+higher chi-square is not accepted
+iteration number  696  of  2000
+lower chi-square
+iteration number  697  of  2000
+lower chi-square
+iteration number  698  of  2000
+higher chi-square is not accepted
+iteration number  699  of  2000
+higher chi-square is accepted
+iteration number  700  of  2000
+higher chi-square is not accepted
+iteration number  701  of  2000
+higher chi-square is not accepted
+iteration number  702  of  2000
+lower chi-square
+iteration number  703  of  2000
+lower chi-square
+iteration number  704  of  2000
+higher chi-square is not accepted
+iteration number  705  of  2000
+higher chi-square is not accepted
+iteration number  706  of  2000
+higher chi-square is not accepted
+iteration number  707  of  2000
+higher chi-square is not accepted
+iteration number  708  of  2000
+higher chi-square is not accepted
+iteration number  709  of  2000
+higher chi-square is not accepted
+iteration number  710  of  2000
+higher chi-square is not accepted
+iteration number  711  of  2000
+higher chi-square is not accepted
+iteration number  712  of  2000
+higher chi-square is not accepted
+iteration number  713  of  2000
+lower chi-square
+iteration number  714  of  2000
+higher chi-square is not accepted
+iteration number  715  of  2000
+higher chi-square is accepted
+iteration number  716  of  2000
+higher chi-square is accepted
+iteration number  717  of  2000
+lower chi-square
+iteration number  718  of  2000
+lower chi-square
+iteration number  719  of  2000
+lower chi-square
+iteration number  720  of  2000
+higher chi-square is not accepted
+iteration number  721  of  2000
+lower chi-square
+iteration number  722  of  2000
+higher chi-square is not accepted
+iteration number  723  of  2000
+higher chi-square is not accepted
+iteration number  724  of  2000
+higher chi-square is not accepted
+iteration number  725  of  2000
+higher chi-square is not accepted
+iteration number  726  of  2000
+higher chi-square is not accepted
+iteration number  727  of  2000
+higher chi-square is not accepted
+iteration number  728  of  2000
+higher chi-square is not accepted
+iteration number  729  of  2000
+higher chi-square is not accepted
+iteration number  730  of  2000
+higher chi-square is accepted
+iteration number  731  of  2000
+lower chi-square
+iteration number  732  of  2000
+higher chi-square is not accepted
+iteration number  733  of  2000
+higher chi-square is not accepted
+iteration number  734  of  2000
+lower chi-square
+iteration number  735  of  2000
+higher chi-square is not accepted
+iteration number  736  of  2000
+higher chi-square is not accepted
+iteration number  737  of  2000
+higher chi-square is not accepted
+iteration number  738  of  2000
+higher chi-square is not accepted
+iteration number  739  of  2000
+higher chi-square is not accepted
+iteration number  740  of  2000
+higher chi-square is not accepted
+iteration number  741  of  2000
+higher chi-square is not accepted
+iteration number  742  of  2000
+higher chi-square is not accepted
+iteration number  743  of  2000
+higher chi-square is not accepted
+iteration number  744  of  2000
+higher chi-square is not accepted
+iteration number  745  of  2000
+higher chi-square is not accepted
+iteration number  746  of  2000
+higher chi-square is not accepted
+iteration number  747  of  2000
+higher chi-square is not accepted
+iteration number  748  of  2000
+higher chi-square is accepted
+iteration number  749  of  2000
+higher chi-square is not accepted
+iteration number  750  of  2000
+higher chi-square is not accepted
+iteration number  751  of  2000
+lower chi-square
+iteration number  752  of  2000
+lower chi-square
+iteration number  753  of  2000
+higher chi-square is not accepted
+iteration number  754  of  2000
+higher chi-square is not accepted
+iteration number  755  of  2000
+higher chi-square is not accepted
+iteration number  756  of  2000
+lower chi-square
+iteration number  757  of  2000
+higher chi-square is not accepted
+iteration number  758  of  2000
+higher chi-square is accepted
+iteration number  759  of  2000
+higher chi-square is not accepted
+iteration number  760  of  2000
+lower chi-square
+iteration number  761  of  2000
+higher chi-square is accepted
+iteration number  762  of  2000
+higher chi-square is not accepted
+iteration number  763  of  2000
+higher chi-square is accepted
+iteration number  764  of  2000
+lower chi-square
+iteration number  765  of  2000
+lower chi-square
+iteration number  766  of  2000
+higher chi-square is accepted
+iteration number  767  of  2000
+lower chi-square
+iteration number  768  of  2000
+lower chi-square
+iteration number  769  of  2000
+lower chi-square
+iteration number  770  of  2000
+higher chi-square is not accepted
+iteration number  771  of  2000
+higher chi-square is not accepted
+iteration number  772  of  2000
+higher chi-square is not accepted
+iteration number  773  of  2000
+lower chi-square
+iteration number  774  of  2000
+lower chi-square
+iteration number  775  of  2000
+higher chi-square is not accepted
+iteration number  776  of  2000
+lower chi-square
+iteration number  777  of  2000
+lower chi-square
+iteration number  778  of  2000
+higher chi-square is not accepted
+iteration number  779  of  2000
+lower chi-square
+iteration number  780  of  2000
+higher chi-square is not accepted
+iteration number  781  of  2000
+higher chi-square is not accepted
+iteration number  782  of  2000
+higher chi-square is accepted
+iteration number  783  of  2000
+lower chi-square
+iteration number  784  of  2000
+lower chi-square
+iteration number  785  of  2000
+lower chi-square
+iteration number  786  of  2000
+lower chi-square
+iteration number  787  of  2000
+higher chi-square is not accepted
+iteration number  788  of  2000
+higher chi-square is not accepted
+iteration number  789  of  2000
+higher chi-square is not accepted
+iteration number  790  of  2000
+higher chi-square is not accepted
+iteration number  791  of  2000
+higher chi-square is not accepted
+iteration number  792  of  2000
+higher chi-square is not accepted
+iteration number  793  of  2000
+higher chi-square is not accepted
+iteration number  794  of  2000
+higher chi-square is not accepted
+iteration number  795  of  2000
+higher chi-square is not accepted
+iteration number  796  of  2000
+higher chi-square is not accepted
+iteration number  797  of  2000
+higher chi-square is not accepted
+iteration number  798  of  2000
+higher chi-square is not accepted
+iteration number  799  of  2000
+higher chi-square is not accepted
+iteration number  800  of  2000
+higher chi-square is not accepted
+iteration number  801  of  2000
+higher chi-square is not accepted
+iteration number  802  of  2000
+higher chi-square is accepted
+iteration number  803  of  2000
+higher chi-square is not accepted
+iteration number  804  of  2000
+lower chi-square
+iteration number  805  of  2000
+higher chi-square is accepted
+iteration number  806  of  2000
+higher chi-square is not accepted
+iteration number  807  of  2000
+higher chi-square is not accepted
+iteration number  808  of  2000
+higher chi-square is not accepted
+iteration number  809  of  2000
+higher chi-square is accepted
+iteration number  810  of  2000
+lower chi-square
+iteration number  811  of  2000
+higher chi-square is accepted
+iteration number  812  of  2000
+lower chi-square
+iteration number  813  of  2000
+higher chi-square is not accepted
+iteration number  814  of  2000
+lower chi-square
+iteration number  815  of  2000
+higher chi-square is not accepted
+iteration number  816  of  2000
+higher chi-square is not accepted
+iteration number  817  of  2000
+higher chi-square is not accepted
+iteration number  818  of  2000
+lower chi-square
+iteration number  819  of  2000
+lower chi-square
+iteration number  820  of  2000
+higher chi-square is not accepted
+iteration number  821  of  2000
+higher chi-square is not accepted
+iteration number  822  of  2000
+higher chi-square is not accepted
+iteration number  823  of  2000
+higher chi-square is not accepted
+iteration number  824  of  2000
+higher chi-square is accepted
+iteration number  825  of  2000
+higher chi-square is accepted
+iteration number  826  of  2000
+higher chi-square is not accepted
+iteration number  827  of  2000
+higher chi-square is not accepted
+iteration number  828  of  2000
+lower chi-square
+iteration number  829  of  2000
+lower chi-square
+iteration number  830  of  2000
+higher chi-square is not accepted
+iteration number  831  of  2000
+higher chi-square is not accepted
+iteration number  832  of  2000
+higher chi-square is accepted
+iteration number  833  of  2000
+higher chi-square is accepted
+iteration number  834  of  2000
+lower chi-square
+iteration number  835  of  2000
+lower chi-square
+iteration number  836  of  2000
+higher chi-square is accepted
+iteration number  837  of  2000
+higher chi-square is not accepted
+iteration number  838  of  2000
+lower chi-square
+iteration number  839  of  2000
+higher chi-square is accepted
+iteration number  840  of  2000
+lower chi-square
+iteration number  841  of  2000
+higher chi-square is accepted
+iteration number  842  of  2000
+lower chi-square
+iteration number  843  of  2000
+lower chi-square
+iteration number  844  of  2000
+lower chi-square
+iteration number  845  of  2000
+higher chi-square is not accepted
+iteration number  846  of  2000
+lower chi-square
+iteration number  847  of  2000
+lower chi-square
+iteration number  848  of  2000
+higher chi-square is accepted
+iteration number  849  of  2000
+lower chi-square
+iteration number  850  of  2000
+lower chi-square
+iteration number  851  of  2000
+lower chi-square
+iteration number  852  of  2000
+lower chi-square
+iteration number  853  of  2000
+higher chi-square is not accepted
+iteration number  854  of  2000
+lower chi-square
+iteration number  855  of  2000
+higher chi-square is not accepted
+iteration number  856  of  2000
+higher chi-square is not accepted
+iteration number  857  of  2000
+higher chi-square is not accepted
+iteration number  858  of  2000
+higher chi-square is not accepted
+iteration number  859  of  2000
+higher chi-square is not accepted
+iteration number  860  of  2000
+higher chi-square is not accepted
+iteration number  861  of  2000
+higher chi-square is not accepted
+iteration number  862  of  2000
+higher chi-square is not accepted
+iteration number  863  of  2000
+higher chi-square is accepted
+iteration number  864  of  2000
+higher chi-square is accepted
+iteration number  865  of  2000
+higher chi-square is accepted
+iteration number  866  of  2000
+lower chi-square
+iteration number  867  of  2000
+lower chi-square
+iteration number  868  of  2000
+lower chi-square
+iteration number  869  of  2000
+higher chi-square is not accepted
+iteration number  870  of  2000
+higher chi-square is not accepted
+iteration number  871  of  2000
+lower chi-square
+iteration number  872  of  2000
+higher chi-square is not accepted
+iteration number  873  of  2000
+higher chi-square is not accepted
+iteration number  874  of  2000
+higher chi-square is not accepted
+iteration number  875  of  2000
+higher chi-square is not accepted
+iteration number  876  of  2000
+higher chi-square is accepted
+iteration number  877  of  2000
+higher chi-square is not accepted
+iteration number  878  of  2000
+higher chi-square is accepted
+iteration number  879  of  2000
+lower chi-square
+iteration number  880  of  2000
+higher chi-square is not accepted
+iteration number  881  of  2000
+lower chi-square
+iteration number  882  of  2000
+lower chi-square
+iteration number  883  of  2000
+higher chi-square is not accepted
+iteration number  884  of  2000
+higher chi-square is accepted
+iteration number  885  of  2000
+higher chi-square is accepted
+iteration number  886  of  2000
+higher chi-square is not accepted
+iteration number  887  of  2000
+lower chi-square
+iteration number  888  of  2000
+higher chi-square is accepted
+iteration number  889  of  2000
+lower chi-square
+iteration number  890  of  2000
+lower chi-square
+iteration number  891  of  2000
+lower chi-square
+iteration number  892  of  2000
+higher chi-square is not accepted
+iteration number  893  of  2000
+lower chi-square
+iteration number  894  of  2000
+higher chi-square is not accepted
+iteration number  895  of  2000
+higher chi-square is not accepted
+iteration number  896  of  2000
+higher chi-square is not accepted
+iteration number  897  of  2000
+higher chi-square is not accepted
+iteration number  898  of  2000
+lower chi-square
+iteration number  899  of  2000
+higher chi-square is accepted
+iteration number  900  of  2000
+lower chi-square
+iteration number  901  of  2000
+lower chi-square
+iteration number  902  of  2000
+higher chi-square is not accepted
+iteration number  903  of  2000
+higher chi-square is not accepted
+iteration number  904  of  2000
+lower chi-square
+iteration number  905  of  2000
+higher chi-square is accepted
+iteration number  906  of  2000
+lower chi-square
+iteration number  907  of  2000
+higher chi-square is not accepted
+iteration number  908  of  2000
+higher chi-square is not accepted
+iteration number  909  of  2000
+lower chi-square
+iteration number  910  of  2000
+higher chi-square is not accepted
+iteration number  911  of  2000
+lower chi-square
+iteration number  912  of  2000
+higher chi-square is not accepted
+iteration number  913  of  2000
+lower chi-square
+iteration number  914  of  2000
+higher chi-square is not accepted
+iteration number  915  of  2000
+higher chi-square is not accepted
+iteration number  916  of  2000
+higher chi-square is not accepted
+iteration number  917  of  2000
+higher chi-square is accepted
+iteration number  918  of  2000
+higher chi-square is not accepted
+iteration number  919  of  2000
+higher chi-square is not accepted
+iteration number  920  of  2000
+higher chi-square is not accepted
+iteration number  921  of  2000
+higher chi-square is not accepted
+iteration number  922  of  2000
+higher chi-square is not accepted
+iteration number  923  of  2000
+higher chi-square is not accepted
+iteration number  924  of  2000
+lower chi-square
+iteration number  925  of  2000
+lower chi-square
+iteration number  926  of  2000
+higher chi-square is not accepted
+iteration number  927  of  2000
+lower chi-square
+iteration number  928  of  2000
+higher chi-square is not accepted
+iteration number  929  of  2000
+higher chi-square is accepted
+iteration number  930  of  2000
+lower chi-square
+iteration number  931  of  2000
+higher chi-square is not accepted
+iteration number  932  of  2000
+higher chi-square is not accepted
+iteration number  933  of  2000
+higher chi-square is not accepted
+iteration number  934  of  2000
+higher chi-square is accepted
+iteration number  935  of  2000
+lower chi-square
+iteration number  936  of  2000
+lower chi-square
+iteration number  937  of  2000
+higher chi-square is accepted
+iteration number  938  of  2000
+lower chi-square
+iteration number  939  of  2000
+lower chi-square
+iteration number  940  of  2000
+lower chi-square
+iteration number  941  of  2000
+higher chi-square is not accepted
+iteration number  942  of  2000
+higher chi-square is not accepted
+iteration number  943  of  2000
+higher chi-square is not accepted
+iteration number  944  of  2000
+lower chi-square
+iteration number  945  of  2000
+higher chi-square is not accepted
+iteration number  946  of  2000
+higher chi-square is not accepted
+iteration number  947  of  2000
+higher chi-square is not accepted
+iteration number  948  of  2000
+lower chi-square
+iteration number  949  of  2000
+higher chi-square is not accepted
+iteration number  950  of  2000
+higher chi-square is not accepted
+iteration number  951  of  2000
+higher chi-square is accepted
+iteration number  952  of  2000
+higher chi-square is not accepted
+iteration number  953  of  2000
+lower chi-square
+iteration number  954  of  2000
+higher chi-square is accepted
+iteration number  955  of  2000
+lower chi-square
+iteration number  956  of  2000
+higher chi-square is accepted
+iteration number  957  of  2000
+lower chi-square
+iteration number  958  of  2000
+lower chi-square
+iteration number  959  of  2000
+lower chi-square
+iteration number  960  of  2000
+higher chi-square is not accepted
+iteration number  961  of  2000
+higher chi-square is not accepted
+iteration number  962  of  2000
+higher chi-square is not accepted
+iteration number  963  of  2000
+lower chi-square
+iteration number  964  of  2000
+lower chi-square
+iteration number  965  of  2000
+higher chi-square is accepted
+iteration number  966  of  2000
+higher chi-square is not accepted
+iteration number  967  of  2000
+higher chi-square is accepted
+iteration number  968  of  2000
+lower chi-square
+iteration number  969  of  2000
+higher chi-square is not accepted
+iteration number  970  of  2000
+higher chi-square is not accepted
+iteration number  971  of  2000
+higher chi-square is not accepted
+iteration number  972  of  2000
+higher chi-square is not accepted
+iteration number  973  of  2000
+higher chi-square is not accepted
+iteration number  974  of  2000
+higher chi-square is not accepted
+iteration number  975  of  2000
+higher chi-square is not accepted
+iteration number  976  of  2000
+higher chi-square is not accepted
+iteration number  977  of  2000
+higher chi-square is not accepted
+iteration number  978  of  2000
+lower chi-square
+iteration number  979  of  2000
+lower chi-square
+iteration number  980  of  2000
+higher chi-square is not accepted
+iteration number  981  of  2000
+higher chi-square is not accepted
+iteration number  982  of  2000
+higher chi-square is not accepted
+iteration number  983  of  2000
+higher chi-square is not accepted
+iteration number  984  of  2000
+higher chi-square is not accepted
+iteration number  985  of  2000
+higher chi-square is not accepted
+iteration number  986  of  2000
+higher chi-square is not accepted
+iteration number  987  of  2000
+higher chi-square is not accepted
+iteration number  988  of  2000
+higher chi-square is not accepted
+iteration number  989  of  2000
+lower chi-square
+iteration number  990  of  2000
+higher chi-square is not accepted
+iteration number  991  of  2000
+higher chi-square is accepted
+iteration number  992  of  2000
+lower chi-square
+iteration number  993  of  2000
+higher chi-square is not accepted
+iteration number  994  of  2000
+higher chi-square is accepted
+iteration number  995  of  2000
+lower chi-square
+iteration number  996  of  2000
+lower chi-square
+iteration number  997  of  2000
+higher chi-square is not accepted
+iteration number  998  of  2000
+higher chi-square is not accepted
+iteration number  999  of  2000
+higher chi-square is accepted
+iteration number  1000  of  2000
+lower chi-square
+iteration number  1001  of  2000
+higher chi-square is not accepted
+iteration number  1002  of  2000
+higher chi-square is not accepted
+iteration number  1003  of  2000
+higher chi-square is accepted
+iteration number  1004  of  2000
+lower chi-square
+iteration number  1005  of  2000
+higher chi-square is accepted
+iteration number  1006  of  2000
+higher chi-square is accepted
+iteration number  1007  of  2000
+lower chi-square
+iteration number  1008  of  2000
+lower chi-square
+iteration number  1009  of  2000
+higher chi-square is accepted
+iteration number  1010  of  2000
+lower chi-square
+iteration number  1011  of  2000
+higher chi-square is not accepted
+iteration number  1012  of  2000
+higher chi-square is not accepted
+iteration number  1013  of  2000
+higher chi-square is not accepted
+iteration number  1014  of  2000
+lower chi-square
+iteration number  1015  of  2000
+higher chi-square is not accepted
+iteration number  1016  of  2000
+higher chi-square is not accepted
+iteration number  1017  of  2000
+higher chi-square is not accepted
+iteration number  1018  of  2000
+lower chi-square
+iteration number  1019  of  2000
+lower chi-square
+iteration number  1020  of  2000
+higher chi-square is accepted
+iteration number  1021  of  2000
+lower chi-square
+iteration number  1022  of  2000
+higher chi-square is not accepted
+iteration number  1023  of  2000
+higher chi-square is not accepted
+iteration number  1024  of  2000
+higher chi-square is accepted
+iteration number  1025  of  2000
+lower chi-square
+iteration number  1026  of  2000
+lower chi-square
+iteration number  1027  of  2000
+higher chi-square is not accepted
+iteration number  1028  of  2000
+higher chi-square is not accepted
+iteration number  1029  of  2000
+higher chi-square is not accepted
+iteration number  1030  of  2000
+higher chi-square is accepted
+iteration number  1031  of  2000
+higher chi-square is not accepted
+iteration number  1032  of  2000
+higher chi-square is not accepted
+iteration number  1033  of  2000
+higher chi-square is not accepted
+iteration number  1034  of  2000
+lower chi-square
+iteration number  1035  of  2000
+lower chi-square
+iteration number  1036  of  2000
+higher chi-square is not accepted
+iteration number  1037  of  2000
+higher chi-square is not accepted
+iteration number  1038  of  2000
+lower chi-square
+iteration number  1039  of  2000
+higher chi-square is not accepted
+iteration number  1040  of  2000
+higher chi-square is not accepted
+iteration number  1041  of  2000
+higher chi-square is not accepted
+iteration number  1042  of  2000
+higher chi-square is not accepted
+iteration number  1043  of  2000
+lower chi-square
+iteration number  1044  of  2000
+higher chi-square is not accepted
+iteration number  1045  of  2000
+higher chi-square is not accepted
+iteration number  1046  of  2000
+higher chi-square is not accepted
+iteration number  1047  of  2000
+higher chi-square is not accepted
+iteration number  1048  of  2000
+higher chi-square is accepted
+iteration number  1049  of  2000
+lower chi-square
+iteration number  1050  of  2000
+lower chi-square
+iteration number  1051  of  2000
+higher chi-square is not accepted
+iteration number  1052  of  2000
+higher chi-square is not accepted
+iteration number  1053  of  2000
+higher chi-square is not accepted
+iteration number  1054  of  2000
+higher chi-square is not accepted
+iteration number  1055  of  2000
+higher chi-square is not accepted
+iteration number  1056  of  2000
+higher chi-square is not accepted
+iteration number  1057  of  2000
+higher chi-square is accepted
+iteration number  1058  of  2000
+higher chi-square is accepted
+iteration number  1059  of  2000
+lower chi-square
+iteration number  1060  of  2000
+lower chi-square
+iteration number  1061  of  2000
+lower chi-square
+iteration number  1062  of  2000
+higher chi-square is accepted
+iteration number  1063  of  2000
+lower chi-square
+iteration number  1064  of  2000
+lower chi-square
+iteration number  1065  of  2000
+lower chi-square
+iteration number  1066  of  2000
+higher chi-square is not accepted
+iteration number  1067  of  2000
+lower chi-square
+iteration number  1068  of  2000
+lower chi-square
+iteration number  1069  of  2000
+higher chi-square is not accepted
+iteration number  1070  of  2000
+lower chi-square
+iteration number  1071  of  2000
+higher chi-square is not accepted
+iteration number  1072  of  2000
+higher chi-square is accepted
+iteration number  1073  of  2000
+higher chi-square is not accepted
+iteration number  1074  of  2000
+lower chi-square
+iteration number  1075  of  2000
+higher chi-square is not accepted
+iteration number  1076  of  2000
+higher chi-square is not accepted
+iteration number  1077  of  2000
+lower chi-square
+iteration number  1078  of  2000
+lower chi-square
+iteration number  1079  of  2000
+higher chi-square is not accepted
+iteration number  1080  of  2000
+lower chi-square
+iteration number  1081  of  2000
+higher chi-square is not accepted
+iteration number  1082  of  2000
+higher chi-square is accepted
+iteration number  1083  of  2000
+higher chi-square is accepted
+iteration number  1084  of  2000
+higher chi-square is not accepted
+iteration number  1085  of  2000
+lower chi-square
+iteration number  1086  of  2000
+higher chi-square is not accepted
+iteration number  1087  of  2000
+higher chi-square is accepted
+iteration number  1088  of  2000
+higher chi-square is not accepted
+iteration number  1089  of  2000
+higher chi-square is accepted
+iteration number  1090  of  2000
+higher chi-square is accepted
+iteration number  1091  of  2000
+lower chi-square
+iteration number  1092  of  2000
+lower chi-square
+iteration number  1093  of  2000
+lower chi-square
+iteration number  1094  of  2000
+higher chi-square is not accepted
+iteration number  1095  of  2000
+higher chi-square is not accepted
+iteration number  1096  of  2000
+higher chi-square is not accepted
+iteration number  1097  of  2000
+higher chi-square is accepted
+iteration number  1098  of  2000
+lower chi-square
+iteration number  1099  of  2000
+higher chi-square is not accepted
+iteration number  1100  of  2000
+lower chi-square
+iteration number  1101  of  2000
+higher chi-square is accepted
+iteration number  1102  of  2000
+higher chi-square is not accepted
+iteration number  1103  of  2000
+lower chi-square
+iteration number  1104  of  2000
+higher chi-square is not accepted
+iteration number  1105  of  2000
+lower chi-square
+iteration number  1106  of  2000
+lower chi-square
+iteration number  1107  of  2000
+lower chi-square
+iteration number  1108  of  2000
+higher chi-square is not accepted
+iteration number  1109  of  2000
+higher chi-square is not accepted
+iteration number  1110  of  2000
+higher chi-square is not accepted
+iteration number  1111  of  2000
+higher chi-square is not accepted
+iteration number  1112  of  2000
+higher chi-square is not accepted
+iteration number  1113  of  2000
+higher chi-square is not accepted
+iteration number  1114  of  2000
+higher chi-square is not accepted
+iteration number  1115  of  2000
+higher chi-square is accepted
+iteration number  1116  of  2000
+higher chi-square is not accepted
+iteration number  1117  of  2000
+higher chi-square is not accepted
+iteration number  1118  of  2000
+lower chi-square
+iteration number  1119  of  2000
+lower chi-square
+iteration number  1120  of  2000
+higher chi-square is not accepted
+iteration number  1121  of  2000
+lower chi-square
+iteration number  1122  of  2000
+higher chi-square is accepted
+iteration number  1123  of  2000
+higher chi-square is not accepted
+iteration number  1124  of  2000
+higher chi-square is not accepted
+iteration number  1125  of  2000
+higher chi-square is not accepted
+iteration number  1126  of  2000
+lower chi-square
+iteration number  1127  of  2000
+higher chi-square is not accepted
+iteration number  1128  of  2000
+higher chi-square is not accepted
+iteration number  1129  of  2000
+lower chi-square
+iteration number  1130  of  2000
+higher chi-square is not accepted
+iteration number  1131  of  2000
+higher chi-square is not accepted
+iteration number  1132  of  2000
+higher chi-square is accepted
+iteration number  1133  of  2000
+lower chi-square
+iteration number  1134  of  2000
+lower chi-square
+iteration number  1135  of  2000
+higher chi-square is not accepted
+iteration number  1136  of  2000
+higher chi-square is not accepted
+iteration number  1137  of  2000
+higher chi-square is not accepted
+iteration number  1138  of  2000
+higher chi-square is not accepted
+iteration number  1139  of  2000
+higher chi-square is not accepted
+iteration number  1140  of  2000
+higher chi-square is accepted
+iteration number  1141  of  2000
+lower chi-square
+iteration number  1142  of  2000
+lower chi-square
+iteration number  1143  of  2000
+lower chi-square
+iteration number  1144  of  2000
+higher chi-square is not accepted
+iteration number  1145  of  2000
+higher chi-square is not accepted
+iteration number  1146  of  2000
+higher chi-square is not accepted
+iteration number  1147  of  2000
+higher chi-square is not accepted
+iteration number  1148  of  2000
+lower chi-square
+iteration number  1149  of  2000
+lower chi-square
+iteration number  1150  of  2000
+higher chi-square is not accepted
+iteration number  1151  of  2000
+higher chi-square is not accepted
+iteration number  1152  of  2000
+higher chi-square is accepted
+iteration number  1153  of  2000
+lower chi-square
+iteration number  1154  of  2000
+lower chi-square
+iteration number  1155  of  2000
+higher chi-square is accepted
+iteration number  1156  of  2000
+lower chi-square
+iteration number  1157  of  2000
+lower chi-square
+iteration number  1158  of  2000
+higher chi-square is accepted
+iteration number  1159  of  2000
+lower chi-square
+iteration number  1160  of  2000
+higher chi-square is not accepted
+iteration number  1161  of  2000
+higher chi-square is accepted
+iteration number  1162  of  2000
+higher chi-square is not accepted
+iteration number  1163  of  2000
+higher chi-square is accepted
+iteration number  1164  of  2000
+higher chi-square is not accepted
+iteration number  1165  of  2000
+higher chi-square is not accepted
+iteration number  1166  of  2000
+lower chi-square
+iteration number  1167  of  2000
+higher chi-square is accepted
+iteration number  1168  of  2000
+lower chi-square
+iteration number  1169  of  2000
+lower chi-square
+iteration number  1170  of  2000
+lower chi-square
+iteration number  1171  of  2000
+lower chi-square
+iteration number  1172  of  2000
+lower chi-square
+iteration number  1173  of  2000
+higher chi-square is not accepted
+iteration number  1174  of  2000
+higher chi-square is not accepted
+iteration number  1175  of  2000
+higher chi-square is accepted
+iteration number  1176  of  2000
+lower chi-square
+iteration number  1177  of  2000
+higher chi-square is not accepted
+iteration number  1178  of  2000
+higher chi-square is not accepted
+iteration number  1179  of  2000
+higher chi-square is accepted
+iteration number  1180  of  2000
+higher chi-square is accepted
+iteration number  1181  of  2000
+lower chi-square
+iteration number  1182  of  2000
+lower chi-square
+iteration number  1183  of  2000
+higher chi-square is not accepted
+iteration number  1184  of  2000
+lower chi-square
+iteration number  1185  of  2000
+lower chi-square
+iteration number  1186  of  2000
+lower chi-square
+iteration number  1187  of  2000
+lower chi-square
+iteration number  1188  of  2000
+higher chi-square is not accepted
+iteration number  1189  of  2000
+higher chi-square is not accepted
+iteration number  1190  of  2000
+lower chi-square
+iteration number  1191  of  2000
+lower chi-square
+iteration number  1192  of  2000
+higher chi-square is not accepted
+iteration number  1193  of  2000
+higher chi-square is not accepted
+iteration number  1194  of  2000
+lower chi-square
+iteration number  1195  of  2000
+higher chi-square is not accepted
+iteration number  1196  of  2000
+higher chi-square is not accepted
+iteration number  1197  of  2000
+higher chi-square is accepted
+iteration number  1198  of  2000
+higher chi-square is accepted
+iteration number  1199  of  2000
+lower chi-square
+iteration number  1200  of  2000
+lower chi-square
+iteration number  1201  of  2000
+lower chi-square
+iteration number  1202  of  2000
+lower chi-square
+iteration number  1203  of  2000
+higher chi-square is not accepted
+iteration number  1204  of  2000
+higher chi-square is not accepted
+iteration number  1205  of  2000
+higher chi-square is not accepted
+iteration number  1206  of  2000
+higher chi-square is not accepted
+iteration number  1207  of  2000
+higher chi-square is not accepted
+iteration number  1208  of  2000
+higher chi-square is not accepted
+iteration number  1209  of  2000
+higher chi-square is not accepted
+iteration number  1210  of  2000
+higher chi-square is not accepted
+iteration number  1211  of  2000
+higher chi-square is not accepted
+iteration number  1212  of  2000
+higher chi-square is not accepted
+iteration number  1213  of  2000
+higher chi-square is not accepted
+iteration number  1214  of  2000
+higher chi-square is not accepted
+iteration number  1215  of  2000
+higher chi-square is not accepted
+iteration number  1216  of  2000
+higher chi-square is accepted
+iteration number  1217  of  2000
+higher chi-square is not accepted
+iteration number  1218  of  2000
+higher chi-square is accepted
+iteration number  1219  of  2000
+lower chi-square
+iteration number  1220  of  2000
+higher chi-square is not accepted
+iteration number  1221  of  2000
+higher chi-square is not accepted
+iteration number  1222  of  2000
+lower chi-square
+iteration number  1223  of  2000
+lower chi-square
+iteration number  1224  of  2000
+higher chi-square is accepted
+iteration number  1225  of  2000
+higher chi-square is accepted
+iteration number  1226  of  2000
+higher chi-square is not accepted
+iteration number  1227  of  2000
+lower chi-square
+iteration number  1228  of  2000
+higher chi-square is not accepted
+iteration number  1229  of  2000
+lower chi-square
+iteration number  1230  of  2000
+higher chi-square is not accepted
+iteration number  1231  of  2000
+higher chi-square is not accepted
+iteration number  1232  of  2000
+higher chi-square is not accepted
+iteration number  1233  of  2000
+higher chi-square is not accepted
+iteration number  1234  of  2000
+higher chi-square is not accepted
+iteration number  1235  of  2000
+higher chi-square is not accepted
+iteration number  1236  of  2000
+higher chi-square is not accepted
+iteration number  1237  of  2000
+higher chi-square is not accepted
+iteration number  1238  of  2000
+higher chi-square is not accepted
+iteration number  1239  of  2000
+higher chi-square is not accepted
+iteration number  1240  of  2000
+higher chi-square is not accepted
+iteration number  1241  of  2000
+higher chi-square is accepted
+iteration number  1242  of  2000
+higher chi-square is not accepted
+iteration number  1243  of  2000
+higher chi-square is not accepted
+iteration number  1244  of  2000
+lower chi-square
+iteration number  1245  of  2000
+lower chi-square
+iteration number  1246  of  2000
+higher chi-square is accepted
+iteration number  1247  of  2000
+higher chi-square is not accepted
+iteration number  1248  of  2000
+lower chi-square
+iteration number  1249  of  2000
+higher chi-square is not accepted
+iteration number  1250  of  2000
+higher chi-square is not accepted
+iteration number  1251  of  2000
+higher chi-square is not accepted
+iteration number  1252  of  2000
+higher chi-square is not accepted
+iteration number  1253  of  2000
+lower chi-square
+iteration number  1254  of  2000
+higher chi-square is not accepted
+iteration number  1255  of  2000
+higher chi-square is not accepted
+iteration number  1256  of  2000
+higher chi-square is accepted
+iteration number  1257  of  2000
+lower chi-square
+iteration number  1258  of  2000
+higher chi-square is not accepted
+iteration number  1259  of  2000
+higher chi-square is not accepted
+iteration number  1260  of  2000
+higher chi-square is not accepted
+iteration number  1261  of  2000
+higher chi-square is not accepted
+iteration number  1262  of  2000
+higher chi-square is not accepted
+iteration number  1263  of  2000
+higher chi-square is not accepted
+iteration number  1264  of  2000
+higher chi-square is not accepted
+iteration number  1265  of  2000
+higher chi-square is not accepted
+iteration number  1266  of  2000
+higher chi-square is not accepted
+iteration number  1267  of  2000
+higher chi-square is not accepted
+iteration number  1268  of  2000
+higher chi-square is not accepted
+iteration number  1269  of  2000
+higher chi-square is not accepted
+iteration number  1270  of  2000
+higher chi-square is not accepted
+iteration number  1271  of  2000
+higher chi-square is not accepted
+iteration number  1272  of  2000
+higher chi-square is not accepted
+iteration number  1273  of  2000
+higher chi-square is not accepted
+iteration number  1274  of  2000
+higher chi-square is not accepted
+iteration number  1275  of  2000
+higher chi-square is not accepted
+iteration number  1276  of  2000
+higher chi-square is not accepted
+iteration number  1277  of  2000
+higher chi-square is accepted
+iteration number  1278  of  2000
+lower chi-square
+iteration number  1279  of  2000
+lower chi-square
+iteration number  1280  of  2000
+higher chi-square is accepted
+iteration number  1281  of  2000
+lower chi-square
+iteration number  1282  of  2000
+lower chi-square
+iteration number  1283  of  2000
+lower chi-square
+iteration number  1284  of  2000
+lower chi-square
+iteration number  1285  of  2000
+higher chi-square is not accepted
+iteration number  1286  of  2000
+higher chi-square is not accepted
+iteration number  1287  of  2000
+higher chi-square is not accepted
+iteration number  1288  of  2000
+higher chi-square is not accepted
+iteration number  1289  of  2000
+higher chi-square is not accepted
+iteration number  1290  of  2000
+lower chi-square
+iteration number  1291  of  2000
+higher chi-square is not accepted
+iteration number  1292  of  2000
+higher chi-square is accepted
+iteration number  1293  of  2000
+lower chi-square
+iteration number  1294  of  2000
+higher chi-square is accepted
+iteration number  1295  of  2000
+higher chi-square is accepted
+iteration number  1296  of  2000
+higher chi-square is accepted
+iteration number  1297  of  2000
+lower chi-square
+iteration number  1298  of  2000
+lower chi-square
+iteration number  1299  of  2000
+lower chi-square
+iteration number  1300  of  2000
+lower chi-square
+iteration number  1301  of  2000
+higher chi-square is accepted
+iteration number  1302  of  2000
+lower chi-square
+iteration number  1303  of  2000
+lower chi-square
+iteration number  1304  of  2000
+lower chi-square
+iteration number  1305  of  2000
+higher chi-square is not accepted
+iteration number  1306  of  2000
+higher chi-square is not accepted
+iteration number  1307  of  2000
+lower chi-square
+iteration number  1308  of  2000
+higher chi-square is accepted
+iteration number  1309  of  2000
+higher chi-square is not accepted
+iteration number  1310  of  2000
+higher chi-square is accepted
+iteration number  1311  of  2000
+lower chi-square
+iteration number  1312  of  2000
+higher chi-square is not accepted
+iteration number  1313  of  2000
+higher chi-square is not accepted
+iteration number  1314  of  2000
+higher chi-square is not accepted
+iteration number  1315  of  2000
+higher chi-square is accepted
+iteration number  1316  of  2000
+lower chi-square
+iteration number  1317  of  2000
+lower chi-square
+iteration number  1318  of  2000
+higher chi-square is accepted
+iteration number  1319  of  2000
+lower chi-square
+iteration number  1320  of  2000
+lower chi-square
+iteration number  1321  of  2000
+higher chi-square is accepted
+iteration number  1322  of  2000
+lower chi-square
+iteration number  1323  of  2000
+higher chi-square is accepted
+iteration number  1324  of  2000
+lower chi-square
+iteration number  1325  of  2000
+lower chi-square
+iteration number  1326  of  2000
+higher chi-square is not accepted
+iteration number  1327  of  2000
+higher chi-square is accepted
+iteration number  1328  of  2000
+lower chi-square
+iteration number  1329  of  2000
+higher chi-square is not accepted
+iteration number  1330  of  2000
+higher chi-square is not accepted
+iteration number  1331  of  2000
+higher chi-square is not accepted
+iteration number  1332  of  2000
+lower chi-square
+iteration number  1333  of  2000
+higher chi-square is not accepted
+iteration number  1334  of  2000
+higher chi-square is accepted
+iteration number  1335  of  2000
+higher chi-square is not accepted
+iteration number  1336  of  2000
+lower chi-square
+iteration number  1337  of  2000
+higher chi-square is not accepted
+iteration number  1338  of  2000
+higher chi-square is not accepted
+iteration number  1339  of  2000
+lower chi-square
+iteration number  1340  of  2000
+higher chi-square is not accepted
+iteration number  1341  of  2000
+higher chi-square is not accepted
+iteration number  1342  of  2000
+higher chi-square is not accepted
+iteration number  1343  of  2000
+higher chi-square is accepted
+iteration number  1344  of  2000
+lower chi-square
+iteration number  1345  of  2000
+lower chi-square
+iteration number  1346  of  2000
+lower chi-square
+iteration number  1347  of  2000
+higher chi-square is not accepted
+iteration number  1348  of  2000
+higher chi-square is not accepted
+iteration number  1349  of  2000
+higher chi-square is not accepted
+iteration number  1350  of  2000
+higher chi-square is not accepted
+iteration number  1351  of  2000
+higher chi-square is not accepted
+iteration number  1352  of  2000
+higher chi-square is accepted
+iteration number  1353  of  2000
+higher chi-square is not accepted
+iteration number  1354  of  2000
+higher chi-square is not accepted
+iteration number  1355  of  2000
+higher chi-square is not accepted
+iteration number  1356  of  2000
+higher chi-square is not accepted
+iteration number  1357  of  2000
+lower chi-square
+iteration number  1358  of  2000
+lower chi-square
+iteration number  1359  of  2000
+higher chi-square is not accepted
+iteration number  1360  of  2000
+higher chi-square is not accepted
+iteration number  1361  of  2000
+higher chi-square is accepted
+iteration number  1362  of  2000
+higher chi-square is not accepted
+iteration number  1363  of  2000
+higher chi-square is not accepted
+iteration number  1364  of  2000
+lower chi-square
+iteration number  1365  of  2000
+higher chi-square is accepted
+iteration number  1366  of  2000
+lower chi-square
+iteration number  1367  of  2000
+lower chi-square
+iteration number  1368  of  2000
+higher chi-square is not accepted
+iteration number  1369  of  2000
+higher chi-square is accepted
+iteration number  1370  of  2000
+lower chi-square
+iteration number  1371  of  2000
+lower chi-square
+iteration number  1372  of  2000
+higher chi-square is not accepted
+iteration number  1373  of  2000
+higher chi-square is accepted
+iteration number  1374  of  2000
+higher chi-square is not accepted
+iteration number  1375  of  2000
+lower chi-square
+iteration number  1376  of  2000
+higher chi-square is not accepted
+iteration number  1377  of  2000
+higher chi-square is not accepted
+iteration number  1378  of  2000
+higher chi-square is not accepted
+iteration number  1379  of  2000
+higher chi-square is not accepted
+iteration number  1380  of  2000
+lower chi-square
+iteration number  1381  of  2000
+lower chi-square
+iteration number  1382  of  2000
+lower chi-square
+iteration number  1383  of  2000
+lower chi-square
+iteration number  1384  of  2000
+higher chi-square is not accepted
+iteration number  1385  of  2000
+higher chi-square is not accepted
+iteration number  1386  of  2000
+lower chi-square
+iteration number  1387  of  2000
+higher chi-square is not accepted
+iteration number  1388  of  2000
+higher chi-square is not accepted
+iteration number  1389  of  2000
+higher chi-square is not accepted
+iteration number  1390  of  2000
+higher chi-square is accepted
+iteration number  1391  of  2000
+higher chi-square is not accepted
+iteration number  1392  of  2000
+lower chi-square
+iteration number  1393  of  2000
+lower chi-square
+iteration number  1394  of  2000
+lower chi-square
+iteration number  1395  of  2000
+higher chi-square is not accepted
+iteration number  1396  of  2000
+higher chi-square is not accepted
+iteration number  1397  of  2000
+higher chi-square is not accepted
+iteration number  1398  of  2000
+higher chi-square is not accepted
+iteration number  1399  of  2000
+higher chi-square is not accepted
+iteration number  1400  of  2000
+higher chi-square is not accepted
+iteration number  1401  of  2000
+higher chi-square is not accepted
+iteration number  1402  of  2000
+higher chi-square is not accepted
+iteration number  1403  of  2000
+higher chi-square is not accepted
+iteration number  1404  of  2000
+higher chi-square is not accepted
+iteration number  1405  of  2000
+higher chi-square is not accepted
+iteration number  1406  of  2000
+higher chi-square is not accepted
+iteration number  1407  of  2000
+higher chi-square is not accepted
+iteration number  1408  of  2000
+higher chi-square is not accepted
+iteration number  1409  of  2000
+higher chi-square is not accepted
+iteration number  1410  of  2000
+higher chi-square is not accepted
+iteration number  1411  of  2000
+higher chi-square is not accepted
+iteration number  1412  of  2000
+higher chi-square is not accepted
+iteration number  1413  of  2000
+higher chi-square is not accepted
+iteration number  1414  of  2000
+lower chi-square
+iteration number  1415  of  2000
+higher chi-square is not accepted
+iteration number  1416  of  2000
+higher chi-square is accepted
+iteration number  1417  of  2000
+higher chi-square is not accepted
+iteration number  1418  of  2000
+higher chi-square is not accepted
+iteration number  1419  of  2000
+lower chi-square
+iteration number  1420  of  2000
+lower chi-square
+iteration number  1421  of  2000
+higher chi-square is not accepted
+iteration number  1422  of  2000
+higher chi-square is not accepted
+iteration number  1423  of  2000
+higher chi-square is not accepted
+iteration number  1424  of  2000
+higher chi-square is not accepted
+iteration number  1425  of  2000
+higher chi-square is not accepted
+iteration number  1426  of  2000
+higher chi-square is not accepted
+iteration number  1427  of  2000
+higher chi-square is not accepted
+iteration number  1428  of  2000
+higher chi-square is not accepted
+iteration number  1429  of  2000
+higher chi-square is not accepted
+iteration number  1430  of  2000
+higher chi-square is not accepted
+iteration number  1431  of  2000
+higher chi-square is not accepted
+iteration number  1432  of  2000
+higher chi-square is not accepted
+iteration number  1433  of  2000
+higher chi-square is not accepted
+iteration number  1434  of  2000
+lower chi-square
+iteration number  1435  of  2000
+higher chi-square is not accepted
+iteration number  1436  of  2000
+higher chi-square is not accepted
+iteration number  1437  of  2000
+lower chi-square
+iteration number  1438  of  2000
+higher chi-square is not accepted
+iteration number  1439  of  2000
+higher chi-square is accepted
+iteration number  1440  of  2000
+lower chi-square
+iteration number  1441  of  2000
+higher chi-square is not accepted
+iteration number  1442  of  2000
+higher chi-square is accepted
+iteration number  1443  of  2000
+higher chi-square is not accepted
+iteration number  1444  of  2000
+higher chi-square is not accepted
+iteration number  1445  of  2000
+lower chi-square
+iteration number  1446  of  2000
+lower chi-square
+iteration number  1447  of  2000
+lower chi-square
+iteration number  1448  of  2000
+higher chi-square is not accepted
+iteration number  1449  of  2000
+higher chi-square is accepted
+iteration number  1450  of  2000
+lower chi-square
+iteration number  1451  of  2000
+higher chi-square is accepted
+iteration number  1452  of  2000
+lower chi-square
+iteration number  1453  of  2000
+lower chi-square
+iteration number  1454  of  2000
+higher chi-square is not accepted
+iteration number  1455  of  2000
+higher chi-square is not accepted
+iteration number  1456  of  2000
+higher chi-square is not accepted
+iteration number  1457  of  2000
+higher chi-square is not accepted
+iteration number  1458  of  2000
+lower chi-square
+iteration number  1459  of  2000
+higher chi-square is not accepted
+iteration number  1460  of  2000
+higher chi-square is not accepted
+iteration number  1461  of  2000
+higher chi-square is not accepted
+iteration number  1462  of  2000
+higher chi-square is not accepted
+iteration number  1463  of  2000
+lower chi-square
+iteration number  1464  of  2000
+higher chi-square is not accepted
+iteration number  1465  of  2000
+higher chi-square is not accepted
+iteration number  1466  of  2000
+higher chi-square is not accepted
+iteration number  1467  of  2000
+higher chi-square is not accepted
+iteration number  1468  of  2000
+higher chi-square is not accepted
+iteration number  1469  of  2000
+lower chi-square
+iteration number  1470  of  2000
+higher chi-square is not accepted
+iteration number  1471  of  2000
+higher chi-square is not accepted
+iteration number  1472  of  2000
+higher chi-square is not accepted
+iteration number  1473  of  2000
+higher chi-square is not accepted
+iteration number  1474  of  2000
+higher chi-square is not accepted
+iteration number  1475  of  2000
+lower chi-square
+iteration number  1476  of  2000
+lower chi-square
+iteration number  1477  of  2000
+higher chi-square is not accepted
+iteration number  1478  of  2000
+higher chi-square is not accepted
+iteration number  1479  of  2000
+higher chi-square is not accepted
+iteration number  1480  of  2000
+higher chi-square is not accepted
+iteration number  1481  of  2000
+higher chi-square is not accepted
+iteration number  1482  of  2000
+higher chi-square is not accepted
+iteration number  1483  of  2000
+higher chi-square is not accepted
+iteration number  1484  of  2000
+higher chi-square is not accepted
+iteration number  1485  of  2000
+higher chi-square is not accepted
+iteration number  1486  of  2000
+higher chi-square is not accepted
+iteration number  1487  of  2000
+higher chi-square is not accepted
+iteration number  1488  of  2000
+higher chi-square is not accepted
+iteration number  1489  of  2000
+higher chi-square is not accepted
+iteration number  1490  of  2000
+higher chi-square is not accepted
+iteration number  1491  of  2000
+higher chi-square is not accepted
+iteration number  1492  of  2000
+lower chi-square
+iteration number  1493  of  2000
+higher chi-square is not accepted
+iteration number  1494  of  2000
+higher chi-square is accepted
+iteration number  1495  of  2000
+lower chi-square
+iteration number  1496  of  2000
+higher chi-square is accepted
+iteration number  1497  of  2000
+lower chi-square
+iteration number  1498  of  2000
+higher chi-square is not accepted
+iteration number  1499  of  2000
+lower chi-square
+iteration number  1500  of  2000
+higher chi-square is not accepted
+iteration number  1501  of  2000
+higher chi-square is not accepted
+iteration number  1502  of  2000
+higher chi-square is not accepted
+iteration number  1503  of  2000
+higher chi-square is not accepted
+iteration number  1504  of  2000
+higher chi-square is not accepted
+iteration number  1505  of  2000
+higher chi-square is not accepted
+iteration number  1506  of  2000
+higher chi-square is not accepted
+iteration number  1507  of  2000
+higher chi-square is not accepted
+iteration number  1508  of  2000
+higher chi-square is not accepted
+iteration number  1509  of  2000
+higher chi-square is not accepted
+iteration number  1510  of  2000
+higher chi-square is not accepted
+iteration number  1511  of  2000
+higher chi-square is accepted
+iteration number  1512  of  2000
+lower chi-square
+iteration number  1513  of  2000
+higher chi-square is not accepted
+iteration number  1514  of  2000
+lower chi-square
+iteration number  1515  of  2000
+higher chi-square is not accepted
+iteration number  1516  of  2000
+higher chi-square is not accepted
+iteration number  1517  of  2000
+lower chi-square
+iteration number  1518  of  2000
+higher chi-square is not accepted
+iteration number  1519  of  2000
+lower chi-square
+iteration number  1520  of  2000
+lower chi-square
+iteration number  1521  of  2000
+higher chi-square is not accepted
+iteration number  1522  of  2000
+higher chi-square is not accepted
+iteration number  1523  of  2000
+higher chi-square is not accepted
+iteration number  1524  of  2000
+higher chi-square is not accepted
+iteration number  1525  of  2000
+higher chi-square is accepted
+iteration number  1526  of  2000
+lower chi-square
+iteration number  1527  of  2000
+lower chi-square
+iteration number  1528  of  2000
+higher chi-square is not accepted
+iteration number  1529  of  2000
+higher chi-square is not accepted
+iteration number  1530  of  2000
+higher chi-square is not accepted
+iteration number  1531  of  2000
+higher chi-square is not accepted
+iteration number  1532  of  2000
+higher chi-square is not accepted
+iteration number  1533  of  2000
+higher chi-square is accepted
+iteration number  1534  of  2000
+lower chi-square
+iteration number  1535  of  2000
+higher chi-square is not accepted
+iteration number  1536  of  2000
+lower chi-square
+iteration number  1537  of  2000
+lower chi-square
+iteration number  1538  of  2000
+higher chi-square is not accepted
+iteration number  1539  of  2000
+lower chi-square
+iteration number  1540  of  2000
+higher chi-square is not accepted
+iteration number  1541  of  2000
+higher chi-square is not accepted
+iteration number  1542  of  2000
+higher chi-square is accepted
+iteration number  1543  of  2000
+higher chi-square is not accepted
+iteration number  1544  of  2000
+lower chi-square
+iteration number  1545  of  2000
+higher chi-square is not accepted
+iteration number  1546  of  2000
+lower chi-square
+iteration number  1547  of  2000
+higher chi-square is not accepted
+iteration number  1548  of  2000
+lower chi-square
+iteration number  1549  of  2000
+higher chi-square is not accepted
+iteration number  1550  of  2000
+higher chi-square is not accepted
+iteration number  1551  of  2000
+lower chi-square
+iteration number  1552  of  2000
+higher chi-square is not accepted
+iteration number  1553  of  2000
+higher chi-square is not accepted
+iteration number  1554  of  2000
+higher chi-square is not accepted
+iteration number  1555  of  2000
+lower chi-square
+iteration number  1556  of  2000
+higher chi-square is not accepted
+iteration number  1557  of  2000
+higher chi-square is not accepted
+iteration number  1558  of  2000
+higher chi-square is not accepted
+iteration number  1559  of  2000
+higher chi-square is not accepted
+iteration number  1560  of  2000
+higher chi-square is not accepted
+iteration number  1561  of  2000
+lower chi-square
+iteration number  1562  of  2000
+higher chi-square is not accepted
+iteration number  1563  of  2000
+higher chi-square is not accepted
+iteration number  1564  of  2000
+lower chi-square
+iteration number  1565  of  2000
+higher chi-square is not accepted
+iteration number  1566  of  2000
+lower chi-square
+iteration number  1567  of  2000
+higher chi-square is not accepted
+iteration number  1568  of  2000
+higher chi-square is not accepted
+iteration number  1569  of  2000
+higher chi-square is not accepted
+iteration number  1570  of  2000
+higher chi-square is not accepted
+iteration number  1571  of  2000
+higher chi-square is not accepted
+iteration number  1572  of  2000
+higher chi-square is not accepted
+iteration number  1573  of  2000
+higher chi-square is not accepted
+iteration number  1574  of  2000
+higher chi-square is not accepted
+iteration number  1575  of  2000
+higher chi-square is accepted
+iteration number  1576  of  2000
+higher chi-square is not accepted
+iteration number  1577  of  2000
+higher chi-square is not accepted
+iteration number  1578  of  2000
+lower chi-square
+iteration number  1579  of  2000
+higher chi-square is not accepted
+iteration number  1580  of  2000
+higher chi-square is not accepted
+iteration number  1581  of  2000
+higher chi-square is not accepted
+iteration number  1582  of  2000
+higher chi-square is accepted
+iteration number  1583  of  2000
+higher chi-square is not accepted
+iteration number  1584  of  2000
+higher chi-square is not accepted
+iteration number  1585  of  2000
+lower chi-square
+iteration number  1586  of  2000
+higher chi-square is not accepted
+iteration number  1587  of  2000
+lower chi-square
+iteration number  1588  of  2000
+lower chi-square
+iteration number  1589  of  2000
+lower chi-square
+iteration number  1590  of  2000
+higher chi-square is not accepted
+iteration number  1591  of  2000
+lower chi-square
+iteration number  1592  of  2000
+lower chi-square
+iteration number  1593  of  2000
+lower chi-square
+iteration number  1594  of  2000
+higher chi-square is not accepted
+iteration number  1595  of  2000
+higher chi-square is not accepted
+iteration number  1596  of  2000
+higher chi-square is not accepted
+iteration number  1597  of  2000
+higher chi-square is not accepted
+iteration number  1598  of  2000
+higher chi-square is not accepted
+iteration number  1599  of  2000
+higher chi-square is accepted
+iteration number  1600  of  2000
+lower chi-square
+iteration number  1601  of  2000
+higher chi-square is accepted
+iteration number  1602  of  2000
+higher chi-square is accepted
+iteration number  1603  of  2000
+lower chi-square
+iteration number  1604  of  2000
+higher chi-square is accepted
+iteration number  1605  of  2000
+higher chi-square is not accepted
+iteration number  1606  of  2000
+lower chi-square
+iteration number  1607  of  2000
+lower chi-square
+iteration number  1608  of  2000
+lower chi-square
+iteration number  1609  of  2000
+higher chi-square is not accepted
+iteration number  1610  of  2000
+lower chi-square
+iteration number  1611  of  2000
+higher chi-square is not accepted
+iteration number  1612  of  2000
+higher chi-square is not accepted
+iteration number  1613  of  2000
+higher chi-square is accepted
+iteration number  1614  of  2000
+higher chi-square is not accepted
+iteration number  1615  of  2000
+lower chi-square
+iteration number  1616  of  2000
+lower chi-square
+iteration number  1617  of  2000
+lower chi-square
+iteration number  1618  of  2000
+higher chi-square is not accepted
+iteration number  1619  of  2000
+lower chi-square
+iteration number  1620  of  2000
+higher chi-square is not accepted
+iteration number  1621  of  2000
+higher chi-square is not accepted
+iteration number  1622  of  2000
+higher chi-square is not accepted
+iteration number  1623  of  2000
+higher chi-square is not accepted
+iteration number  1624  of  2000
+higher chi-square is not accepted
+iteration number  1625  of  2000
+higher chi-square is accepted
+iteration number  1626  of  2000
+lower chi-square
+iteration number  1627  of  2000
+higher chi-square is accepted
+iteration number  1628  of  2000
+higher chi-square is not accepted
+iteration number  1629  of  2000
+higher chi-square is not accepted
+iteration number  1630  of  2000
+lower chi-square
+iteration number  1631  of  2000
+lower chi-square
+iteration number  1632  of  2000
+lower chi-square
+iteration number  1633  of  2000
+higher chi-square is not accepted
+iteration number  1634  of  2000
+higher chi-square is accepted
+iteration number  1635  of  2000
+higher chi-square is not accepted
+iteration number  1636  of  2000
+lower chi-square
+iteration number  1637  of  2000
+higher chi-square is not accepted
+iteration number  1638  of  2000
+higher chi-square is not accepted
+iteration number  1639  of  2000
+higher chi-square is not accepted
+iteration number  1640  of  2000
+higher chi-square is not accepted
+iteration number  1641  of  2000
+lower chi-square
+iteration number  1642  of  2000
+higher chi-square is not accepted
+iteration number  1643  of  2000
+higher chi-square is not accepted
+iteration number  1644  of  2000
+higher chi-square is not accepted
+iteration number  1645  of  2000
+higher chi-square is not accepted
+iteration number  1646  of  2000
+higher chi-square is not accepted
+iteration number  1647  of  2000
+higher chi-square is not accepted
+iteration number  1648  of  2000
+higher chi-square is accepted
+iteration number  1649  of  2000
+higher chi-square is accepted
+iteration number  1650  of  2000
+higher chi-square is not accepted
+iteration number  1651  of  2000
+higher chi-square is not accepted
+iteration number  1652  of  2000
+lower chi-square
+iteration number  1653  of  2000
+lower chi-square
+iteration number  1654  of  2000
+higher chi-square is accepted
+iteration number  1655  of  2000
+lower chi-square
+iteration number  1656  of  2000
+higher chi-square is not accepted
+iteration number  1657  of  2000
+lower chi-square
+iteration number  1658  of  2000
+higher chi-square is not accepted
+iteration number  1659  of  2000
+higher chi-square is not accepted
+iteration number  1660  of  2000
+higher chi-square is accepted
+iteration number  1661  of  2000
+lower chi-square
+iteration number  1662  of  2000
+lower chi-square
+iteration number  1663  of  2000
+higher chi-square is accepted
+iteration number  1664  of  2000
+higher chi-square is not accepted
+iteration number  1665  of  2000
+lower chi-square
+iteration number  1666  of  2000
+lower chi-square
+iteration number  1667  of  2000
+higher chi-square is not accepted
+iteration number  1668  of  2000
+higher chi-square is not accepted
+iteration number  1669  of  2000
+higher chi-square is not accepted
+iteration number  1670  of  2000
+higher chi-square is not accepted
+iteration number  1671  of  2000
+higher chi-square is not accepted
+iteration number  1672  of  2000
+higher chi-square is not accepted
+iteration number  1673  of  2000
+higher chi-square is accepted
+iteration number  1674  of  2000
+higher chi-square is accepted
+iteration number  1675  of  2000
+lower chi-square
+iteration number  1676  of  2000
+higher chi-square is not accepted
+iteration number  1677  of  2000
+higher chi-square is not accepted
+iteration number  1678  of  2000
+higher chi-square is accepted
+iteration number  1679  of  2000
+lower chi-square
+iteration number  1680  of  2000
+higher chi-square is not accepted
+iteration number  1681  of  2000
+lower chi-square
+iteration number  1682  of  2000
+higher chi-square is not accepted
+iteration number  1683  of  2000
+lower chi-square
+iteration number  1684  of  2000
+higher chi-square is not accepted
+iteration number  1685  of  2000
+higher chi-square is not accepted
+iteration number  1686  of  2000
+lower chi-square
+iteration number  1687  of  2000
+higher chi-square is not accepted
+iteration number  1688  of  2000
+higher chi-square is not accepted
+iteration number  1689  of  2000
+higher chi-square is accepted
+iteration number  1690  of  2000
+lower chi-square
+iteration number  1691  of  2000
+higher chi-square is not accepted
+iteration number  1692  of  2000
+higher chi-square is not accepted
+iteration number  1693  of  2000
+lower chi-square
+iteration number  1694  of  2000
+lower chi-square
+iteration number  1695  of  2000
+higher chi-square is accepted
+iteration number  1696  of  2000
+higher chi-square is not accepted
+iteration number  1697  of  2000
+higher chi-square is not accepted
+iteration number  1698  of  2000
+higher chi-square is not accepted
+iteration number  1699  of  2000
+higher chi-square is not accepted
+iteration number  1700  of  2000
+lower chi-square
+iteration number  1701  of  2000
+higher chi-square is not accepted
+iteration number  1702  of  2000
+lower chi-square
+iteration number  1703  of  2000
+higher chi-square is not accepted
+iteration number  1704  of  2000
+higher chi-square is not accepted
+iteration number  1705  of  2000
+higher chi-square is not accepted
+iteration number  1706  of  2000
+lower chi-square
+iteration number  1707  of  2000
+higher chi-square is accepted
+iteration number  1708  of  2000
+lower chi-square
+iteration number  1709  of  2000
+higher chi-square is not accepted
+iteration number  1710  of  2000
+lower chi-square
+iteration number  1711  of  2000
+lower chi-square
+iteration number  1712  of  2000
+higher chi-square is not accepted
+iteration number  1713  of  2000
+higher chi-square is not accepted
+iteration number  1714  of  2000
+higher chi-square is not accepted
+iteration number  1715  of  2000
+higher chi-square is accepted
+iteration number  1716  of  2000
+lower chi-square
+iteration number  1717  of  2000
+lower chi-square
+iteration number  1718  of  2000
+higher chi-square is not accepted
+iteration number  1719  of  2000
+higher chi-square is not accepted
+iteration number  1720  of  2000
+lower chi-square
+iteration number  1721  of  2000
+higher chi-square is not accepted
+iteration number  1722  of  2000
+lower chi-square
+iteration number  1723  of  2000
+lower chi-square
+iteration number  1724  of  2000
+lower chi-square
+iteration number  1725  of  2000
+higher chi-square is not accepted
+iteration number  1726  of  2000
+higher chi-square is not accepted
+iteration number  1727  of  2000
+higher chi-square is not accepted
+iteration number  1728  of  2000
+higher chi-square is not accepted
+iteration number  1729  of  2000
+higher chi-square is not accepted
+iteration number  1730  of  2000
+higher chi-square is not accepted
+iteration number  1731  of  2000
+higher chi-square is not accepted
+iteration number  1732  of  2000
+higher chi-square is not accepted
+iteration number  1733  of  2000
+higher chi-square is not accepted
+iteration number  1734  of  2000
+higher chi-square is not accepted
+iteration number  1735  of  2000
+higher chi-square is not accepted
+iteration number  1736  of  2000
+higher chi-square is not accepted
+iteration number  1737  of  2000
+higher chi-square is not accepted
+iteration number  1738  of  2000
+higher chi-square is not accepted
+iteration number  1739  of  2000
+higher chi-square is not accepted
+iteration number  1740  of  2000
+higher chi-square is not accepted
+iteration number  1741  of  2000
+higher chi-square is not accepted
+iteration number  1742  of  2000
+higher chi-square is not accepted
+iteration number  1743  of  2000
+higher chi-square is not accepted
+iteration number  1744  of  2000
+higher chi-square is not accepted
+iteration number  1745  of  2000
+higher chi-square is accepted
+iteration number  1746  of  2000
+higher chi-square is accepted
+iteration number  1747  of  2000
+lower chi-square
+iteration number  1748  of  2000
+higher chi-square is accepted
+iteration number  1749  of  2000
+higher chi-square is not accepted
+iteration number  1750  of  2000
+higher chi-square is accepted
+iteration number  1751  of  2000
+lower chi-square
+iteration number  1752  of  2000
+higher chi-square is not accepted
+iteration number  1753  of  2000
+higher chi-square is not accepted
+iteration number  1754  of  2000
+lower chi-square
+iteration number  1755  of  2000
+higher chi-square is not accepted
+iteration number  1756  of  2000
+higher chi-square is not accepted
+iteration number  1757  of  2000
+higher chi-square is not accepted
+iteration number  1758  of  2000
+higher chi-square is accepted
+iteration number  1759  of  2000
+higher chi-square is not accepted
+iteration number  1760  of  2000
+lower chi-square
+iteration number  1761  of  2000
+higher chi-square is not accepted
+iteration number  1762  of  2000
+lower chi-square
+iteration number  1763  of  2000
+lower chi-square
+iteration number  1764  of  2000
+higher chi-square is accepted
+iteration number  1765  of  2000
+higher chi-square is not accepted
+iteration number  1766  of  2000
+lower chi-square
+iteration number  1767  of  2000
+lower chi-square
+iteration number  1768  of  2000
+lower chi-square
+iteration number  1769  of  2000
+lower chi-square
+iteration number  1770  of  2000
+lower chi-square
+iteration number  1771  of  2000
+higher chi-square is not accepted
+iteration number  1772  of  2000
+higher chi-square is not accepted
+iteration number  1773  of  2000
+lower chi-square
+iteration number  1774  of  2000
+higher chi-square is not accepted
+iteration number  1775  of  2000
+higher chi-square is not accepted
+iteration number  1776  of  2000
+higher chi-square is not accepted
+iteration number  1777  of  2000
+higher chi-square is not accepted
+iteration number  1778  of  2000
+higher chi-square is accepted
+iteration number  1779  of  2000
+lower chi-square
+iteration number  1780  of  2000
+higher chi-square is not accepted
+iteration number  1781  of  2000
+higher chi-square is not accepted
+iteration number  1782  of  2000
+lower chi-square
+iteration number  1783  of  2000
+higher chi-square is not accepted
+iteration number  1784  of  2000
+higher chi-square is not accepted
+iteration number  1785  of  2000
+higher chi-square is not accepted
+iteration number  1786  of  2000
+lower chi-square
+iteration number  1787  of  2000
+higher chi-square is not accepted
+iteration number  1788  of  2000
+higher chi-square is not accepted
+iteration number  1789  of  2000
+higher chi-square is not accepted
+iteration number  1790  of  2000
+higher chi-square is not accepted
+iteration number  1791  of  2000
+higher chi-square is not accepted
+iteration number  1792  of  2000
+higher chi-square is not accepted
+iteration number  1793  of  2000
+higher chi-square is not accepted
+iteration number  1794  of  2000
+lower chi-square
+iteration number  1795  of  2000
+lower chi-square
+iteration number  1796  of  2000
+higher chi-square is not accepted
+iteration number  1797  of  2000
+higher chi-square is not accepted
+iteration number  1798  of  2000
+higher chi-square is not accepted
+iteration number  1799  of  2000
+higher chi-square is not accepted
+iteration number  1800  of  2000
+higher chi-square is not accepted
+iteration number  1801  of  2000
+higher chi-square is not accepted
+iteration number  1802  of  2000
+higher chi-square is not accepted
+iteration number  1803  of  2000
+higher chi-square is not accepted
+iteration number  1804  of  2000
+higher chi-square is not accepted
+iteration number  1805  of  2000
+higher chi-square is not accepted
+iteration number  1806  of  2000
+higher chi-square is not accepted
+iteration number  1807  of  2000
+higher chi-square is not accepted
+iteration number  1808  of  2000
+higher chi-square is not accepted
+iteration number  1809  of  2000
+higher chi-square is not accepted
+iteration number  1810  of  2000
+higher chi-square is not accepted
+iteration number  1811  of  2000
+higher chi-square is not accepted
+iteration number  1812  of  2000
+higher chi-square is not accepted
+iteration number  1813  of  2000
+higher chi-square is not accepted
+iteration number  1814  of  2000
+higher chi-square is not accepted
+iteration number  1815  of  2000
+higher chi-square is not accepted
+iteration number  1816  of  2000
+higher chi-square is not accepted
+iteration number  1817  of  2000
+higher chi-square is not accepted
+iteration number  1818  of  2000
+higher chi-square is not accepted
+iteration number  1819  of  2000
+higher chi-square is accepted
+iteration number  1820  of  2000
+lower chi-square
+iteration number  1821  of  2000
+lower chi-square
+iteration number  1822  of  2000
+higher chi-square is not accepted
+iteration number  1823  of  2000
+higher chi-square is not accepted
+iteration number  1824  of  2000
+lower chi-square
+iteration number  1825  of  2000
+higher chi-square is not accepted
+iteration number  1826  of  2000
+higher chi-square is accepted
+iteration number  1827  of  2000
+lower chi-square
+iteration number  1828  of  2000
+higher chi-square is not accepted
+iteration number  1829  of  2000
+higher chi-square is not accepted
+iteration number  1830  of  2000
+lower chi-square
+iteration number  1831  of  2000
+lower chi-square
+iteration number  1832  of  2000
+higher chi-square is not accepted
+iteration number  1833  of  2000
+higher chi-square is not accepted
+iteration number  1834  of  2000
+higher chi-square is not accepted
+iteration number  1835  of  2000
+higher chi-square is not accepted
+iteration number  1836  of  2000
+higher chi-square is not accepted
+iteration number  1837  of  2000
+higher chi-square is not accepted
+iteration number  1838  of  2000
+lower chi-square
+iteration number  1839  of  2000
+lower chi-square
+iteration number  1840  of  2000
+higher chi-square is not accepted
+iteration number  1841  of  2000
+higher chi-square is not accepted
+iteration number  1842  of  2000
+lower chi-square
+iteration number  1843  of  2000
+lower chi-square
+iteration number  1844  of  2000
+higher chi-square is not accepted
+iteration number  1845  of  2000
+higher chi-square is accepted
+iteration number  1846  of  2000
+lower chi-square
+iteration number  1847  of  2000
+lower chi-square
+iteration number  1848  of  2000
+higher chi-square is accepted
+iteration number  1849  of  2000
+lower chi-square
+iteration number  1850  of  2000
+lower chi-square
+iteration number  1851  of  2000
+higher chi-square is not accepted
+iteration number  1852  of  2000
+higher chi-square is not accepted
+iteration number  1853  of  2000
+higher chi-square is not accepted
+iteration number  1854  of  2000
+higher chi-square is not accepted
+iteration number  1855  of  2000
+higher chi-square is not accepted
+iteration number  1856  of  2000
+higher chi-square is not accepted
+iteration number  1857  of  2000
+higher chi-square is not accepted
+iteration number  1858  of  2000
+higher chi-square is not accepted
+iteration number  1859  of  2000
+higher chi-square is not accepted
+iteration number  1860  of  2000
+higher chi-square is not accepted
+iteration number  1861  of  2000
+higher chi-square is accepted
+iteration number  1862  of  2000
+lower chi-square
+iteration number  1863  of  2000
+lower chi-square
+iteration number  1864  of  2000
+lower chi-square
+iteration number  1865  of  2000
+higher chi-square is not accepted
+iteration number  1866  of  2000
+higher chi-square is not accepted
+iteration number  1867  of  2000
+higher chi-square is accepted
+iteration number  1868  of  2000
+lower chi-square
+iteration number  1869  of  2000
+higher chi-square is not accepted
+iteration number  1870  of  2000
+higher chi-square is not accepted
+iteration number  1871  of  2000
+higher chi-square is not accepted
+iteration number  1872  of  2000
+higher chi-square is not accepted
+iteration number  1873  of  2000
+higher chi-square is not accepted
+iteration number  1874  of  2000
+higher chi-square is not accepted
+iteration number  1875  of  2000
+higher chi-square is accepted
+iteration number  1876  of  2000
+lower chi-square
+iteration number  1877  of  2000
+higher chi-square is not accepted
+iteration number  1878  of  2000
+lower chi-square
+iteration number  1879  of  2000
+lower chi-square
+iteration number  1880  of  2000
+higher chi-square is accepted
+iteration number  1881  of  2000
+higher chi-square is not accepted
+iteration number  1882  of  2000
+higher chi-square is not accepted
+iteration number  1883  of  2000
+lower chi-square
+iteration number  1884  of  2000
+higher chi-square is accepted
+iteration number  1885  of  2000
+lower chi-square
+iteration number  1886  of  2000
+higher chi-square is accepted
+iteration number  1887  of  2000
+lower chi-square
+iteration number  1888  of  2000
+lower chi-square
+iteration number  1889  of  2000
+lower chi-square
+iteration number  1890  of  2000
+higher chi-square is not accepted
+iteration number  1891  of  2000
+higher chi-square is not accepted
+iteration number  1892  of  2000
+higher chi-square is accepted
+iteration number  1893  of  2000
+higher chi-square is not accepted
+iteration number  1894  of  2000
+lower chi-square
+iteration number  1895  of  2000
+higher chi-square is not accepted
+iteration number  1896  of  2000
+higher chi-square is accepted
+iteration number  1897  of  2000
+lower chi-square
+iteration number  1898  of  2000
+higher chi-square is not accepted
+iteration number  1899  of  2000
+higher chi-square is accepted
+iteration number  1900  of  2000
+higher chi-square is not accepted
+iteration number  1901  of  2000
+lower chi-square
+iteration number  1902  of  2000
+higher chi-square is not accepted
+iteration number  1903  of  2000
+lower chi-square
+iteration number  1904  of  2000
+higher chi-square is not accepted
+iteration number  1905  of  2000
+higher chi-square is not accepted
+iteration number  1906  of  2000
+higher chi-square is accepted
+iteration number  1907  of  2000
+lower chi-square
+iteration number  1908  of  2000
+lower chi-square
+iteration number  1909  of  2000
+lower chi-square
+iteration number  1910  of  2000
+higher chi-square is not accepted
+iteration number  1911  of  2000
+higher chi-square is accepted
+iteration number  1912  of  2000
+lower chi-square
+iteration number  1913  of  2000
+lower chi-square
+iteration number  1914  of  2000
+higher chi-square is not accepted
+iteration number  1915  of  2000
+higher chi-square is not accepted
+iteration number  1916  of  2000
+higher chi-square is not accepted
+iteration number  1917  of  2000
+higher chi-square is not accepted
+iteration number  1918  of  2000
+higher chi-square is not accepted
+iteration number  1919  of  2000
+higher chi-square is not accepted
+iteration number  1920  of  2000
+higher chi-square is not accepted
+iteration number  1921  of  2000
+higher chi-square is not accepted
+iteration number  1922  of  2000
+higher chi-square is not accepted
+iteration number  1923  of  2000
+higher chi-square is accepted
+iteration number  1924  of  2000
+lower chi-square
+iteration number  1925  of  2000
+higher chi-square is accepted
+iteration number  1926  of  2000
+lower chi-square
+iteration number  1927  of  2000
+higher chi-square is not accepted
+iteration number  1928  of  2000
+lower chi-square
+iteration number  1929  of  2000
+higher chi-square is not accepted
+iteration number  1930  of  2000
+higher chi-square is not accepted
+iteration number  1931  of  2000
+higher chi-square is not accepted
+iteration number  1932  of  2000
+lower chi-square
+iteration number  1933  of  2000
+higher chi-square is not accepted
+iteration number  1934  of  2000
+lower chi-square
+iteration number  1935  of  2000
+higher chi-square is not accepted
+iteration number  1936  of  2000
+higher chi-square is not accepted
+iteration number  1937  of  2000
+higher chi-square is not accepted
+iteration number  1938  of  2000
+higher chi-square is not accepted
+iteration number  1939  of  2000
+higher chi-square is not accepted
+iteration number  1940  of  2000
+higher chi-square is not accepted
+iteration number  1941  of  2000
+higher chi-square is not accepted
+iteration number  1942  of  2000
+higher chi-square is accepted
+iteration number  1943  of  2000
+higher chi-square is not accepted
+iteration number  1944  of  2000
+lower chi-square
+iteration number  1945  of  2000
+lower chi-square
+iteration number  1946  of  2000
+lower chi-square
+iteration number  1947  of  2000
+lower chi-square
+iteration number  1948  of  2000
+higher chi-square is accepted
+iteration number  1949  of  2000
+higher chi-square is accepted
+iteration number  1950  of  2000
+lower chi-square
+iteration number  1951  of  2000
+lower chi-square
+iteration number  1952  of  2000
+lower chi-square
+iteration number  1953  of  2000
+higher chi-square is not accepted
+iteration number  1954  of  2000
+higher chi-square is not accepted
+iteration number  1955  of  2000
+higher chi-square is not accepted
+iteration number  1956  of  2000
+higher chi-square is not accepted
+iteration number  1957  of  2000
+lower chi-square
+iteration number  1958  of  2000
+higher chi-square is not accepted
+iteration number  1959  of  2000
+lower chi-square
+iteration number  1960  of  2000
+higher chi-square is not accepted
+iteration number  1961  of  2000
+higher chi-square is not accepted
+iteration number  1962  of  2000
+higher chi-square is not accepted
+iteration number  1963  of  2000
+higher chi-square is not accepted
+iteration number  1964  of  2000
+higher chi-square is not accepted
+iteration number  1965  of  2000
+higher chi-square is accepted
+iteration number  1966  of  2000
+higher chi-square is accepted
+iteration number  1967  of  2000
+lower chi-square
+iteration number  1968  of  2000
+lower chi-square
+iteration number  1969  of  2000
+higher chi-square is accepted
+iteration number  1970  of  2000
+higher chi-square is not accepted
+iteration number  1971  of  2000
+lower chi-square
+iteration number  1972  of  2000
+higher chi-square is not accepted
+iteration number  1973  of  2000
+lower chi-square
+iteration number  1974  of  2000
+higher chi-square is not accepted
+iteration number  1975  of  2000
+higher chi-square is not accepted
+iteration number  1976  of  2000
+higher chi-square is not accepted
+iteration number  1977  of  2000
+lower chi-square
+iteration number  1978  of  2000
+higher chi-square is accepted
+iteration number  1979  of  2000
+higher chi-square is not accepted
+iteration number  1980  of  2000
+lower chi-square
+iteration number  1981  of  2000
+lower chi-square
+iteration number  1982  of  2000
+lower chi-square
+iteration number  1983  of  2000
+higher chi-square is not accepted
+iteration number  1984  of  2000
+higher chi-square is accepted
+iteration number  1985  of  2000
+lower chi-square
+iteration number  1986  of  2000
+lower chi-square
+iteration number  1987  of  2000
+higher chi-square is not accepted
+iteration number  1988  of  2000
+lower chi-square
+iteration number  1989  of  2000
+lower chi-square
+iteration number  1990  of  2000
+higher chi-square is not accepted
+iteration number  1991  of  2000
+higher chi-square is not accepted
+iteration number  1992  of  2000
+lower chi-square
+iteration number  1993  of  2000
+lower chi-square
+iteration number  1994  of  2000
+higher chi-square is not accepted
+iteration number  1995  of  2000
+higher chi-square is not accepted
+iteration number  1996  of  2000
+higher chi-square is not accepted
+iteration number  1997  of  2000
+higher chi-square is not accepted
+iteration number  1998  of  2000
+higher chi-square is not accepted
+iteration number  1999  of  2000
+higher chi-square is not accepted
