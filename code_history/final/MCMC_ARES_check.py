@@ -43,10 +43,10 @@ def call_ares (params, redshifts):
     sim.run()
     z = sim.history['z'][::-1]
     dTb = sim.history['dTb'][::-1]
-    sorted_idx = np.argsort(z, kind="stable")
-    z = z[sorted_idx]
-    dTb = dTb[sorted_idx]
+    z = z[z<50]
+    dTb = dTb[:len(z)]
     spline = CubicSpline(z, dTb)
+    
     return spline(redshifts) 
 
 def func_ares (m, z, d = 4*int(1E5)): 
@@ -149,6 +149,7 @@ def chisquare (pars, data, err): #returns the chi-square of two values - err can
     chisq = np.sum((pred-data)**2/err**2)
     return chisq
 """
+you need to further change this to cholesky, it usually works better and gives error if the matrix is not positive definite
 def draw_samples(cov, n):
     m=cov.shape[0]
     mat=np.random.randn(m,n)
