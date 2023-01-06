@@ -50,6 +50,7 @@ def call_ares (params, redshifts):
     return spline(redshifts) 
 
 def func_ares (m, z, d = 4*int(1E5)): 
+    #you can further change this function to include the best dx
     #m is the list of params 
     #z is the redshift range
     #y is the brightness temp
