@@ -149,14 +149,15 @@ def chisquare (pars, data, err): #returns the chi-square of two values - err can
     pred = call_ares(list_to_dict(pars, key), z_e)
     chisq = np.sum((pred-data)**2/err**2)
     return chisq
-"""
-you need to further change this to cholesky, it usually works better and gives error if the matrix is not positive definite
+
+#you need to further change this to cholesky, it usually works better and gives error if the matrix is not positive definite
 def draw_samples(cov, n):
     m=cov.shape[0]
     mat=np.random.randn(m,n)
     L=np.linalg.cholesky(cov)
     return (L@mat).T
 
+"""
 def draw_samples(N,n):
     m = N.shape[0]
     mat = np.random.randn(m, n)
@@ -165,7 +166,7 @@ def draw_samples(N,n):
     for i in range(m):
         L [:, i] = np.real(np.sqrt(w [i])) * np.real(v [:, i])
     return np.real(L@mat).T
-"""
+
 def draw_samples(mat,nset):
     e,v=np.linalg.eigh(mat)
     e[e<0]=0 #make sure we don't have any negative eigenvalues due to roundoff
@@ -179,23 +180,24 @@ def draw_samples(mat,nset):
     #and rotate back into the original space
     dat=np.dot(v,g)
     return dat.T
-
+"""
 ##levenberg-Marquardt Fitter -----------------------------------------------------------------------------------------------------------
 def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1): 
     lamda=0
+    m = check_limits_lm(m)
     chisq, lhs, rhs = get_matrices(m, fun, x, y, Ninv)
     
     for i in range(niter):
         lhs_inv = linv(lhs, lamda)
         dm = lhs_inv@rhs
-        m_new = check_limits_lm(m+dm)   
+        m_new = check_limits_lm(m+dm)
         chisq_new, lhs_new, rhs_new = get_matrices(m_new, fun, x, y, Ninv)
+
+        #try:
+         #   chisq_new, lhs_new, rhs_new = get_matrices(m+dm, fun, x, y, Ninv)
+        #except:
+            
         if chisq_new<chisq:  
-            #accept the step
-            #check if we think we are converged - for this, check if 
-            #lamda is zero (i.e. the steps are sensible), and the change in 
-            #chi^2 is very small - that means we must be very close to the
-            #current minimum
             if lamda==0:
                 if (np.abs(chisq-chisq_new)<chitol):
                     print('Converged after ', i, ' iterations of LM')
@@ -225,9 +227,7 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
     chisq = np.zeros(nstep)
     chisq[0] = fun(start_guess, data, err)
     acceptance_ratio = 0
-    
-    chi_surf = np.zeros(nstep)
-        
+            
     #the chain 
     for i in range(1, nstep):
         print('iteration number', i, 'of', nstep) 
@@ -243,7 +243,6 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
         else:
             new_chisq = fun(new_param, data, err)
             
-        chi_surf[i] = new_chisq   
         if new_chisq <= chisq[i-1]:
             acceptance_ratio = acceptance_ratio + 1
             chisq[i] = new_chisq
@@ -258,7 +257,7 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
                 print('new param not accepted')
                 chisq[i] = chisq[i-1]
                 chain[i, :] = chain[i-1, :]          
-    return chain, chisq, acceptance_ratio/nstep, chi_surf
+    return chain, chisq, acceptance_ratio/nstep
 
 #LM inputs ---------------------------------------------------------------------------------------------------------------------------
 dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 36, 'pop_rad_yield_2_': 5, 'clumping_factor': 0.71} 
@@ -283,7 +282,7 @@ mycov=(cov_mat.T@cov_mat)/dim
 samples = draw_samples(mycov, nstep)
 np.savetxt('samples.gz', samples)
 #np.savetxt('/scratch/o/oscarh/aryanah/output_1/samples.gz' , samples)
-params, cs, acceptance_ratio, chi_surf = mcmc(chisquare, m_fit, model_e, err, samples, nstep)
+params, cs, acceptance_ratio = mcmc(chisquare, m_fit, model_e, err, samples, nstep)
 np.savetxt('params.gz' , params)
 np.savetxt('chi-surf.gz', chi_surf)
 #np.savetxt('/scratch/o/oscarh/aryanah/output_1/params.gz' , params)
@@ -321,6 +320,7 @@ txt.write("acceptance_ratio for %d Steps: " %nstep + repr(acceptance_ratio*100) 
 txt.write('y: '+ repr(y)+ '\n')
 txt.write('chi-surf: ' + repr(chi_surf))
 txt.close()
+
 #Fourier Transform------------------------------------------------------------------------------------------------------
 ps = np.zeros((nstep, param_length))
 for i in range(param_length):

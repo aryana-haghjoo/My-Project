@@ -35,7 +35,10 @@ def call_ares (params, redshifts):
     
     return spline(redshifts) 
 
-params = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 36, 'pop_rad_yield_2_': 5, 'clumping_factor': 0.71} 
+#'pop_rad_yield_1': upper limit: 96
+#'pop_rad_yield_2': upper limit: 31
+#'clumping factor': upper limit: 28
+params = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 96, 'pop_rad_yield_2_': 5, 'clumping_factor': 0.71} 
 z = np.linspace(5, 40, 100)
 T = call_ares(params, z)
 plt.plot(z, T)
