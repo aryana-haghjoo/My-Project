@@ -54,7 +54,7 @@ def func_ares (m, z, d = 4*int(1E5)):
     #m is the list of params 
     #z is the redshift range
     #y is the brightness temp
-    #m = np.array(m)
+    m = np.array(m)
     T = call_ares (list_to_dict(m, key), z)
     derivs = np.zeros([len(z), len(m)])
     dpars = np.zeros(len(m))
@@ -190,7 +190,8 @@ def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1):
     for i in range(niter):
         lhs_inv = linv(lhs, lamda)
         dm = lhs_inv@rhs
-        m_new = check_limits_lm(m+dm)
+        m_new = m+dm
+        #m_new = check_limits_lm(m+dm)
         chisq_new, lhs_new, rhs_new = get_matrices(m_new, fun, x, y, Ninv)
 
         #try:
@@ -264,7 +265,8 @@ dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 36, 'pop_rad_yield_2_
 m_true, key = dict_to_list(dict_true)
 y_true = call_ares(dict_true, z_e)
 y = y_true + np.random.randn(len(z_e))*0.1
-m0 = m_true + np.random.randn(len(m_true))*0.1
+#m0 = m_true + np.random.randn(len(m_true))*0.1
+m0 = [4.05, 36.2, 4.8, 0.75]
 model_e = y
 
 #MCMC inputs --------------------------------------------------------------------------------------------------------------------------
@@ -273,7 +275,7 @@ nstep = 10
 err = 1
 
 #Running the LM------------------------------------------------------------------------------------------------------------------------
-m_fit = LM (m0, func_ares, z_e, y, niter=20)
+m_fit = LM (m0, func_ares, z_e, model_e, niter=20)
 y_fit, cov_mat = func_ares(m_fit, z_e)
 dim = cov_mat.shape[0]
 mycov=(cov_mat.T@cov_mat)/dim
