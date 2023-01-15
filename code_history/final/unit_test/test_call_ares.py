@@ -25,21 +25,22 @@ def call_ares (params, redshifts):
     params_denormalized = list_to_dict(value_denormalized, key)
     
     #running ares
-    sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
+    sim = ares.simulations.Global21cm(verbose=False, progress_bar=False)
+    #sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
     sim.run()
     z = sim.history['z'][::-1]
     dTb = sim.history['dTb'][::-1]
-    z = z[z<50]
-    dTb = dTb [:len(z)]
-    spline = CubicSpline(z, dTb)
+    #z = z[z<50]
+    #dTb = dTb [:len(z)]
+    #spline = CubicSpline(z, dTb)
     
-    return spline(redshifts) 
+    return z
 
 #'pop_rad_yield_1': upper limit: 96
 #'pop_rad_yield_2': upper limit: 31
 #'clumping factor': upper limit: 28
-params = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 96, 'pop_rad_yield_2_': 5, 'clumping_factor': 0.71} 
-z = np.linspace(5, 40, 100)
-T = call_ares(params, z)
-plt.plot(z, T)
+params = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 30, 'pop_rad_yield_2_': 5, 'clumping_factor': 0.71} 
+z_1 = np.linspace(5, 40, 100)
+z = call_ares(params, z_1)
+plt.plot(z)
 plt.savefig('test.png')

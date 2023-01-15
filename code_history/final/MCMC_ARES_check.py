@@ -38,6 +38,7 @@ def call_ares (params, redshifts):
     value_denormalized[2] = 10** (value[2])
     params_denormalized = list_to_dict(value_denormalized, key)
     
+    #print(params_denormalized)
     #running ares
     sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
     sim.run()
@@ -151,13 +152,14 @@ def chisquare (pars, data, err): #returns the chi-square of two values - err can
     return chisq
 
 #you need to further change this to cholesky, it usually works better and gives error if the matrix is not positive definite
+"""
 def draw_samples(cov, n):
     m=cov.shape[0]
     mat=np.random.randn(m,n)
     L=np.linalg.cholesky(cov)
     return (L@mat).T
 
-"""
+
 def draw_samples(N,n):
     m = N.shape[0]
     mat = np.random.randn(m, n)
@@ -166,8 +168,8 @@ def draw_samples(N,n):
     for i in range(m):
         L [:, i] = np.real(np.sqrt(w [i])) * np.real(v [:, i])
     return np.real(L@mat).T
-
-def draw_samples(mat,nset):
+"""
+def draw_samples(mat, nset):
     e,v=np.linalg.eigh(mat)
     e[e<0]=0 #make sure we don't have any negative eigenvalues due to roundoff
     n=len(e)
@@ -180,7 +182,7 @@ def draw_samples(mat,nset):
     #and rotate back into the original space
     dat=np.dot(v,g)
     return dat.T
-"""
+
 ##levenberg-Marquardt Fitter -----------------------------------------------------------------------------------------------------------
 def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1): 
     lamda=0
@@ -261,12 +263,12 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
     return chain, chisq, acceptance_ratio/nstep
 
 #LM inputs ---------------------------------------------------------------------------------------------------------------------------
-dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 36, 'pop_rad_yield_2_': 5, 'clumping_factor': 0.71} 
+dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 36.0, 'pop_rad_yield_2_': 5.0, 'clumping_factor': 0.71} 
 m_true, key = dict_to_list(dict_true)
 y_true = call_ares(dict_true, z_e)
 y = y_true + np.random.randn(len(z_e))*0.1
 #m0 = m_true + np.random.randn(len(m_true))*0.1
-m0 = [4.05, 36.2, 4.8, 0.75]
+m0 = [4.05, 36.1, 4.9, 0.73]
 model_e = y
 
 #MCMC inputs --------------------------------------------------------------------------------------------------------------------------
@@ -286,7 +288,7 @@ np.savetxt('samples.gz', samples)
 #np.savetxt('/scratch/o/oscarh/aryanah/output_1/samples.gz' , samples)
 params, cs, acceptance_ratio = mcmc(chisquare, m_fit, model_e, err, samples, nstep)
 np.savetxt('params.gz' , params)
-np.savetxt('chi-surf.gz', chi_surf)
+#np.savetxt('chi-surf.gz', chi_surf)
 #np.savetxt('/scratch/o/oscarh/aryanah/output_1/params.gz' , params)
 
 """
@@ -320,7 +322,7 @@ txt.write("Chi-squared of mcmc result:"+ repr(chisquare(mcmc_param, model_e, err
 txt.write('\n' + 'Covariance Matrix: ' + repr(mycov) + '\n')
 txt.write("acceptance_ratio for %d Steps: " %nstep + repr(acceptance_ratio*100) +"%"+ '\n')
 txt.write('y: '+ repr(y)+ '\n')
-txt.write('chi-surf: ' + repr(chi_surf))
+#txt.write('chi-surf: ' + repr(chi_surf))
 txt.close()
 
 #Fourier Transform------------------------------------------------------------------------------------------------------
@@ -345,7 +347,7 @@ plt.legend()
 plt.savefig('mcmc_result.png')
 #plt.savefig('/scratch/o/oscarh/aryanah/output_1/mcmc_result.png')
 plt.show()
-
+"""
 #Plotting the chi-square trend-------------------------------------------------------------------------------------------
 fig3 = plt.figure()
 #plt.plot(np.log(cs))
@@ -447,3 +449,4 @@ plt.tight_layout()
 plt.savefig('corner_plots.png')
 #plt.savefig('/scratch/o/oscarh/aryanah/output_1/corner_plots.png')
 plt.show()
+"""
