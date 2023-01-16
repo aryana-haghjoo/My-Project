@@ -152,14 +152,14 @@ def chisquare (pars, data, err): #returns the chi-square of two values - err can
     return chisq
 
 #you need to further change this to cholesky, it usually works better and gives error if the matrix is not positive definite
-"""
+
 def draw_samples(cov, n):
     m=cov.shape[0]
     mat=np.random.randn(m,n)
     L=np.linalg.cholesky(cov)
     return (L@mat).T
 
-
+"""
 def draw_samples(N,n):
     m = N.shape[0]
     mat = np.random.randn(m, n)
@@ -168,7 +168,7 @@ def draw_samples(N,n):
     for i in range(m):
         L [:, i] = np.real(np.sqrt(w [i])) * np.real(v [:, i])
     return np.real(L@mat).T
-"""
+
 def draw_samples(mat, nset):
     e,v=np.linalg.eigh(mat)
     e[e<0]=0 #make sure we don't have any negative eigenvalues due to roundoff
@@ -182,7 +182,7 @@ def draw_samples(mat, nset):
     #and rotate back into the original space
     dat=np.dot(v,g)
     return dat.T
-
+"""
 ##levenberg-Marquardt Fitter -----------------------------------------------------------------------------------------------------------
 def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1): 
     lamda=0
@@ -239,7 +239,8 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
          #   result = check_limits_mcmc(new_param)
          #   if result:
          #       break
-        new_param = samples[i, :]
+        #call the draw samples function here
+        new_param = samples[i, :] + start_guess
         if not (check_limits_mcmc(new_param)):
             print('out of bound')
             new_chisq = 1E7
@@ -268,7 +269,7 @@ m_true, key = dict_to_list(dict_true)
 y_true = call_ares(dict_true, z_e)
 y = y_true + np.random.randn(len(z_e))*0.1
 #m0 = m_true + np.random.randn(len(m_true))*0.1
-m0 = [4.05, 36.1, 4.9, 0.73]
+m0 = [4.05, 36.2, 4.9, 0.72]
 model_e = y
 
 #MCMC inputs --------------------------------------------------------------------------------------------------------------------------
@@ -279,9 +280,12 @@ err = 1
 #Running the LM------------------------------------------------------------------------------------------------------------------------
 m_fit = LM (m0, func_ares, z_e, model_e, niter=20)
 y_fit, cov_mat = func_ares(m_fit, z_e)
+print(cov_mat[0:5, 0:5])
 dim = cov_mat.shape[0]
+np.savetxt('cov_mat.gz', cov_mat)
 mycov=(cov_mat.T@cov_mat)/dim
-
+print(mycov)
+mycov = mycov+ 1E-3
 #Running the MCMC----------------------------------------------------------------------------------------------------------------------
 samples = draw_samples(mycov, nstep)
 np.savetxt('samples.gz', samples)
