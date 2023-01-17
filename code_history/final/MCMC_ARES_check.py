@@ -157,30 +157,6 @@ def draw_samples(cov, n):
     L=np.linalg.cholesky(cov)
     return (L@mat).T
 
-"""
-def draw_samples(N,n):
-    m = N.shape[0]
-    mat = np.random.randn(m, n)
-    L = np.zeros((m, m))
-    w, v = np.linalg.eig(N)   
-    for i in range(m):
-        L [:, i] = np.real(np.sqrt(w [i])) * np.real(v [:, i])
-    return np.real(L@mat).T
-
-def draw_samples(mat, nset):
-    e,v=np.linalg.eigh(mat)
-    e[e<0]=0 #make sure we don't have any negative eigenvalues due to roundoff
-    n=len(e)
-    #make gaussian random variables
-    g=np.random.randn(n,nset)
-    #now scale them by the square root of the eigenvalues
-    rte=np.sqrt(e)
-    for i in range(nset):
-        g[:,i]=g[:,i]*rte
-    #and rotate back into the original space
-    dat=np.dot(v,g)
-    return dat.T
-"""
 ##levenberg-Marquardt Fitter -----------------------------------------------------------------------------------------------------------
 def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1): 
     lamda=0
@@ -326,7 +302,7 @@ txt.write("acceptance_ratio for %d Steps: " %nstep + repr(acceptance_ratio*100) 
 txt.write('y: '+ repr(y)+ '\n')
 #txt.write('chi-surf: ' + repr(chi_surf))
 txt.close()
-
+"""
 #Fourier Transform------------------------------------------------------------------------------------------------------
 ps = np.zeros((nstep, param_length))
 for i in range(param_length):
@@ -349,7 +325,7 @@ plt.legend()
 plt.savefig('mcmc_result.png')
 #plt.savefig('/scratch/o/oscarh/aryanah/output_1/mcmc_result.png')
 plt.show()
-"""
+
 #Plotting the chi-square trend-------------------------------------------------------------------------------------------
 fig3 = plt.figure()
 #plt.plot(np.log(cs))
