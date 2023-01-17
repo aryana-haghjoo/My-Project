@@ -151,8 +151,6 @@ def chisquare (pars, data, err): #returns the chi-square of two values - err can
     chisq = np.sum((pred-data)**2/err**2)
     return chisq
 
-#you need to further change this to cholesky, it usually works better and gives error if the matrix is not positive definite
-
 def draw_samples(cov, n):
     m=cov.shape[0]
     mat=np.random.randn(m,n)
