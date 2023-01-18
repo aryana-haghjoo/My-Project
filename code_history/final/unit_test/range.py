@@ -42,10 +42,10 @@ z = np.linspace(5, 40, 100)
 #pop_rade_yield_1_: 0 - 1E100 
 #pop_rade_yield_2_: 0 - 1E8 but it can go upper
 #clumping_factor: 0-76
-rad_0 = np.linspace(0, 20, 3)
-rad_1 = np.linspace(0, 100, 3)
-rad_2 = np.linspace(0, 8, 3)
-clf = np.linspace(0, 76, 3)
+rad_0 = np.linspace(0, 20, 10)
+rad_1 = np.linspace(0, 100, 10)
+rad_2 = np.linspace(0, 8, 10)
+clf = np.linspace(0, 76, 10)
 #-----------------------------------------------------------------------------------------------------------------------------------
 
 accepted = []
@@ -60,4 +60,4 @@ for i in range (0, len(rad_0)):
                     pass
                 else:
                     accepted.append(params)
-np.savetxt('accepted.txt', accepted)
+np.savetxt('/scratch/o/oscarh/aryanah/range/accepted.gz', accepted)

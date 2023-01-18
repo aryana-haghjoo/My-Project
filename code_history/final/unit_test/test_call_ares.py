@@ -50,14 +50,14 @@ def call_ares (params, redshifts):
     return spline1(redshifts), spline2(redshifts)
 
 #clumping_factor: 0-76
-#pop_rad_yield_0_: 0 - 1E20 but it can go upper
-#pop_rade_yield_1_: 0 - 1E100 
-#pop_rade_yield_2_: 0 - 1E8 but it can go upper
+#pop_rad_yield_0_: 1E2 - 1E10 
+#pop_rade_yield_1_: 0 - 1E41
+#pop_rade_yield_2_: 0 - 1E7 
 
 #params = {'pop_rad_yield_0_': , 'pop_rad_yield_1_': , 'pop_rad_yield_2_': , 'clumping_factor': 1} 
-#params = {'clumping_factor': 0}
+#params = {'clumping_factor': 77}
+params = {'pop_rad_yield_2_': 0}
 
-params = {'pop_rad_yield_1_': 1E100}
 z = np.linspace(5, 40, 100)
 default, perturb= call_ares(params, z)
 plt.plot(z, default, label= "default")
