@@ -27,22 +27,40 @@ def call_ares (params, redshifts):
     """
     
     #running ares
-    sim1 = ares.simulations.Global21cm(verbose=False, progress_bar=False)    
-    sim1.run()  
+    sim1 = ares.simulations.Global21cm(verbose=False, progress_bar=False)
+    sim2 = ares.simulations.Global21cm(**params, verbose=False, progress_bar=False)
+    
+    sim1.run()
+    sim2.run()
+    
     z1 = sim1.history['z'][::-1]
     dTb1 = sim1.history['dTb'][::-1]
     
-    #z1 = z1[z1<50]
-    #dTb1 = dTb1 [:len(z1)]
-    #spline1 = CubicSpline(z1, dTb1)
+    z2 = sim2.history['z'][::-1]
+    dTb2 = sim2.history['dTb'][::-1]
     
-    #return spline1(redshifts)
-    return z1
+    z1 = z1[z1<50]
+    dTb1 = dTb1 [:len(z1)]
+    spline1 = CubicSpline(z1, dTb1)
+    
+    z2 = z2[z2<50]
+    dTb2 = dTb2 [:len(z2)]
+    spline2 = CubicSpline(z2, dTb2)
+    
+    return spline1(redshifts), spline2(redshifts)
 
+#clumping_factor: 0-40
+#pop_rad_yield_0_: 1E2 - 1E10 
+#pop_rade_yield_1_: 0 - 1E41
+#pop_rade_yield_2_: 0 - 1E6 
+
+#params = {'pop_rad_yield_0_': , 'pop_rad_yield_1_': , 'pop_rad_yield_2_': , 'clumping_factor': 1} 
+#params = {'clumping_factor': 40}
 params = {'pop_rad_yield_0_': 2}
 
 z = np.linspace(5, 40, 100)
-z_a = call_ares(params, z)
-plt.plot(z_a)
-plt.ylabel('z')
+default, perturb= call_ares(params, z)
+plt.plot(z, default, label= "default")
+plt.plot(z, perturb, label= "perturbed")
+plt.legend()
 plt.savefig('test.png')
