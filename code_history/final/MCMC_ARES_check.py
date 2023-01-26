@@ -50,13 +50,47 @@ def call_ares (params, redshifts):
     
     return spline(redshifts) 
 
+def check_limits_fix(m):
+    m_new = np.array(m, copy=True, dtype = 'float64')
+    
+    #pop_rad_yield_0_: 1E2 - 1E10 
+    if m[0]< 1E2:
+        m_new[0] = 2
+        
+    if m[0]>1E10:
+        m_new[0] = 10
+    
+    #pop_rade_yield_1_: 0 - 1E41
+    if m[1]<0:
+        m_new[1] = 0
+
+    if m[1]> 41:
+        m_new[1] = 41
+        
+    #pop_rade_yield_2_: 0 - 1E6     
+    if m[2]< 0:
+        m_new[2] = 0
+        
+    if m[2]> 6:
+        m_new[2] = 6
+    
+    #clumping_factor: 0-15
+    if m[3] < 0:
+        m_new[0] = 0
+        
+    if m[3] > 15:
+        m[3] = 15
+        
+    return m_new
+
 def func_ares (m, z, d = 4*int(1E5)): 
-    #you can further change this function to include the best dx
+    #I can further change this function to include the best dx
     #m is the list of params 
     #z is the redshift range
     #y is the brightness temp
     m = np.array(m)
-    T = call_ares (list_to_dict(m, key), z)
+    m_prime = check_limits_fix(m)
+    T = call_ares (list_to_dict(m_prime, key), z)
     derivs = np.zeros([len(z), len(m)])
     dpars = np.zeros(len(m))
     dpars = m/d 
@@ -67,36 +101,21 @@ def func_ares (m, z, d = 4*int(1E5)):
         pars_minus = np.array(m, copy=True, dtype = 'float64')
         pars_minus[i] = pars_minus[i] - dpars[i]
         
-        A_plus = call_ares (list_to_dict(pars_plus, key), z)
-        A_minus = call_ares (list_to_dict(pars_minus, key), z)
+        pars_plus_prime = check_limits_fix(pars_plus)
+        A_plus = call_ares (list_to_dict(pars_plus_prime, key), z)
+        
+        pars_minus_prime = check_limits_fix(pars_minus)
+        A_minus = call_ares (list_to_dict(pars_minus_prime, key), z)
         A_m = (A_plus - A_minus)/(2*dpars[i])
         derivs[:, i] = A_m    
     return T, derivs
 
-def check_limits_lm(m):
-#'pop_rad_yield_1': upper limit: 96
-#'pop_rad_yield_2': upper limit: 31
-#'clumping factor': upper limit: 28
-
-    m_new = m
-    if m[1]>96:
-        print('out of bound 1')
-        m_new[1] = 96
-        
-    if m[2]>31:
-        print('out of bound 2')
-        m[2] = 31
-        
-    if m[3] > 28:
-        print('out of bound 3')
-        m[3] = 28
-        
-    return m_new
-
+"""
 def check_limits_mcmc(m):
-#'pop_rad_yield_1': upper limit: 96
-#'pop_rad_yield_2': upper limit: 31
-#'clumping factor': upper limit: 28
+#pop_rad_yield_0_: 1E2 - 1E10 
+#pop_rade_yield_1_: 0 - 1E41
+#pop_rade_yield_2_: 0 - 1E6 
+#clumping_factor: 0-15
 
     m_new = np.array(m, copy=True, dtype = 'float64')
     if m[1] > 96:
@@ -115,6 +134,7 @@ def check_limits_mcmc(m):
         value_3 = True
         
     return value_1&value_2&value_3
+"""
 
 def update_lamda(lamda, success):
     if success:
@@ -160,7 +180,7 @@ def draw_samples(cov, n):
 ##levenberg-Marquardt Fitter -----------------------------------------------------------------------------------------------------------
 def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1): 
     lamda=0
-    m = check_limits_lm(m)
+    #m = check_limits_lm(m)
     chisq, lhs, rhs = get_matrices(m, fun, x, y, Ninv)
     
     for i in range(niter):
@@ -214,13 +234,19 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
          #   if result:
          #       break
         #call the draw samples function here
+        
         new_param = samples[i, :] + start_guess
+        try:
+            new_chisq =  fun(new_param, data, err)
+        except:
+            new_chisq = 1E7
+        """
         if not (check_limits_mcmc(new_param)):
             print('out of bound')
             new_chisq = 1E7
         else:
             new_chisq = fun(new_param, data, err)
-            
+        """    
         if new_chisq <= chisq[i-1]:
             acceptance_ratio = acceptance_ratio + 1
             chisq[i] = new_chisq
@@ -238,12 +264,12 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
     return chain, chisq, acceptance_ratio/nstep
 
 #LM inputs ---------------------------------------------------------------------------------------------------------------------------
-dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 36.0, 'pop_rad_yield_2_': 5.0, 'clumping_factor': 0.71} 
+dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 20.0, 'pop_rad_yield_2_': 3.0, 'clumping_factor': 0.7} 
 m_true, key = dict_to_list(dict_true)
 y_true = call_ares(dict_true, z_e)
-y = y_true + np.random.randn(len(z_e))*0.1
+y = y_true + np.random.randn(len(z_e))*0.01
 #m0 = m_true + np.random.randn(len(m_true))*0.1
-m0 = [4.05, 36.2, 4.9, 0.72]
+m0 = [4.05, 20.5, 2.9, 0.72]
 model_e = y
 
 #MCMC inputs --------------------------------------------------------------------------------------------------------------------------
@@ -260,6 +286,7 @@ np.savetxt('cov_mat.gz', cov_mat)
 mycov=(cov_mat.T@cov_mat)/dim
 print(mycov)
 mycov = mycov+ 1E-3
+
 #Running the MCMC----------------------------------------------------------------------------------------------------------------------
 samples = draw_samples(mycov, nstep)
 np.savetxt('samples.gz', samples)
