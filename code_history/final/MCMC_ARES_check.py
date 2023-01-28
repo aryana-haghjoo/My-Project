@@ -187,6 +187,7 @@ def LM(m, fun, x, y, Ninv=None, niter=10, chitol= 1):
         lhs_inv = linv(lhs, lamda)
         dm = lhs_inv@rhs
         m_new = m+dm
+        #print(dm)
         #m_new = check_limits_lm(m+dm)
         chisq_new, lhs_new, rhs_new = get_matrices(m_new, fun, x, y, Ninv)
 
@@ -267,7 +268,7 @@ def mcmc(fun, start_guess, data, err, samples, nstep):
 dict_true = {'pop_rad_yield_0_': 4.03, 'pop_rad_yield_1_': 20.0, 'pop_rad_yield_2_': 3.0, 'clumping_factor': 0.7} 
 m_true, key = dict_to_list(dict_true)
 y_true = call_ares(dict_true, z_e)
-y = y_true + np.random.randn(len(z_e))*0.01
+y = y_true*(1+ np.random.randn(len(y_true))*0.01)
 #m0 = m_true + np.random.randn(len(m_true))*0.1
 m0 = [4.05, 20.5, 2.9, 0.72]
 model_e = y
