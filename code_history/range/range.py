@@ -46,12 +46,12 @@ z = np.linspace(5, 40, 100)
 #pop_rad_yield_0_: 1E2 - 1E10 
 #pop_rade_yield_1_: 0 - 1E41
 #pop_rade_yield_2_: 0 - 1E6 
-#clumping_factor: 0-15
+#clumping_factor: 0-12
 
 rad_0 = np.linspace(2, 10, 10)
 rad_1 = np.linspace(0, 41, 10)
 rad_2 = np.linspace(0, 6, 10)
-clf = np.linspace(0, 15, 10)
+clf = np.linspace(0, 12, 10)
 #-----------------------------------------------------------------------------------------------------------------------------------
 
 accepted = []
