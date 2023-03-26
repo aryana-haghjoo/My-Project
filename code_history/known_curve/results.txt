@@ -1,0 +1,7 @@
+True Parameters: array([ 4. , 29. ,  5. ,  1.7])
+Starting Parameters: [3.9, 28, 5.1, 1.5]
+MCMC Fitted Parameters: array([ 3.89999955e+00, -9.77298571e+04,  5.09992048e+00,  1.49928057e+00])
+
+Chi-squared of original guess:29714196731.008026
+Chi-squared of MCMC result:29729711719.906364
+acceptance_ratio for 10 Steps: 90.0%
