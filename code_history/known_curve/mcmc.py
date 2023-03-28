@@ -8,7 +8,9 @@ from math import ceil
 
 # %%
 #loading the EDGES data (the e subscipt is related to EDGES)
-data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
+#data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
+data_1 = pd.read_csv('/home/aryana/GitHub/My-Project/data/data_1.csv')
+
 freq_e = data_1.iloc[:,0] #frequency, MHz
 
 #Changing the axis from frequency to redshift
@@ -29,16 +31,17 @@ def list_to_dict(value, key): #converts two lists (key and value) to a dictionar
 
 def call_ares (params, redshifts): 
     #params should be a dictionary
-    value, key = dict_to_list(params)
+    #value, key = dict_to_list(params)
     
-    value_denormalized = np.array(value, dtype='float64')
-    value_denormalized[0] = 10** (value[0])
-    value_denormalized[1] = 10** (value[1])
-    value_denormalized[2] = 10** (value[2])
-    params_denormalized = list_to_dict(value_denormalized, key)
+    #value_denormalized = np.array(value, dtype='float64')
+    #value_denormalized[0] = 10** (value[0])
+    #value_denormalized[1] = 10** (value[1])
+    #value_denormalized[2] = 10** (value[2])
+    #params_denormalized = list_to_dict(value_denormalized, key)
     
     #running ares
-    sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
+    #sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
+    sim = ares.simulations.Global21cm(**params, verbose=False, progress_bar=False)
     sim.run()
     z = sim.history['z'][::-1]
     dTb = sim.history['dTb'][::-1]
@@ -208,8 +211,7 @@ def mcmc(fun_chisq, start_guess, covariance_matrix, data, Ninv, nstep):
     return chain, chisq, acceptance_ratio/nstep
 
 # %%
-dict_true = {'pop_rad_yield_0_': 4.0, 'pop_rad_yield_1_': 29.0, 'pop_rad_yield_2_': 5.0, 'clumping_factor': 1.7} 
-#dict_true = {'pop_rad_yield_0_': 4.0, 'pop_rad_yield_2_': 5.0, 'clumping_factor': 1.7} 
+dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_1_': 1E29, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 1.7} 
 m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 y_true = call_ares(list_to_dict(m_true, key), z_e)
@@ -228,14 +230,14 @@ Ninv = ((err)**(-2))*np.eye(len(z_e))
 #error bars
 #mycovinv= np.linalg.inv(mycov)
 #np.sqrt(np.diag(mycovinv))
-mycovinv = np.array([[ 5.27742748e-12, -5.80235302e-02, -3.04679665e-11,
-        -3.30182836e-10],
-       [-5.80235302e-02,  1.46974204e+09,  6.94439047e-01,
-         7.81529147e+00],
-       [-3.04679665e-11,  6.94439047e-01,  4.28242428e-10,
-         4.32413223e-09],
-       [-3.30182836e-10,  7.81529147e+00,  4.32413223e-09,
-         4.55738528e-08]])
+mycovinv = np.array([[ 3.08793956e-03,  9.10388084e+29, -7.13314643e-02,
+        -1.65433009e-06],
+       [ 9.10388084e+29,  5.53623942e+62, -3.26975218e+31,
+        -6.79950805e+26],
+       [-7.13314643e-02, -3.26975218e+31,  7.26807773e+00,
+         1.86365177e-04],
+       [-1.65433009e-06, -6.79950805e+26,  1.86365177e-04,
+         4.87418948e-09]])
 
 # %%
 #MCMC inputs 
