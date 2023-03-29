@@ -211,12 +211,15 @@ def mcmc(fun_chisq, start_guess, covariance_matrix, data, Ninv, nstep):
     return chain, chisq, acceptance_ratio/nstep
 
 # %%
-dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_1_': 1E29, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 1.7} 
+#dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_1_': 1E29, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 1.7} 
+dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 1.7} 
+
 m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 y_true = call_ares(list_to_dict(m_true, key), z_e)
 #m_0 = m_true * (1 +  0.1* np.random.randn(len(m_true)))
-m_0 = [2E4, 7E28, 5E5, 1.5]
+#m_0 = [2E4, 7E28, 5E5, 1.5]
+m_0 = [2E4, 5E4, 1.5]
 err = 1E-3
 Ninv = ((err)**(-2))*np.eye(len(z_e))
 
@@ -230,14 +233,9 @@ Ninv = ((err)**(-2))*np.eye(len(z_e))
 #error bars
 #mycovinv= np.linalg.inv(mycov)
 #np.sqrt(np.diag(mycovinv))
-mycovinv = np.array([[ 3.08793956e-03,  9.10388084e+29, -7.13314643e-02,
-        -1.65433009e-06],
-       [ 9.10388084e+29,  5.53623942e+62, -3.26975218e+31,
-        -6.79950805e+26],
-       [-7.13314643e-02, -3.26975218e+31,  7.26807773e+00,
-         1.86365177e-04],
-       [-1.65433009e-06, -6.79950805e+26,  1.86365177e-04,
-         4.87418948e-09]])
+mycovinv = np.array([[ 1.40465926e-02, -1.77291230e+00, -5.60601974e-05],
+       [-1.77291230e+00,  2.64334772e+02,  8.26635223e-03],
+       [-5.60601974e-05,  8.26635223e-03,  2.59424115e-07]])
 
 # %%
 #MCMC inputs 
@@ -361,7 +359,7 @@ plt.savefig('/scratch/o/oscarh/aryanah/output_1/fourier.png')
 # %%----------------------------------------------------------------------------------------------------------------------
 #params_cut = params[1000:, :]
 params_cut = np.copy(params)
-fig5, ax_list = plt.subplots(3, 2, figsize=(10,10))
+fig5, ax_list = plt.subplots(2, 2, figsize=(10,10))
 fig5.suptitle('Corner plots of the chain', fontsize=16)
 
 ax_list[0, 0].plot(params_cut[:, 0], params_cut[:, 1], linestyle = "", marker=".")
@@ -372,21 +370,21 @@ ax_list[0, 1].plot(params_cut[:, 0], params_cut[:, 2], linestyle = "", marker=".
 ax_list[0, 1].set_ylabel('param 2', fontsize=12)
 ax_list[0, 1].set_xlabel('param 0', fontsize=12)
     
-ax_list[1, 0].plot(params_cut[:, 0], params_cut[:, 3], linestyle = "", marker=".")
-ax_list[1, 0].set_ylabel('param 3', fontsize=12)
-ax_list[1, 0].set_xlabel('param 0', fontsize=12)
+#ax_list[1, 0].plot(params_cut[:, 0], params_cut[:, 3], linestyle = "", marker=".")
+#ax_list[1, 0].set_ylabel('param 3', fontsize=12)
+#ax_list[1, 0].set_xlabel('param 0', fontsize=12)
 
-ax_list[1, 1].plot(params_cut[:, 1], params_cut[:, 2], linestyle = "", marker=".")
+ax_list[1, 1].plot(params_cut[:, 1], params_cut[:, 0], linestyle = "", marker=".")
 ax_list[1, 1].set_ylabel('param 2', fontsize=12)
 ax_list[1, 1].set_xlabel('param 1', fontsize=12)
 
-ax_list[2, 0].plot(params_cut[:, 1], params_cut[:, 3], linestyle = "", marker=".")
-ax_list[2, 0].set_ylabel('param 3', fontsize=12)
-ax_list[2, 0].set_xlabel('param 1', fontsize=12)
+#ax_list[2, 0].plot(params_cut[:, 1], params_cut[:, 3], linestyle = "", marker=".")
+#ax_list[2, 0].set_ylabel('param 3', fontsize=12)
+#ax_list[2, 0].set_xlabel('param 1', fontsize=12)
 
-ax_list[2, 1].plot(params_cut[:, 2], params_cut[:, 3], linestyle = "", marker=".")
-ax_list[2, 1].set_ylabel('param 3', fontsize=12)
-ax_list[2, 1].set_xlabel('param 2', fontsize=12)
+#ax_list[2, 1].plot(params_cut[:, 2], params_cut[:, 3], linestyle = "", marker=".")
+#ax_list[2, 1].set_ylabel('param 3', fontsize=12)
+#ax_list[2, 1].set_xlabel('param 2', fontsize=12)
 
 plt.tight_layout()
 #plt.savefig('corner_plots.png')
