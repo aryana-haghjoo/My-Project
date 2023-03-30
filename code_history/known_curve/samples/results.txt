@@ -1,0 +1,2 @@
+Mean of samplesarray([1.00000461e+04, 9.99987596e+04, 1.69991622e+00, 9.99963064e-02])RMS error of samples0.037625143766400734
+Mean of difference between the chi-squares-123877338326.05908
