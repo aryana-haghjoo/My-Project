@@ -68,11 +68,11 @@ def chisquare (pars, data, Ninv): #returns the chi-square of two 21cm curves - e
 dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 1.7, 'fX': 0.1} 
 m_true, key = dict_to_list(dict_true)
 y_true = call_ares(list_to_dict(m_true, key), z_e)
-m_0 = [10**(3.9), 10**(5.2), 1.5, 0.3]
+#m_0 = [10**(3.9), 10**(5.2), 1.5, 0.3]
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 err = 1E-3
 Ninv = ((err)**(-2))*np.eye(len(z_e))
-chisq_f = chisquare(m_0, y_true, Ninv)
+chisq_f = chisquare(m_true, y_true, Ninv)
 n_samples = 10000
 mycovinv = np.array([[ 6.42193835e-03, -3.35083949e-01, -1.68150631e-05,
         -5.32518724e-07],
@@ -93,11 +93,20 @@ for i in range(n_samples):
 
 csq_diff = csq - chisq_f
 
+#np.savetxt('samples.gz' , samples_with_mean)
+np.savetxt('/scratch/o/oscarh/aryanah/samples/samples.gz' , samples_with_mean)
+
+#np.savetxt('csq.gz' , csq)
+np.savetxt('/scratch/o/oscarh/aryanah/samples/csq.gz' , csq)
+
+
+
 #txt = open('results.txt','w')
 txt = open('/scratch/o/oscarh/aryanah/samples/results.txt','w')
-txt.write('Mean of samples' + repr(np.mean(samples_with_mean, axis=0)))
-txt.write('RMS error of samples' + repr(np.std((samples.T@samples)/n_samples - mycovinv)) + '\n')
-txt.write('Mean of difference between the chi-squares'+ repr(np.mean(csq_diff)) + '\n')
+txt.write('Mean of samples: ' + repr(np.mean(samples_with_mean, axis=0)) + '\n')
+txt.write('RMS error of samples: ' + repr(np.std((samples.T@samples)/n_samples - mycovinv)) + '\n')
+txt.write('Chi-Sqaure at the point of best fit: ' +repr(chisq_f) + '\n')
+txt.write('Mean of difference between the chi-squares: '+ repr(np.mean(csq_diff)))
 txt.close()
 
 params_cut = np.copy(samples_with_mean)
