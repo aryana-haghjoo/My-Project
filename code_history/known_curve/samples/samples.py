@@ -99,8 +99,6 @@ np.savetxt('/scratch/o/oscarh/aryanah/samples/samples.gz' , samples_with_mean)
 #np.savetxt('csq.gz' , csq)
 np.savetxt('/scratch/o/oscarh/aryanah/samples/csq.gz' , csq)
 
-
-
 #txt = open('results.txt','w')
 txt = open('/scratch/o/oscarh/aryanah/samples/results.txt','w')
 txt.write('Mean of samples: ' + repr(np.mean(samples_with_mean, axis=0)) + '\n')
