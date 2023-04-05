@@ -31,16 +31,7 @@ def list_to_dict(value, key): #converts two lists (key and value) to a dictionar
 
 def call_ares (params, redshifts): 
     #params should be a dictionary
-    #value, key = dict_to_list(params)
     
-    #value_denormalized = np.array(value, dtype='float64')
-    #value_denormalized[0] = 10** (value[0])
-    #value_denormalized[1] = 10** (value[1])
-    #value_denormalized[2] = 10** (value[2])
-    #params_denormalized = list_to_dict(value_denormalized, key)
-    
-    #running ares
-    #sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
     sim = ares.simulations.Global21cm(**params, verbose=False, progress_bar=False)
     sim.run()
     z = sim.history['z'][::-1]
@@ -164,9 +155,12 @@ def draw_samples(covariance_matrix, nset):
     return samples_denormalized
 
 def chisquare (pars, data, Ninv): #returns the chi-square of two 21cm curves - err can be a number/array   
-    pred = call_ares(list_to_dict(pars, key), z_e)
-    r = data-pred
-    chisq = r.T@Ninv@r
+    try:
+        pred = call_ares(list_to_dict(pars, key), z_e)
+        r = data-pred
+        chisq = r.T@Ninv@r
+    except:
+        chisq = 1E10
     return chisq
 
 #Defining the MCMC chain
@@ -188,19 +182,19 @@ def mcmc(fun_chisq, start_guess, covariance_matrix, data, Ninv, nstep):
     for i in range(1, nstep):
         #print('iteration number', i, 'of', nstep) 
         new_param = samples[i, :] + chain[i-1, :]
-        #new_chisq =  fun_chisq(new_param, data, Ninv)
+        new_chisq =  fun_chisq(new_param, data, Ninv)
         
-        try:
-            new_chisq =  fun_chisq(new_param, data, err)
-        except:
-            new_chisq = 1E10
+        #try:
+        #    new_chisq =  fun_chisq(new_param, data, err)
+        #except:
+        #    new_chisq = 1E7
       
         if new_chisq <= chisq[i-1]:
             acceptance_ratio = acceptance_ratio + 1
             chisq[i] = new_chisq
             chain[i, :] = new_param 
         else :
-            betta = 0.1
+            betta = 0.5
             if np.random.rand(1)<betta*(np.exp(-0.5*(new_chisq-chisq[i-1]))):
                 acceptance_ratio = acceptance_ratio + 1
                 chisq[i] = new_chisq
@@ -217,8 +211,7 @@ m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 y_true = call_ares(list_to_dict(m_true, key), z_e)
 m_0 = [10**(3.9), 10**(5.2), 1.5, 0.3]
-#err = 1E-3
-err = 1
+err = 1E-3
 Ninv = ((err)**(-2))*np.eye(len(z_e))
 
 # %%
@@ -243,24 +236,25 @@ mycovinv = np.array([[ 6.42193835e-03, -3.35083949e-01, -1.68150631e-05,
 # %%
 #MCMC inputs 
 param_length = len(m_true)
-nstep = 10000
+nstep = 100
 
 # %%
 #Running the MCMC
 params, cs, acceptance_ratio = mcmc(chisquare, m_0, mycovinv, y_true, Ninv, nstep)
 #np.savetxt('params.gz' , params)
-np.savetxt('/scratch/o/oscarh/aryanah/output_2/params.gz' , params)
+np.savetxt('/scratch/o/oscarh/aryanah/output_1/params.gz' , params)
 
 #np.savetxt('csq.gz' , cs)
-np.savetxt('/scratch/o/oscarh/aryanah/output_2/csq.gz' , cs)
+np.savetxt('/scratch/o/oscarh/aryanah/output_1/csq.gz' , cs)
 
+#%%
 #MCMC output
 mcmc_param= np.empty(param_length)
 for i in range(param_length):
     mcmc_param[i] = np.mean(params[:,i]) #array of best parameters  
 
 #txt = open('results.txt', 'w')
-txt = open('/scratch/o/oscarh/aryanah/output_2/results.txt','w')
+txt = open('/scratch/o/oscarh/aryanah/output_1/results.txt','w')
 txt.write('True Parameters: ' + repr(m_true) + '\n')
 txt.write('Starting Parameters: ' + repr(m_0) + '\n')
 txt.write('MCMC Fitted Parameters: ' + repr(mcmc_param) + '\n')
@@ -279,7 +273,7 @@ plt.plot(z_e, call_ares(list_to_dict(m_0, key), z_e), label = 'Initial Guess')
 plt.legend()
 plt.title('Result of MCMC (%d Steps)'%nstep, fontsize=12)
 #plt.savefig('mcmc_result.png')
-plt.savefig('/scratch/o/oscarh/aryanah/output_2/mcmc_result.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_1/mcmc_result.png')
 
 # %%------------------------------------------------------------------------------------------------------------------------------
 #Plotting the chi-square trend
@@ -289,7 +283,7 @@ plt.xlabel('number of steps', fontsize=12)
 plt.title ('Chi-Square Trend (%d Steps)'%nstep, fontsize=12)
 plt.ylabel('Chi-Square', fontsize=12)
 #plt.savefig('chi-square.png')
-plt.savefig('/scratch/o/oscarh/aryanah/output_2/chi-square.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_1/chi-square.png')
 
 # %%---------------------------------------------------------------------------------------------------------------
 fig3, ax_list = plt.subplots(ceil(param_length/2), 2, figsize=(13,10))
@@ -316,9 +310,9 @@ else:
 
 plt.tight_layout()
 #plt.savefig('parameters.png')
-plt.savefig('/scratch/o/oscarh/aryanah/output_2/parameters.png') 
+plt.savefig('/scratch/o/oscarh/aryanah/output_1/parameters.png') 
 
-# %%-------------------------------------------------------------------------------------------------------------------------
+# %%
 #Fourier Transform
 ps = np.zeros((nstep, param_length))
 for i in range(param_length):
@@ -357,7 +351,7 @@ else:
 
 plt.tight_layout()
 #plt.savefig('fourier.png')
-plt.savefig('/scratch/o/oscarh/aryanah/output_2/fourier.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_1/fourier.png')
 
 # %%----------------------------------------------------------------------------------------------------------------------
 params_cut = params[1000:, :]
@@ -391,4 +385,4 @@ ax_list[2, 1].set_xlabel('param 2', fontsize=12)
 
 plt.tight_layout()
 #plt.savefig('corner_plots.png')
-plt.savefig('/scratch/o/oscarh/aryanah/output_2/corner_plots.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_1/corner_plots.png')

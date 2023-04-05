@@ -1,7 +1,7 @@
 True Parameters: array([1.0e+04, 1.0e+05, 1.7e+00, 1.0e-01])
 Starting Parameters: [7943.282347242814, 158489.3192461114, 1.5, 0.3]
-MCMC Fitted Parameters: array([7.94330972e+03, 1.58498063e+05, 1.50023898e+00, 2.99998501e-01])
+MCMC Fitted Parameters: array([7.94313208e+03, 1.58503183e+05, 1.50054849e+00, 3.00011085e-01])
 
-Chi-squared of original guess:123879376900.95654
-Chi-squared of MCMC result:123872410779.98781
-acceptance_ratio for 10 Steps: 50.0%
+Chi-squared of original guess:123877338377.93698
+Chi-squared of MCMC result:123864275069.84921
+acceptance_ratio for 10 Steps: 60.0%

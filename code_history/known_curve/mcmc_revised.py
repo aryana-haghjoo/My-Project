@@ -8,8 +8,8 @@ from math import ceil
 
 # %%
 #loading the EDGES data (the e subscipt is related to EDGES)
-#data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
-data_1 = pd.read_csv('/home/aryana/GitHub/My-Project/data/data_1.csv')
+data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
+#data_1 = pd.read_csv('/home/aryana/GitHub/My-Project/data/data_1.csv')
 
 freq_e = data_1.iloc[:,0] #frequency, MHz
 
@@ -31,16 +31,7 @@ def list_to_dict(value, key): #converts two lists (key and value) to a dictionar
 
 def call_ares (params, redshifts): 
     #params should be a dictionary
-    #value, key = dict_to_list(params)
     
-    #value_denormalized = np.array(value, dtype='float64')
-    #value_denormalized[0] = 10** (value[0])
-    #value_denormalized[1] = 10** (value[1])
-    #value_denormalized[2] = 10** (value[2])
-    #params_denormalized = list_to_dict(value_denormalized, key)
-    
-    #running ares
-    #sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
     sim = ares.simulations.Global21cm(**params, verbose=False, progress_bar=False)
     sim.run()
     z = sim.history['z'][::-1]
@@ -245,16 +236,16 @@ mycovinv = np.array([[ 6.42193835e-03, -3.35083949e-01, -1.68150631e-05,
 # %%
 #MCMC inputs 
 param_length = len(m_true)
-nstep = 10
+nstep = 10000
 
 # %%
 #Running the MCMC
 params, cs, acceptance_ratio = mcmc(chisquare, m_0, mycovinv, y_true, Ninv, nstep)
-np.savetxt('params.gz' , params)
-#np.savetxt('/scratch/o/oscarh/aryanah/output_2/params.gz' , params)
+#np.savetxt('params.gz' , params)
+np.savetxt('/scratch/o/oscarh/aryanah/output_2/params.gz' , params)
 
-np.savetxt('csq.gz' , cs)
-#np.savetxt('/scratch/o/oscarh/aryanah/output_2/csq.gz' , cs)
+#np.savetxt('csq.gz' , cs)
+np.savetxt('/scratch/o/oscarh/aryanah/output_2/csq.gz' , cs)
 
 #%%
 #MCMC output
@@ -262,8 +253,8 @@ mcmc_param= np.empty(param_length)
 for i in range(param_length):
     mcmc_param[i] = np.mean(params[:,i]) #array of best parameters  
 
-txt = open('results.txt', 'w')
-#txt = open('/scratch/o/oscarh/aryanah/output_2/results.txt','w')
+#txt = open('results.txt', 'w')
+txt = open('/scratch/o/oscarh/aryanah/output_2/results.txt','w')
 txt.write('True Parameters: ' + repr(m_true) + '\n')
 txt.write('Starting Parameters: ' + repr(m_0) + '\n')
 txt.write('MCMC Fitted Parameters: ' + repr(mcmc_param) + '\n')
@@ -281,8 +272,8 @@ plt.plot(z_e, mcmc_T, label = 'MCMC')
 plt.plot(z_e, call_ares(list_to_dict(m_0, key), z_e), label = 'Initial Guess')
 plt.legend()
 plt.title('Result of MCMC (%d Steps)'%nstep, fontsize=12)
-plt.savefig('mcmc_result.png')
-#plt.savefig('/scratch/o/oscarh/aryanah/output_2/mcmc_result.png')
+#plt.savefig('mcmc_result.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_2/mcmc_result.png')
 
 # %%------------------------------------------------------------------------------------------------------------------------------
 #Plotting the chi-square trend
@@ -291,8 +282,8 @@ plt.semilogy(cs)
 plt.xlabel('number of steps', fontsize=12)
 plt.title ('Chi-Square Trend (%d Steps)'%nstep, fontsize=12)
 plt.ylabel('Chi-Square', fontsize=12)
-plt.savefig('chi-square.png')
-#plt.savefig('/scratch/o/oscarh/aryanah/output_2/chi-square.png')
+#plt.savefig('chi-square.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_2/chi-square.png')
 
 # %%---------------------------------------------------------------------------------------------------------------
 fig3, ax_list = plt.subplots(ceil(param_length/2), 2, figsize=(13,10))
@@ -318,8 +309,8 @@ else:
             
 
 plt.tight_layout()
-plt.savefig('parameters.png')
-#plt.savefig('/scratch/o/oscarh/aryanah/output_2/parameters.png') 
+#plt.savefig('parameters.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_2/parameters.png') 
 
 # %%
 #Fourier Transform
@@ -359,8 +350,8 @@ else:
             
 
 plt.tight_layout()
-plt.savefig('fourier.png')
-#plt.savefig('/scratch/o/oscarh/aryanah/output_2/fourier.png')
+#plt.savefig('fourier.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_2/fourier.png')
 
 # %%----------------------------------------------------------------------------------------------------------------------
 params_cut = params[1000:, :]
@@ -393,5 +384,5 @@ ax_list[2, 1].set_ylabel('param 3', fontsize=12)
 ax_list[2, 1].set_xlabel('param 2', fontsize=12)
 
 plt.tight_layout()
-plt.savefig('corner_plots.png')
-#plt.savefig('/scratch/o/oscarh/aryanah/output_2/corner_plots.png')
+#plt.savefig('corner_plots.png')
+plt.savefig('/scratch/o/oscarh/aryanah/output_2/corner_plots.png')
