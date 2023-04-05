@@ -217,7 +217,8 @@ m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 y_true = call_ares(list_to_dict(m_true, key), z_e)
 m_0 = [10**(3.9), 10**(5.2), 1.5, 0.3]
-err = 1E-3
+#err = 1E-3
+err = 1
 Ninv = ((err)**(-2))*np.eye(len(z_e))
 
 # %%
