@@ -183,18 +183,12 @@ def mcmc(fun_chisq, start_guess, covariance_matrix, data, Ninv, nstep):
         #print('iteration number', i, 'of', nstep) 
         new_param = samples[i, :] + chain[i-1, :]
         new_chisq =  fun_chisq(new_param, data, Ninv)
-        
-        #try:
-        #    new_chisq =  fun_chisq(new_param, data, err)
-        #except:
-        #    new_chisq = 1E7
-      
         if new_chisq <= chisq[i-1]:
             acceptance_ratio = acceptance_ratio + 1
             chisq[i] = new_chisq
             chain[i, :] = new_param 
         else :
-            betta = 0.5
+            betta = 1
             if np.random.rand(1)<betta*(np.exp(-0.5*(new_chisq-chisq[i-1]))):
                 acceptance_ratio = acceptance_ratio + 1
                 chisq[i] = new_chisq
@@ -209,7 +203,7 @@ dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor'
 
 m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
-y_true = call_ares(list_to_dict(m_true, key), z_e)
+y_true = call_ares(dict_true, z_e)
 m_0 = [10**(3.9), 10**(5.2), 1.5, 0.3]
 err = 1E-3
 Ninv = ((err)**(-2))*np.eye(len(z_e))

@@ -236,7 +236,7 @@ mycovinv = np.array([[ 6.42193835e-03, -3.35083949e-01, -1.68150631e-05,
 # %%
 #MCMC inputs 
 param_length = len(m_true)
-nstep = 100
+nstep = 200
 
 # %%
 #Running the MCMC
