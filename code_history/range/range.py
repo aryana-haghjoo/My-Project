@@ -14,18 +14,11 @@ def list_to_dict(value, key): #converts two lists (key and value) to a dictionar
     #key is a list of parameters' names
     return dict(zip(key, value))
 
-def call_ares (value, redshifts): 
-    
-    value_denormalized = np.array(value, dtype='float64')
-    value_denormalized[0] = 10** (value[0])
-    value_denormalized[1] = 10** (value[1])
-    value_denormalized[2] = 10** (value[2])
-    
-    key = ['pop_rad_yield_0_', 'pop_rad_yield_1_', 'pop_rad_yield_2_', 'clumping_factor']    
-    params_denormalized = list_to_dict(value_denormalized, key)
+def call_ares (value, redshifts):  
+    params = list_to_dict(value, key)
 
     #running ares
-    sim = ares.simulations.Global21cm(**params_denormalized, verbose=False, progress_bar=False)
+    sim = ares.simulations.Global21cm(**params, verbose=False, progress_bar=False)
     sim.run()
     z = sim.history['z'][::-1]
     dTb = sim.history['dTb'][::-1]
@@ -48,19 +41,21 @@ z = np.linspace(5, 40, 100)
 #pop_rade_yield_2_: 0 - 1E5
 #clumping_factor: 0-12
 
-rad_0 = np.linspace(2, 10, 10)
-rad_1 = np.linspace(0, 41, 10)
-rad_2 = np.linspace(0, 6, 10)
-clf = np.linspace(0, 12, 10)
+#dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E4, 'clumping_factor': 1.7, 'fX': 0.2} 
+rad_0 = np.linspace(1E1, 1E20, 10)
+#rad_1 = np.linspace(0, 41, 10)
+rad_2 = np.linspace(1E1, 1E6, 10)
+clf = np.linspace(1E-10, 12, 10)
+fX = np.linspace(1E-10, 1, 10)
 #-----------------------------------------------------------------------------------------------------------------------------------
 
 accepted = []
 for i in range (0, len(rad_0)):
-    for j in range(0, len(rad_1)):
-        for k in range(0, len(rad_2)):
-            for l in range(0, len(clf)):
+    for j in range(0, len(rad_2)):
+        for k in range(0, len(clf)):
+            for l in range(0, len(fX)):
                 try:
-                    params = [rad_0[i], rad_1[j], rad_2[k], clf[l]]
+                    params = [rad_0[i], rad_2[j], clf[k], fX[l]]
                     T = call_ares(params, z)
                 except:
                     pass
