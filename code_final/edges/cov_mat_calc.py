@@ -11,6 +11,7 @@ model_e = data_1.iloc[:, 5] #model, mK
 
 #converting the data from mK to K
 model_e = model_e*1000
+model_e = model_e/2
 
 #Changing the axis from frequency to redshift
 v_0 = 1420 #MHz, frequency of 21cm line
@@ -38,7 +39,7 @@ def call_ares (params, redshifts):
     spline = CubicSpline(z, dTb)   
     return spline(redshifts) 
 
-def ares_deriv (m, z, d = 1E-2): 
+def ares_deriv (m, z, d = 1/(4E5)): 
     #I can further change this function to include the best dx - 4*int(1E5) is the best number I found so far
     #m is the list of params 
     #z is the redshift range
@@ -96,10 +97,7 @@ def LM(m, fun, x, y, Ninv, niter=10, chitol= 1):
         lhs_inv = linv(lhs, lamda)
         dm = lhs_inv@rhs
         m_new = m+dm
-        #print(dm)
-        #m_new = check_limits_lm(m+dm)
         chisq_new, lhs_new, rhs_new = get_matrices(m_new, fun, x, y, Ninv)
-
         #try:
          #   chisq_new, lhs_new, rhs_new = get_matrices(m+dm, fun, x, y, Ninv)
         #except:
@@ -120,11 +118,15 @@ def LM(m, fun, x, y, Ninv, niter=10, chitol= 1):
         #print('on iteration ', i, ' chisq is ', chisq, ' with step ', dm, ' and lamda ', lamda)
         print('\n', 'on iteration ', i, ' chisq is ', chisq, ' and lamda is ', lamda)
         #print('step ', dm)
-        #print('new params ', m_new)
+        print('new params ', m_new)
                 
     return m
 
-dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E4, 'clumping_factor': 1.7, 'fX': 0.2} 
+ 
+#dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'clumping_factor': 2.5, 'fX': 0.1} 
+dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1} 
+
+
 m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 y_true = call_ares(list_to_dict(m_true, key), z_e)

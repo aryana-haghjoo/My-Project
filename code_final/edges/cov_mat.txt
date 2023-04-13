@@ -1,0 +1,71 @@
+Starting Point: array([1.e+04, 1.e+03, 1.e-01, 1.e-01])
+Best-fit Point: array([4.54933009e+03, 2.47592394e+03, 3.70100011e-01, 1.36397790e-01])
+Chi-Square at the best-fit point: 8006.655661443841
+Inverse of Covariance Matrix: array([[ 3.24667471e+04,  5.68112552e+06, -8.51686688e+02,
+         5.65856615e-01],
+       [ 5.68112552e+06,  2.43358043e+10, -3.63874836e+06,
+         5.64163649e+00],
+       [-8.51686688e+02, -3.63874836e+06,  5.44075269e+02,
+        -9.80887059e-04],
+       [ 5.65856615e-01,  5.64163649e+00, -9.80887059e-04,
+         3.92215290e-05]])
+         
+ on iteration  0  chisq is  9747.329626187573  and lamda is  1
+new params  [-2.17576870e+03  8.52372223e+02  1.19687483e-01  1.72059015e-01]
+
+ on iteration  1  chisq is  8159.367412755325  and lamda is  0.6666666666666666
+new params  [3.91998215e+03 1.06724713e+03 1.06467150e-01 1.40580538e-01]
+
+ on iteration  2  chisq is  8159.367412755325  and lamda is  1.5
+new params  [4.71812582e+03 1.22098570e+03 2.16874365e-01 2.07150630e-01]
+
+ on iteration  3  chisq is  8074.891683514397  and lamda is  1.0
+new params  [4.30992937e+03 1.15295499e+03 1.70962105e-01 1.71264891e-01]
+
+ on iteration  4  chisq is  8074.891683514397  and lamda is  2.25
+new params  [4.63982914e+03 3.05328941e+03 4.57702086e-01 1.52271047e-01]
+
+ on iteration  5  chisq is  8056.520525545141  and lamda is  1.5
+new params  [4.48193788e+03 2.08198420e+03 3.10960802e-01 1.63242901e-01]
+
+ on iteration  6  chisq is  8028.450223507109  and lamda is  1.0
+new params  [4.52725588e+03 2.07534862e+03 3.10177864e-01 1.51498044e-01]
+
+ on iteration  7  chisq is  8011.247617830618  and lamda is  0.6666666666666666
+new params  [4.55789558e+03 2.44809534e+03 3.66128975e-01 1.41755573e-01]
+
+ on iteration  8  chisq is  8011.247617830618  and lamda is  1.5
+new params  [4.44944493e+03 2.30759564e+03 3.45338959e-01 1.39960207e-01]
+
+ on iteration  9  chisq is  8011.247617830618  and lamda is  3.375
+new params  [4.50336649e+03 2.34197976e+03 3.50419087e-01 1.40010899e-01]
+
+ on iteration  10  chisq is  8011.247617830618  and lamda is  7.59375
+new params  [4.53854276e+03 2.37914647e+03 3.55921036e-01 1.40379729e-01]
+
+ on iteration  11  chisq is  8010.907299395982  and lamda is  5.0625
+new params  [4.55320412e+03 2.40936030e+03 3.60394609e-01 1.40886005e-01]
+
+ on iteration  12  chisq is  8008.634292903948  and lamda is  3.375
+new params  [4.55597254e+03 2.47716093e+03 3.70514971e-01 1.39500095e-01]
+
+ on iteration  13  chisq is  8007.347490614724  and lamda is  2.25
+new params  [4.55413955e+03 2.47689388e+03 3.70468937e-01 1.37870324e-01]
+
+ on iteration  14  chisq is  8006.679031433592  and lamda is  1.5
+new params  [4.54909090e+03 2.47850648e+03 3.70486122e-01 1.36448254e-01]
+
+ on iteration  15  chisq is  8006.679031433592  and lamda is  3.375
+new params  [4.62115821e+03 2.44713606e+03 3.65795005e-01 1.37783292e-01]
+
+ on iteration  16  chisq is  8006.679031433592  and lamda is  7.59375
+new params  [4.57302267e+03 2.45880566e+03 3.67540418e-01 1.36685249e-01]
+
+ on iteration  17  chisq is  8006.679031433592  and lamda is  17.0859375
+new params  [4.55537078e+03 2.46759838e+03 3.68855213e-01 1.36383238e-01]
+
+ on iteration  18  chisq is  8006.679031433592  and lamda is  38.443359375
+new params  [4.55044924e+03 2.47303501e+03 3.69668084e-01 1.36365267e-01]
+
+ on iteration  19  chisq is  8006.655661443841  and lamda is  25.62890625
+new params  [4.54933009e+03 2.47592394e+03 3.70100011e-01 1.36397790e-01]

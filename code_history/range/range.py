@@ -61,5 +61,5 @@ for i in range (0, len(rad_0)):
                     pass
                 else:
                     accepted.append(params)
-#np.savetxt('accepted.gz', accepted)                    
-np.savetxt('/scratch/o/oscarh/aryanah/range/accepted.gz', accepted)
+np.savetxt('accepted.gz', accepted)                    
+#np.savetxt('/scratch/o/oscarh/aryanah/range/accepted.gz', accepted)

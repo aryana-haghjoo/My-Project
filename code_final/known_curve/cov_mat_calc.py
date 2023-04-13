@@ -66,7 +66,8 @@ def get_matrices(m, fun, x, y, Ninv):
     chisq = r.T@Ninv@r
     return chisq, lhs, rhs
 
-dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 2.5, 'fX': 0.1} 
+#dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 2.5, 'fX': 0.1} 
+dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1}
 m_true, key = dict_to_list(dict_true)
 m_true = np.array(m_true, copy=True, dtype = 'float64')
 y_true = call_ares(list_to_dict(m_true, key), z_e)
