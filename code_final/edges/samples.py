@@ -7,6 +7,11 @@ import pandas as pd
 #loading the EDGES data (the e subscipt is related to EDGES)
 data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
 freq_e = data_1.iloc[:, 0] #frequency, MHz
+model_e = data_1.iloc[:, 5] #model, mK
+
+#converting the data from mK to K
+model_e = model_e*1000
+model_e = model_e/2
 
 #Changing the axis from frequency to redshift
 v_0 = 1420 #MHz, frequency of 21cm line
@@ -66,41 +71,42 @@ def chisquare (pars, data, Ninv): #returns the chi-square of two 21cm curves - e
     return chisq
 
 #dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 2.5, 'fX': 0.1}
-dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1}
-m_true, key = dict_to_list(dict_true)
-y_true = call_ares(list_to_dict(m_true, key), z_e)
-m_true = np.array(m_true, copy=True, dtype = 'float64')
-err = 1E-3
+#dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1}
+params_dict = {'pop_rad_yield_0_': 4.54933009e+03, 'pop_rad_yield_2_': 2.47592394e+03, 'fesc': 3.70100011e-01, 'fX': 1.36397790e-01}
+params, key = dict_to_list(params_dict)
+#y = call_ares(list_to_dict(params, key), z_e)
+params = np.array(params, copy=True, dtype = 'float64')
+err = 1E1 #mk
 Ninv = ((err)**(-2))*np.eye(len(z_e))
-chisq_f = chisquare(m_true, y_true, Ninv)
+chisq_f = chisquare(params, model_e, Ninv)
 n_samples = 10000
-mycovinv = np.array([[ 1.64033521e-03,  1.96805295e-02, -4.39594925e-07,
-        -5.37628828e-08],
-       [ 1.96805295e-02,  1.60512857e+01, -1.44165451e-03,
-        -5.94152648e-06],
-       [-4.39594925e-07, -1.44165451e-03,  1.38232677e-07,
-         2.15944098e-10],
-       [-5.37628828e-08, -5.94152648e-06,  2.15944098e-10,
-         1.38004743e-11]])
+mycovinv = np.array([[ 3.24667471e+04,  5.68112552e+06, -8.51686688e+02,
+         5.65856615e-01],
+       [ 5.68112552e+06,  2.43358043e+10, -3.63874836e+06,
+         5.64163649e+00],
+       [-8.51686688e+02, -3.63874836e+06,  5.44075269e+02,
+        -9.80887059e-04],
+       [ 5.65856615e-01,  5.64163649e+00, -9.80887059e-04,
+         3.92215290e-05]])
 
 samples = draw_samples(mycovinv, n_samples)
 csq= np.empty(n_samples)
 samples_with_mean= np.empty((n_samples , 4))
 
 for i in range(n_samples):
-    samples_with_mean[i, :] = samples[i, :] + m_true
-    csq[i] = chisquare(samples_with_mean[i, :], y_true, Ninv)
+    samples_with_mean[i, :] = samples[i, :] + params
+    csq[i] = chisquare(samples_with_mean[i, :], model_e, Ninv)
 
 csq_diff = csq - chisq_f
 
 #np.savetxt('samples.gz' , samples_with_mean)
-np.savetxt('/scratch/o/oscarh/aryanah/samples_known_curve/samples.gz' , samples_with_mean)
+np.savetxt('/scratch/o/oscarh/aryanah/samples_edges/samples.gz' , samples_with_mean)
 
 #np.savetxt('csq.gz' , csq)
-np.savetxt('/scratch/o/oscarh/aryanah/samples_known_curve/csq.gz' , csq)
+np.savetxt('/scratch/o/oscarh/aryanah/samples_edges/csq.gz' , csq)
 
 #txt = open('results.txt','w')
-txt = open('/scratch/o/oscarh/aryanah/samples_known_curve/results.txt','w')
+txt = open('/scratch/o/oscarh/aryanah/samples_edges/results.txt','w')
 txt.write('Mean of samples: ' + repr(np.mean(samples_with_mean, axis=0)) + '\n')
 txt.write('RMS error of samples: ' + repr(np.std((samples.T@samples)/n_samples - mycovinv)) + '\n')
 txt.write('Chi-Sqaure at the point of best fit: ' +repr(chisq_f) + '\n')
@@ -137,7 +143,7 @@ ax_list[2, 1].set_xlabel('param 2', fontsize=12)
 plt.tight_layout()
 
 #plt.savefig('corner_plots.png')
-plt.savefig('/scratch/o/oscarh/aryanah/samples_known_curve/corner_plots.png')
+plt.savefig('/scratch/o/oscarh/aryanah/samples_edges/corner_plots.png')
 
 fig2, ax_list = plt.subplots(2, 2, figsize=(10,10))
 ax_list[0, 0].hist(samples_with_mean[:, 0], bins = 50)
@@ -154,12 +160,12 @@ ax_list[1, 1].set_ylabel('param 3', fontsize=12)
 plt.tight_layout()
 
 #plt.savefig('histogram.png')
-plt.savefig('/scratch/o/oscarh/aryanah/samples_known_curve/histogram.png')
+plt.savefig('/scratch/o/oscarh/aryanah/samples_edges/histogram.png')
 
 fig3 = plt.figure()
 plt.hist(csq_diff, bins=100)
 #plt.savefig('csq_hist.png')
-plt.savefig('/scratch/o/oscarh/aryanah/samples_known_curve/csq_hist.png')
+plt.savefig('/scratch/o/oscarh/aryanah/samples_edges/csq_hist.png')
 
 fig4, ax_list = plt.subplots(2, 2, figsize=(12,10))
 fig4.suptitle('Chi-Square vs paramters', fontsize=16)
@@ -181,4 +187,4 @@ ax_list[1, 1].set_ylabel('Chi-Square', fontsize=12)
 ax_list[1, 1].set_xlabel('param 3', fontsize=12)
 
 #plt.savefig('csq_params.png')
-plt.savefig('/scratch/o/oscarh/aryanah/samples_known_curve/csq_params.png')
+plt.savefig('/scratch/o/oscarh/aryanah/samples_edges/csq_params.png')
