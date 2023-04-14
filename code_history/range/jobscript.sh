@@ -5,10 +5,10 @@
 #SBATCH --ntasks-per-node=1
 
 # set max wallclock time
-#SBATCH --time=24:00:00
+#SBATCH --time=20:00:00
 
 # set name of job
-#SBATCH --job-name=aryana_job_range
+#SBATCH --job-name=range
 
 #SBATCH --mail-type=FAIL
 
@@ -19,11 +19,11 @@
 #SBATCH --mail-user=aryana.haghjoo@mail.mcgill.ca
 
 # set the output directory to the project directory
-#SBATCH --output=/scratch/o/oscarh/aryanah/range_out.out
+#SBATCH --output=/scratch/o/oscarh/aryanah/range/job_out.out
 
 module load python/3.9
 source ~/.virtualenvs/ares/bin/activate 
 export PYTHONPATH="/home/o/oscarh/aryanah/ares"
 
-cd /home/o/oscarh/aryanah/My-Project/code_final/range
+cd /home/o/oscarh/aryanah/My-Project/code_history/range
 python range.py
