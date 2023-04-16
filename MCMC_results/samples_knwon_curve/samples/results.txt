@@ -1,0 +1,4 @@
+Mean of samples: array([9.99999821e+03, 1.00000191e+05, 2.50000943e+00, 1.00000128e-01])
+RMS error of samples: 0.0061908383299241225
+Chi-Sqaure at the point of best fit: 0.0
+Mean of difference between the chi-squares: 35.016207338206016
