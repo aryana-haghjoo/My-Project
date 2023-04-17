@@ -12,6 +12,11 @@ data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
 #data_1 = pd.read_csv('/home/aryana/GitHub/My-Project/data/data_1.csv')
 
 freq_e = data_1.iloc[:,0] #frequency, MHz
+model_e = data_1.iloc[:, 5] #model, mK
+
+#converting the data from mK to K
+model_e = model_e*1000
+model_e = model_e/2
 
 #Changing the axis from frequency to redshift
 v_0 = 1420 #MHz, frequency of 21cm line
@@ -41,94 +46,6 @@ def call_ares (params, redshifts):
     spline = CubicSpline(z, dTb)
     
     return spline(redshifts) 
-
-"""
-def ares_deriv (m, z, d = 1E-2): 
-    #I can further change this function to include the best dx - 4*int(1E5) is the best number I found so far
-    #m is the list of params 
-    #z is the redshift range
-    #y is the brightness temp
-    m = np.array(m)
-    T = call_ares(list_to_dict(m, key), z)
-    derivs = np.zeros([len(z), len(m)])
-    dpars = d * m
-    dpars = np.array(dpars, copy=True, dtype = 'float64')
-    
-    for i in range(len(m)):        
-        pars_plus = np.array(m, copy=True, dtype = 'float64')
-        pars_plus[i] = pars_plus[i] + dpars[i]
-        
-        pars_minus = np.array(m, copy=True, dtype = 'float64')
-        pars_minus[i] = pars_minus[i] - dpars[i]
-        
-        A_plus = call_ares (list_to_dict(pars_plus, key), z)
-        A_minus = call_ares (list_to_dict(pars_minus, key), z)
-        A_m = (A_plus - A_minus)/(2*dpars[i])
-        derivs[:, i] = A_m    
-    return T, derivs
-
-def update_lamda(lamda, success):
-    if success:
-        lamda = lamda/1.5
-        if lamda<0.5:
-            lamda=0
-    else:
-        if lamda==0:
-            lamda=1
-        else:
-            lamda = lamda*1.5**2
-            #lamda = lamda*2
-    return lamda
-
-def get_matrices(m, fun, x, y, Ninv):
-    model, derivs = fun(m, x)
-    r = y-model
-    lhs = derivs.T@Ninv@derivs
-    rhs = derivs.T@(Ninv@r)
-    chisq = r.T@Ninv@r
-    return chisq, lhs, rhs
-
-def linv(mat, lamda):
-    mat = mat + lamda*np.diag(np.diag(mat))
-    return np.linalg.inv(mat)
-
-def LM(m, fun, x, y, Ninv, niter=10, chitol= 1): 
-    lamda=0
-    #m = check_limits_lm(m)
-    chisq, lhs, rhs = get_matrices(m, fun, x, y, Ninv)
-    
-    for i in range(niter):
-        lhs_inv = linv(lhs, lamda)
-        dm = lhs_inv@rhs
-        m_new = m+dm
-        #print(dm)
-        #m_new = check_limits_lm(m+dm)
-        chisq_new, lhs_new, rhs_new = get_matrices(m_new, fun, x, y, Ninv)
-
-        #try:
-         #   chisq_new, lhs_new, rhs_new = get_matrices(m+dm, fun, x, y, Ninv)
-        #except:
-            
-        if chisq_new<chisq:  
-            if lamda==0:
-                if (np.abs(chisq-chisq_new)<chitol):
-                    print('Converged after ', i, ' iterations of LM')
-                    return m_new
-            chisq = chisq_new
-            lhs = lhs_new
-            rhs = rhs_new
-            m = m_new
-            lamda = update_lamda(lamda,True)
-            
-        else:
-            lamda = update_lamda(lamda, False)
-        #print('on iteration ', i, ' chisq is ', chisq, ' with step ', dm, ' and lamda ', lamda)
-        print('\n', 'on iteration ', i, ' chisq is ', chisq, ' and lamda is ', lamda)
-        #print('step ', dm)
-        #print('new params ', m_new)
-                
-    return m
-"""
 
 def draw_samples(covariance_matrix, nset):
     #normalizing the covariance matrix
@@ -218,14 +135,14 @@ Ninv = ((err)**(-2))*np.eye(len(z_e))
 #error bars
 #mycovinv= np.linalg.inv(mycov)
 #np.sqrt(np.diag(mycovinv))
-mycovinv = np.array([[ 6.42193835e-03, -3.35083949e-01, -1.68150631e-05,
-        -5.32518724e-07],
-       [-3.35083949e-01,  3.02166856e+01,  1.28123050e-03,
-         3.09760274e-05],
-       [-1.68150631e-05,  1.28123050e-03,  6.01477911e-08,
-         1.74641455e-09],
-       [-5.32518724e-07,  3.09760274e-05,  1.74641455e-09,
-         6.43899943e-11]])
+mycovinv = np.array([[ 3.24667471e+04,  5.68112552e+06, -8.51686688e+02,
+         5.65856615e-01],
+       [ 5.68112552e+06,  2.43358043e+10, -3.63874836e+06,
+         5.64163649e+00],
+       [-8.51686688e+02, -3.63874836e+06,  5.44075269e+02,
+        -9.80887059e-04],
+       [ 5.65856615e-01,  5.64163649e+00, -9.80887059e-04,
+         3.92215290e-05]])
 
 # %%
 #MCMC inputs 
