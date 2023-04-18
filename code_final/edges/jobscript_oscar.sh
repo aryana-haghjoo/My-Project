@@ -11,7 +11,7 @@
 #SBATCH --time=20:00:00
 
 # set name of job
-#SBATCH --job-name=samples_edges_oscar
+#SBATCH --job-name=samples_edges_oscar_timer
 
 #SBATCH --mail-type=FAIL
 
@@ -29,4 +29,4 @@ source ~/.virtualenvs/ares/bin/activate
 export PYTHONPATH="/home/o/oscarh/aryanah/ares"
 
 cd /home/o/oscarh/aryanah/My-Project/code_final/edges
-python samples.py
+python samples_timer.py

@@ -14,7 +14,7 @@ model_e = model_e*1000
 model_e = model_e/2
 
 #Changing the axis from frequency to redshift
-v_0 = 1420 #MHz, frequency of 21cm line
+v_0 = 1420.4057 #MHz, frequency of 21cm line from Pritchard, 2006
 z_e = (v_0/freq_e)-1 #conversion of frequency to redshift
 
 def dict_to_list(d): #converts dictionary to two lists (key and value)
