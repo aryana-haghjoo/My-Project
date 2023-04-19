@@ -11,7 +11,7 @@
 #SBATCH --time=20:00:00
 
 # set name of job
-#SBATCH --job-name=samples_edges_oscar_timer
+#SBATCH --job-name=simple_mcmc
 
 #SBATCH --mail-type=FAIL
 
@@ -22,11 +22,11 @@
 #SBATCH --mail-user=aryana.haghjoo@mail.mcgill.ca
 
 # set the output directory to the project directory
-#SBATCH --output=/scratch/o/oscarh/aryanah/samples_edges/job_out.out
+#SBATCH --output=/scratch/o/oscarh/aryanah/mcmc_simple/job_out.out
 
 module load python/3.9
 source ~/.virtualenvs/ares/bin/activate 
 export PYTHONPATH="/home/o/oscarh/aryanah/ares"
 
 cd /home/o/oscarh/aryanah/My-Project/code_final/edges
-python samples_timer.py
+python mcmc_simple.py

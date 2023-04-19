@@ -124,7 +124,8 @@ def LM(m, fun, x, y, Ninv, niter=10, chitol= 1):
 
  
 #dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'clumping_factor': 2.5, 'fX': 0.1} 
-dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1} 
+#dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1} 
+dict_true = {'Nlw': 9500, 'fstar': 0.104, 'fesc': 0.25, 'fX': 0.13} 
 
 
 m_true, key = dict_to_list(dict_true)
@@ -138,7 +139,7 @@ chisq_f, lhs_f, rhs_f = get_matrices(m_fit, ares_deriv, z_e, model_e, Ninv)
 mycov = lhs_f
 mycovinv= np.linalg.inv(mycov)
 
-txt = open('cov_mat.txt','w')
+txt = open('cov_mat_new.txt','w')
 txt.write('Starting Point: ' + repr(m_true) + '\n')
 txt.write('Best-fit Point: ' + repr(m_fit) + '\n')
 txt.write('Chi-Square at the best-fit point: ' +repr(chisq_f) + '\n')

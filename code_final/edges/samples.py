@@ -3,6 +3,7 @@ import numpy as np
 import ares
 from scipy.interpolate import CubicSpline
 import pandas as pd
+import signal
 
 #loading the EDGES data (the e subscipt is related to EDGES)
 data_1 = pd.read_csv('/home/o/oscarh/aryanah/My-Project/data/data_1.csv')
@@ -64,13 +65,26 @@ def draw_samples(covariance_matrix, nset):
     samples_denormalized = samples @ D_sqrt
     return samples_denormalized
 
-def chisquare (pars, data, Ninv): #returns the chi-square of two 21cm curves - err can be a number/array   
+def chisquare(pars, data, Ninv):
+    def timeout_handler(signum, frame):
+        raise TimeoutError("chisquare function timed out")
+
     try:
+        # set a timer for 60 seconds
+        signal.signal(signal.SIGALRM, timeout_handler)
+        signal.alarm(30)
+
         pred = call_ares(list_to_dict(pars, key), z_e)
-        r = data-pred
-        chisq = r.T@Ninv@r
-    except:
+        r = data - pred
+        chisq = r.T @ Ninv @ r
+
+        # reset the timer
+        signal.alarm(0)
+
+    except TimeoutError:
+        # handle the timeout exception here
         chisq = 1E10
+
     return chisq
 
 #dict_true = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E5, 'clumping_factor': 2.5, 'fX': 0.1}
@@ -92,7 +106,7 @@ mycovinv = np.array([[ 3.24667471e+04,  5.68112552e+06, -8.51686688e+02,
        [ 5.65856615e-01,  5.64163649e+00, -9.80887059e-04,
          3.92215290e-05]])
 
-samples = draw_samples(mycovinv, n_samples)
+samples = draw_samples(mycovinv/(1000000), n_samples)
 csq= np.empty(n_samples)
 samples_with_mean= np.empty((n_samples , 4))
 

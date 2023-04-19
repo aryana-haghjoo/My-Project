@@ -1,4 +1,6 @@
 #!/bin/bash 
+#SBATCH --account=def-oscarh
+
 # set the number of nodes
 #SBATCH --nodes=1
 
@@ -8,7 +10,7 @@
 #SBATCH --time=20:00:00
 
 # set name of job
-#SBATCH --job-name=samples_edges
+#SBATCH --job-name=samples_edges_oscar
 
 #SBATCH --mail-type=FAIL
 
