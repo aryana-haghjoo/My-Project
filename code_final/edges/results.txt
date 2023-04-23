@@ -1,5 +1,0 @@
-Starting Parameters: array([4.54933009e+03, 2.47592394e+03, 3.70100011e-01, 1.36397790e-01])
-MCMC Fitted Parameters: array([4.51449870e+03, 2.66911080e+03, 3.90588719e-01, 1.32316430e-01])
-Chi-squared of original guess:8006.655671789552
-Chi-squared of MCMC result:8000.4257410178625
-acceptance_ratio for 100 Steps: 72.0%
