@@ -1,4 +1,4 @@
-Satarting Point: array([1.e+04, 1.e+03, 1.e-01, 1.e-01])
+Starting Point: array([1.e+04, 1.e+03, 1.e-01, 1.e-01])
 Chi-Square at the starting point: 0.0
 Inverse of Covariance Matrix: array([[ 1.64033521e-03,  1.96805295e-02, -4.39594925e-07,
         -5.37628828e-08],

@@ -84,7 +84,7 @@ mycov = lhs_f
 mycovinv= np.linalg.inv(mycov)
 
 txt = open('cov_mat.txt','w')
-txt.write('Satarting Point: ' + repr(m_true) + '\n')
+txt.write('Starting Point: ' + repr(m_true) + '\n')
 txt.write('Chi-Square at the starting point: ' +repr(chisq_f) + '\n')
 txt.write('Inverse of Covariance Matrix: ' + repr(mycovinv) + '\n')
 txt.close()
