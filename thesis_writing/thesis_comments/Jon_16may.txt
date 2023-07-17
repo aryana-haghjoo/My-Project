@@ -1,0 +1,104 @@
+citations citations citations!  It is much harder to go back and add
+them then to put them in as you write.
+
+I say this to every thesis draft (and have so far only not made it as
+a comment once when I've been an examiner):  captions need to be much,
+much longer and more explanatory.  Think of how you read papers - you
+read the abstract and look at the figures.  That's why every figure
+needs to stand on its own, and the caption needs to explain in detail
+what you're looking at, why it's important, and what you should take
+away from the figure.
+
+
+"It has been proven to be one of the only available probes of
+large-scale structure" - this isn't true.  currently, other probes
+have given us a lot more information on large-scale structure.
+
+"Not very long after the big bang," - please be quantitative
+
+"the universe was composed of huge clouds of gas" - I think at the era
+you're thinking about, they weren't clouds as post-CMB density
+fluctuations were parts in 10^5
+
+"Neutral hydrogen has a special spin-flip" - some transitions aren't
+more special than others.
+
+"emission of a radio signal " - it's a photon
+
+"When the CMB photons redshift through expansion of universe, there
+comes a period when they reach wavelengths close to that of hydrogen
+intrinsic bands" CMB is blackbody, so there's always 21cm photons at
+the current rest frame.
+
+"During this period, hydrogen molecules are able to absorb CMB
+photons" ground-state hydrogen can always absorb 21cm photons.  Also,
+importantly, these are hydrogen atoms, not molecules.
+
+"From all these experiments, we will specifically talk about two of
+them in detail." - which two, and why?
+
+
+"While neural networks have been shown to be effective..." - text
+garbled?  Seems like this is missing earlier text.  And you could do
+neural nets with physical parameters.  What I said was that MCMC lets
+you map out the full likelihood surface, neural nets are usually
+reserved for problems that are too complicated for you to do that.
+
+list of experiments: are these all global signal experiments?  Your
+description of prizm, including what the acronym stands for, is wrong.
+
+"Various computational algorithms, including machine learning and
+neural networks, have been used to accomplish this task. " -
+citations? I'm not familiar with this work.
+
+"This iterative algorithm is based on another gradient decent method
+referred to as ”Newton’s method”." - newton's method is not gradient
+descent.
+
+"LM is perfectly capable of fitting models with Gaussian-shaped
+likelihood spaces. However, it’s abilities are limited when it comes
+to more complicated surfaces." - no, it fits just fine (and in fact
+it's main reason for existing is fitting non-gaussian surfaces).  It's the
+error bars that are wrong.
+
+"The goal of gradient decent algorithms " - no, minimizing chi^2 has
+nothing to do with gradient descent.  chi^2 comes from maximizing the
+likelihood in the presence of Gaussian errors.  You also need to write
+the full expression for chi^2, since errors may well be (in fact are for
+21cm) correlated.
+
+"We can also define a diagonal noise matrix N" - it is not necessarily
+diagonal!
+
+for your matrix math, use "\left (" etc. in latex instead of just
+"(".  That makes the parentheses match the size of the thing they're
+next to.  Right now your latexed equations are hard to read, and this
+will help.  I'd also recommend writing "A'" instead of "dA(m)/dm".
+Just define that first, then the equations will again be much easier
+to read.
+
+you might also want to define r=d-A(m) for the math.  
+
+eqn. 4.8 looks wrong to me.
+
+"The first term can simply be neglected due to the following reasons:"
+- you can't always neglect it, so please phrase that it's usually safe
+to ignore, and that because what we really want is to set the gradient
+to zero, it's OK if the curvature is slightly off as long as we get to
+the max.
+
+Generally, I think you should be clearer up front that the goal of LM
+is to generate a covariance matrix for MCMC.  You do say it, but it's
+kind of buried, and it's important to be clear about that in
+explaining again why the covariance doesn't need to be perfect.
+
+"The best-fit model is expected to mimic the behavior of data
+closely. Therefore, we the residuals must have a small value:" - this
+is not always even close to true.
+
+"The diagonal elements of this matrix are simply the inverse of
+variance on each parameter" - the thing you have written is the
+curvature matrix.
+
+"If calculated correctly, this matrix is always semi-positive
+definite."  - why would you ever calculate it incorrectly?
