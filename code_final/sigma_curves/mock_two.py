@@ -41,7 +41,7 @@ def call_ares (params, redshifts):
 
 dict_edges = {'pop_rad_yield_0_': 4.54933009e+03, 'pop_rad_yield_2_': 2.47592394e+03, 'fesc': 3.70100011e-01, 'fX': 1.36397790e-01}
 value, key = dict_to_list(dict_edges)
-curves = np.empty(np.shape(params)[0], len(z_e))
+curves = np.empty((np.shape(params)[0], len(z_e)))
 for i in range(np.shape(params)[0]):
     curves[i, :] = call_ares(list_to_dict(params[i, :], key), z_e)
 
