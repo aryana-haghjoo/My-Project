@@ -40,7 +40,7 @@ def call_ares (params, redshifts):
     return spline(redshifts) 
 
 key = ['pop_rad_yield_0_', 'pop_rad_yield_2_', 'fesc', 'fX '] #list of parameters' names
-curves = np.empty(np.shape(params)[0], len(z_e))
+curves = np.empty((np.shape(params)[0], len(z_e)))
 for i in range(np.shape(params)[0]):
     curves[i, :] = call_ares(list_to_dict(params[i, :], key), z_e)
 

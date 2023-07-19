@@ -1,7 +1,5 @@
 #!/bin/bash 
-
 #SBATCH --account=def-oscarh
-
 # set the number of nodes
 #SBATCH --nodes=1
 
@@ -11,7 +9,7 @@
 #SBATCH --time=20:00:00
 
 # set name of job
-#SBATCH --job-name=simple_mcmc
+#SBATCH --job-name=edges_two
 
 #SBATCH --mail-type=FAIL
 
@@ -22,11 +20,11 @@
 #SBATCH --mail-user=aryana.haghjoo@mail.mcgill.ca
 
 # set the output directory to the project directory
-#SBATCH --output=/scratch/o/oscarh/aryanah/mcmc_simple/job_out.out
+#SBATCH --output=/scratch/o/oscarh/aryanah/job_out_4.out
 
 module load python/3.9
 source ~/.virtualenvs/ares/bin/activate 
 export PYTHONPATH="/home/o/oscarh/aryanah/ares"
 
-cd /home/o/oscarh/aryanah/My-Project/code_final/edges
-python mcmc_simple.py
+cd /home/o/oscarh/aryanah/My-Project/code_final/sigma_curves
+python edges_two.py
