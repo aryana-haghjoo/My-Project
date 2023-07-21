@@ -11,7 +11,7 @@ model_e = data_1.iloc[:, 5] #model, mK
 
 #converting the data from mK to K
 model_e = model_e*1000
-model_e = model_e/2
+model_e = model_e
 
 #Changing the axis from frequency to redshift
 v_0 = 1420.4057 #MHz, frequency of 21cm line from Pritchard, 2006
@@ -37,14 +37,17 @@ def list_to_dict(value, key): #converts two lists (key and value) to a dictionar
 
 def call_ares (params, redshifts): 
     #params should be a dictionary
-    sim = ares.simulations.Global21cm(**params, verbose=False, progress_bar=False)
+    m_factor = params['m_factor'] #mulplication factor is >1 and will be multplied to ARES results to match the data
+    params_new = remove_element(params, 'm_factor')
+    sim = ares.simulations.Global21cm(**params_new, verbose=False, progress_bar=False)
     sim.run()
     z = sim.history['z'][::-1]
     dTb = sim.history['dTb'][::-1]
     z = z[z<50]
     dTb = dTb[:len(z)]
-    spline = CubicSpline(z, dTb)   
-    return spline(redshifts) 
+    spline = CubicSpline(z, dTb)  
+    T = spline(redshifts) * m_factor 
+    return T
 
 def ares_deriv (m, z, d = 1/(4E5)): 
     #I can further change this function to include the best dx - 4*int(1E5) is the best number I found so far
@@ -128,20 +131,19 @@ def LM(m, fun, x, y, Ninv, niter=10, chitol= 1):
         print('new params ', m_new)
                 
     return m
-
  
 dict_start = {'pop_rad_yield_0_': 1E4, 'pop_rad_yield_2_': 1E3, 'fesc': 0.1, 'fX': 0.1, 'm_factor': 2} 
-m_start, key = dict_to_list(dict_true)
+m_start, key = dict_to_list(dict_start)
 err = 1E1 #mk
 Ninv = ((err)**(-2))*np.eye(len(z_e))
 
 m_fit = LM(m_start, ares_deriv, z_e, model_e, Ninv, niter=20, chitol= 1)
 chisq_f, lhs_f, rhs_f = get_matrices(m_fit, ares_deriv, z_e, model_e, Ninv)
 mycovinv = lhs_f
-mycov= np.linalg.inv(mycov)
+mycov= np.linalg.inv(mycovinv)
 
 txt = open('cov_mat_new.txt','w')
-txt.write('Starting Point: ' + repr(m_true) + '\n')
+txt.write('Starting Point: ' + repr(m_start) + '\n')
 txt.write('Best-fit Point: ' + repr(m_fit) + '\n')
 txt.write('Chi-Square at the best-fit point: ' +repr(chisq_f) + '\n')
 txt.write('Covariance Matrix: ' + repr(mycov) + '\n')
