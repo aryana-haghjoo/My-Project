@@ -1,5 +1,5 @@
 # My-Project
-This repository works sotes my master thesis codes and documents.
+This repository stores my master thesis codes and documents.
 
 In the temp brach, I push new documents before merging them to main.
 
